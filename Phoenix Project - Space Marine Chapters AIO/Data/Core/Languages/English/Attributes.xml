@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="RavenGuard/InfluenceHint" value="<style name='Title'/>Influence<br/><style name='Default'/>Used to acquire and maintain city tiles, invoke tactics and operations as well as recruit powerful hero units and purchase their items."/>
+	<entry name="RavenGuard/RequisitionsHint" value="<style name='Title'/>Requisitions<br/><style name='Default'/>Used to sustain the population in the city, construct buildings as well as produce and maintain units."/>
+</language>

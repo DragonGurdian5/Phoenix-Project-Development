@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="RavenGuard0" value="Shadow Wardens"/>
+	<entry name="RavenGuard1" value="Kaed's Talon"/>
+	<entry name="RavenGuard2" value="Solari's Talon"/>
+	<entry name="RavenGuard3" value="Solaq's Talon"/>
+	<entry name="RavenGuard4" value="Qeld's Talon"/>
+	<entry name="RavenGuard5" value="Torvaec's Talon"/>
+	<entry name="RavenGuard6" value="Moradus's Talon"/>
+	<entry name="RavenGuard7" value="Ordus's Talon"/>
+	<entry name="RavenGuard8" value="Karavyn's Talon"/>
+	<entry name="RavenGuard9" value="Slyte's Talon"/>
+	<entry name="RavenGuard10" value="Drysk's Talon"/>
+	<entry name="RavenGuard11" value="Keskyl's Talon"/>
+	<entry name="RavenGuardCount" value="12"/>
+</language>

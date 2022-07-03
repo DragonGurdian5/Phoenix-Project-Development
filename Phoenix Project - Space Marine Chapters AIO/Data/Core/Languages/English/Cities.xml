@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="RavenGuard" value="<string name='Factions/RavenGuard'/>"/>
+	<entry name="RavenGuard0" value="Wings of Corax"/>
+	<entry name="RavenGuard1" value="Shadowmaw"/>
+	<entry name="RavenGuard2" value="Shadow of Gladius"/>
+	<entry name="RavenGuard3" value="Umbral Hall"/>
+	<entry name="RavenGuard4" value="Bastion of Silence"/>
+	<entry name="RavenGuard5" value="Silent Fortress"/>
+	<entry name="RavenGuardCount" value="6"/>
+</language>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<!-- Vanilla Faction Defeats and Discoveries -->
+	<entry name="AdeptusMechanicusDefeatedRavenGuard" value="Priest Dominus reports: All inferior meatbags eliminated. Glory to the Omnissiah. Reports of treachery and non-compliance of chapter will be submitted to Administratum. The Quest for Knowledge continues uninterrupted once more."/>
+	<entry name="AdeptusMechanicusDiscoveredRavenGuard" value="Skitarii reports: Adeptus Astartes in the area. The Warp Storm has them trapped here as well. Solution: Prevent them from learning the Knowledge the Omnissiah has blessed us with. They will not stop the Quest for Knowledge with their meatbag bodies."/>
+
+	<entry name="AstraMilitarumDefeatedRavenGuard" value="It is a sad day when the Angels of the Emperor must die by our blades. Though they may be defeated for now, the Sons of Corax are masters of Stealth. Be wary, more shall be lurking around the darkest corners and where the light is dim. Don't assume you have won the day if they retreat, they have simply begun to corner you. Stay vigilant."/>
+	<entry name="AstraMilitarumDiscoveredRavenGuard" value="It is the Sons of Corax! Oh Glorious Days! The Angels of the Emperor have arrived to... by the Emperor... They're aiming at us! Hold men! Hold the line and give fire! If these Angels of Death wish to strike against the Emperor's Hammer, they will be slamemd like nails!"/>
+
+	<entry name="ChaosSpaceMarinesDefeatedRavenGuard" value=""/>
+	<entry name="ChaosSpaceMarinesDiscoveredRavenGuard" value=""/>
+
+	<entry name="EldarDefeatedRavenGuard" value=""/>
+	<entry name="EldarDiscoveredRavenGuard" value=""/>
+
+	<entry name="NecronsDefeatedRavenGuard" value=""/>
+	<entry name="NecronsDiscoveredRavenGuard" value=""/>
+
+	<entry name="OrksDefeatedRavenGuard" value=""/>
+	<entry name="OrksDiscoveredRavenGuard" value=""/>
+
+	<entry name="SpaceMarinesDefeatedRavenGuard" value=""/>
+	<entry name="SpaceMarinesDiscoveredRavenGuard" value=""/>
+
+	<entry name="TauDefeatedRavenGuard" value="While the Gue'la elite caused the spread of the Greater Good to slow, it does not impeed our progress too much. With proper drones and techniques, we can - and have - conquered them."/>
+	<entry name="TauDiscoveredRavenGuard" value="These Gue'la elite stand the same height as their caste, but they stay in the shadows and strike when we stop looking. Follow the teachings of the Monat Kais - engage them only at distance, and keep your surroundings at all times."/>
+
+	<entry name="TyranidsDefeatedRavenGuard" value="Our Prey decided to hold their ground and did so in vain, just for turning into fuel and more bodies for the hive. Honor matters nothing in the face of survival. Next time, will they finally learn what lurks in the darkness is beyond them?"/>
+	<entry name="TyranidsDiscoveredRavenGuard" value="A tougher prey has been found. Conventional minor organisms have been proven ineffective against their armor and combat effectiveness. Their numbers should not be underestimated as well. However, it is nothing that cannot be overcome. Let them realize who is the hunter here. No underdeveloped genetic enhancement shall stop the swarm."/>
+
+	<!-- Faction Defeats -->
+	<entry name="RavenGuardDefeatedAdeptusMechanicus" value=""/>
+	<entry name="RavenGuardDefeatedAstraMilitarum" value=""/>
+	<entry name="RavenGuardDefeatedChaosSpaceMarines" value=""/>
+	<entry name="RavenGuardDefeatedEldar" value=""/>
+	<entry name="RavenGuardDefeatedNecrons" value=""/>
+	<entry name="RavenGuardDefeatedOrks" value=""/>
+	<entry name="RavenGuardDefeatedSpaceMarines" value=""/>
+	<entry name="RavenGuardDefeatedTau" value=""/>
+	<entry name="RavenGuardDefeatedTyranids" value=""/>
+	<entry name="RavenGuardDefeatedRavenGuard" value=""/>
+
+	<!-- Faction Discoveries -->
+	<entry name="RavenGuardDiscoveredAdeptusMechanicus" value=""/>
+	<entry name="RavenGuardDiscoveredAstraMilitarum" value=""/>
+	<entry name="RavenGuardDiscoveredChaosSpaceMarines" value=""/>
+	<entry name="RavenGuardDiscoveredEldar" value=""/>
+	<entry name="RavenGuardDiscoveredNecrons" value=""/>
+	<entry name="RavenGuardDiscoveredOrks" value=""/>
+	<entry name="RavenGuardDiscoveredSpaceMarines" value=""/>
+	<entry name="RavenGuardDiscoveredTau" value=""/>
+	<entry name="RavenGuardDiscoveredTyranids" value=""/>
+	<entry name="RavenGuardDiscoveredRavenGuard" value=""/>
+
+	<!-- Faction Flavors -->
+	<entry name="RavenGuard" value="[SM] Raven Guard Chapter"/>
+	<entry name="RavenGuardProperties" value="<style name='Title'/>Silent Blades<br/><icon texture='GUI/Bullet'/><style name='Bold'/>Initial Challenge:<style name='Default'/> <style color='GUI/Green'/>Easy<style color='Default'/><br/><icon texture='GUI/Bullet'/><style name='Bold'/>Silent Fortress:<style name='Default'/> A single city that is deployed from orbit.<br/><icon texture='GUI/Bullet'/><style name='Bold'/>Requisitions:<style name='Default'/> Food and ore resources are replaced by a single soil-independent requisitions resource.<br/><icon texture='GUI/Bullet'/><style name='Bold'/>Battlebarge Operations:<style name='Default'/> Deploy tactical operations such as scans and bombardments anywhere on the battlefield.<br/><icon texture='GUI/Bullet'/><style name='Bold'/>Masters of Ambush:<style name='Default'/> Employ Ambush tactics with higher efficiency, when the terrain permits.<br/><icon texture='GUI/Bullet'/><style name='Bold'/>Shadowstep:<style name='Default'/> Use Stealth and Mobility to close with the Enemy, and sever the head from the body..."/>
+	<entry name="RavenGuardFlavor" value="<style name='Italic'/>“The First Axiom of Victory is to be other than where the enemy desire you to be. The First Axiom of Stealth is to be other than where the enemy believes you to be. The First Axiom of Freedom is that justice without force is powerless; force without justice is tyranny.”<br/> — Corvus Corax, Primarch of the Raven Guard"/>
+	<entry name="RavenGuardShortFlavor" value="Ninteenth among the twenty Legions of Humanity's Defenders, the Raven Guard adapt their iconic wargear in Asymmetrical Warfare."/>
+
+	<!-- Endgame Flavors -->
+	<entry name="RavenGuardWonEliminationFlavor" value=""/>
+	<entry name="RavenGuardLostFlavor" value=""/>
+
+	<!-- Compatability Discovery and Defeats -->
+	<entry name="RavenGuardDiscoveredIronWarriors" value=""/>
+	<entry name="RavenGuardDefeatedIronWarriors" value=""/>
+
+	<!-- Vanilla Faction Rename -->
+	<entry name="SpaceMarines" value="Adeptus Astartes (Generic)"/>
+
+</language>

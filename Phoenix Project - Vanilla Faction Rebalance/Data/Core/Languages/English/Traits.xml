@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+
+	<entry name="Tau/CalmShooting" value="Calm Shot"/>
+	<entry name="Tau/CalmShootingDescription" value="Doubles the attacks when over half range."/>
+
+</language>

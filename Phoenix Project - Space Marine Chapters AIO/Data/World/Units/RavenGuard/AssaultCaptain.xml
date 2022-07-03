@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<unit>
+	<model>
+		<unit mesh="Units/SpaceMarines/AssaultSpaceMarine"
+				material="Units/SpaceMarines/AssaultSpaceMarine"
+				idleAnimation="Units/SpaceMarines/AssaultSpaceMarineIdle"
+				idleAnimationCount="3"
+				idleContinuously="1"
+				normalWeight="0.1"
+				scale="1 1 1"
+				bloodBone="Chest"
+				walker="1"/>
+	</model>
+	<weapons>
+		<weapon name="PowerSword" slotName="PowerSword">
+			<model>
+				<powerWeapon effectBoundingVolume="Blade"
+						mesh="Weapons/SpaceMarines/RelicBlade"
+						material="Weapons/SpaceMarines/RelicBlade"
+						bone="RightHand"
+						fireInterval="0.5"/>
+			</model>
+		</weapon>
+		<weapon name="BoltPistol">
+			<model>
+				<projectileWeapon mesh="Weapons/SpaceMarines/CaptainBoltPistol"
+						material="Weapons/SpaceMarines/BoltPistol"
+						bone="LeftHand"
+						muzzleBone="Muzzle0"
+						fireInterval="0.35"/>
+			</model>
+		</weapon>
+		<weapon name="FragGrenade" slotName="FragGrenade" enabled="0">
+			<model>
+				<grenadeWeapon muzzleBone="RightHand"/>
+			</model>		
+		</weapon>
+		<weapon name="KrakGrenade" slotName="KrakGrenade" enabled="0">
+			<model>
+				<grenadeWeapon muzzleBone="RightHand"/>
+			</model>		
+		</weapon>
+	</weapons>
+	<modifiers>
+		<modifier visible="0">
+			<effects>
+				<armor base="10"/> <!-- %armor base armor=2+ -->
+				<hitpointsMax base="9.0"/> <!-- %hitpointsMax base toughness=4 wounds=3 -->
+				<influenceUpkeep base="4.0"/> <!-- %influenceUpkeep base tier=6 factor=2 -->
+				<influenceCost base="80.0"/> <!-- %influenceCost base tier=6 factor=2 -->
+				<itemSlots base="6"/>
+				<levelMax base="9"/>
+				<meleeAccuracy base="12"/> <!-- %meleeAccuracy base weaponSkill=6 -->
+				<meleeAttacks base="3"/>
+				<strengthDamage base="1.5"/> <!-- %strengthDamage base strength=4 -->
+				<!-- <meleeInitiative base="5"/> -->
+				<moraleMax base="12"/> <!-- %moraleMax base leadership=9 -->
+				<movementMax base="3"/>
+				<productionCost base="36.0"/> <!-- %productionCost base tier=6 factor=1 -->
+				<rangedAccuracy base="10"/> <!-- %rangedAccuracy base ballisticSkill=5 -->
+				<requisitionsUpkeep base="2.0"/> <!-- %requisitionsUpkeep base tier=6 factor=1 -->
+				<requisitionsCost base="40.0"/> <!-- %requisitionsCost base tier=6 factor=1 -->
+			</effects>
+		</modifier>
+		<modifier visible="0" requiredUpgrade="RavenGuard/MovementSpeed">
+			<effects>
+				<movementMax add="1.0"/>
+			</effects>
+		</modifier>
+	</modifiers>
+	<strategyModifiers>
+		<modifier>
+			<effects>
+				<increaseHeroesScore base="1.0"/>
+			</effects>
+		</modifier>
+	</strategyModifiers>
+	<actions>
+		<attack>
+			<model>
+				<action animation="Units/SpaceMarines/AssaultSpaceMarineAttack"
+						chargeAnimation="Units/SpaceMarines/AssaultSpaceMarineCharge"
+						chargeBeginFire="0.433"
+						chargeEndFire="1.3"						
+						chargeDefenseAnimation="Units/SpaceMarines/AssaultSpaceMarineChargeDefense"
+						chargeDefenseBeginFire="0.433"
+						chargeDefenseEndFire="1.3"						
+						meleeAnimation="Units/SpaceMarines/AssaultSpaceMarineMelee"
+						meleeBeginSwing="0.15"
+						meleeEndSwing="0.5"
+						meleeDefenseAnimation="Units/SpaceMarines/AssaultSpaceMarineMeleeDefense"
+						meleeDefenseBeginSwing="0.15"
+						meleeDefenseEndSwing="0.5"
+						beginFire="0.35"
+						endFire="2.5"/>
+			</model>				
+		</attack>
+		<die>
+			<model>
+				<action animation="Units/SpaceMarines/AssaultSpaceMarineDie"
+						animationCount="2"
+						sound="Units/MediumArmoredDie"
+						soundCount="4"
+						soundDelay="0.6"
+						voiceSound="Units/SpaceMarines/InfantryDie"
+						voiceSoundCount="5"/>
+			</model>		
+		</die>
+		<idle>
+			<model>
+				<action animationSpeed="1.0"/>
+			</model>
+		</idle>
+		<move>
+			<model>
+				<action animation="Units/SpaceMarines/AssaultSpaceMarineMove"
+						sound="Units/SpaceMarines/InfantryMove"
+						soundCount="4"/>
+			</model>				
+		</move>
+		<jumpPack cooldown="3">
+			<model>
+				<action animation="Units/SpaceMarines/AssaultSpaceMarineJumpMove"
+						sound="Actions/JumpPack"/>
+			</model>
+			<modifiers>
+				<modifier>
+					<effects>
+						<movement add="1"/>
+						<movementMax add="1"/>
+					</effects>
+				</modifier>
+			</modifiers>
+			<beginTargets>
+				<target>
+					<areas>
+						<area affects="Unit">
+							<modifiers>
+								<modifier requiredUpgrade="SpaceMarines/HammerOfWrath">
+									<effects>
+										<addTrait duration="1" name="HammerOfWrath"/>
+									</effects>
+								</modifier>
+							</modifiers>
+						</area>
+					</areas>
+				</target>
+			</beginTargets>
+		</jumpPack>
+		<throwGrenade weaponSlotName="FragGrenade" cooldown="10"
+				requiredUpgrade="SpaceMarines/FragGrenade">
+			<model>
+				<action animation="Units/SpaceMarines/CaptainGrenade"
+						beginFire="1.16666666667"/>
+			</model>				
+		</throwGrenade>
+		<throwGrenade weaponSlotName="KrakGrenade" cooldown="10"
+				requiredUpgrade="SpaceMarines/KrakGrenade">
+			<model>
+				<action animation="Units/SpaceMarines/CaptainGrenade"
+						beginFire="1.16666666667"/>
+			</model>				
+		</throwGrenade>
+		<orbitalDeployment requiredUpgrade="SpaceMarines/OrbitalDeployment">
+			<model>
+				<action sound="Actions/DropPod"/>
+			</model>
+			<modifiers>
+				<modifier visible="0">
+					<effects>
+						<influenceCost base="40"/>
+					</effects>
+				</modifier>
+			</modifiers>
+		</orbitalDeployment>
+		<levelUp/>
+		<shop/>
+	</actions>
+	<traits>
+		<trait name="RavenGuard/ScoutTraining" requiredUpgrade="RavenGuard/ScoutTraining"/>
+		<trait name="ExtraInfantryArmour" requiredUpgrade="RavenGuard/ExtraInfantryArmour"/>
+		<trait name="AndTheyShallKnowNoFear"/>
+		<trait name="Hero"/>
+		<trait name="IronHalo"/>
+		<trait name="RavenGuard/Wraithslip"/>
+		<trait name="RavenGuard/AmbushForest"/>
+		<trait name="RavenGuard/AmbushCity"/>
+		<trait name="RavenGuard/AmbushRuins"/>
+		<trait name="RavenGuard/ArtificerArmor"/>
+	</traits>
+</unit>

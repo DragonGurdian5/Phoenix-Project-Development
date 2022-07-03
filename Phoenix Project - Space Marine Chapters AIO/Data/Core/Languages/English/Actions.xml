@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="abyss" value="The Abyss"/>
+	<entry name="abyssDescription" value=""/>
+	<entry name="abyssFlavor" value=""/>
+	<entry name="umbralform" value="Umbral Form"/>
+	<entry name="umbralformDescription" value=""/>
+	<entry name="umbralformFlavor" value=""/>
+	<entry name="shadowstep" value="Shadowstep"/>
+	<entry name="shadowstepDescription" value=""/>
+	<entry name="shadowstepFlavor" value=""/>
+
+	<entry name="RavenGuard/deployChapterMaster" value="<string name='Actions/DeployUnit'/>"/>
+	<entry name="RavenGuard/deployChapterMasterHint" value="<string name='Actions/DeployUnitHint'/>"/>
+
+</language>

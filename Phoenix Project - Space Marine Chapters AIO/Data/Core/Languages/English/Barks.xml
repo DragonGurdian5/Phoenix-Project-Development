@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<!-- Apothecary -->
+	<entry name="RavenGuard/Apothecary:Attack#0" value="These don't only heal."/>
+	<entry name="RavenGuard/Apothecary:AttackCount" value="1"/>
+	<entry name="RavenGuard/Apothecary:Broken#0" value="I cannot leave the gene-seed!"/>
+	<entry name="RavenGuard/Apothecary:BrokenCount" value="1"/>
+	<entry name="RavenGuard/Apothecary:Hurt#0" value="Patching myself up."/>
+	<entry name="RavenGuard/Apothecary:HurtCount" value="1"/>
+
+	<entry name="RavenGuard/Apothecary:Idle#0" value="Apothecary on call."/>
+	<entry name="RavenGuard/Apothecary:Idle#1" value="Docs don't need downtime."/>
+	<entry name="RavenGuard/Apothecary:Idle#2" value="Reductor practise."/>
+	<entry name="RavenGuard/Apothecary:Idle#3" value="The progenoid's connected to the Betchers and the Sus-an…"/>
+	<entry name="RavenGuard/Apothecary:IdleCount" value="4"/>
+
+	<entry name="RavenGuard/Apothecary:Shaken#0" value="Good news! I'm not dead."/>
+	<entry name="RavenGuard/Apothecary:ShakenCount" value="1"/>
+
+	<entry name="RavenGuard/Apothecary:Victory#0" value="They're dead! I'm not sure this is the best use of my time!"/>
+	<entry name="RavenGuard/Apothecary:VictoryCount" value="1"/>
+
+	<!-- Captain -->
+	<entry name="RavenGuard/Captain:Attack#0" value="Die happy scum, knowing you died at my hand!"/>
+	<entry name="RavenGuard/Captain:Attack#1" value="Eat boltgun."/>
+	<entry name="RavenGuard/Captain:Attack#2" value="For the Emperor!"/>
+	<entry name="RavenGuard/Captain:Attack#3" value="You are facing a Space Marine captain. Surrender now, for a quick death."/>
+	<entry name="RavenGuard/Captain:Attack#4" value="Corax awaits."/>
+	<entry name="RavenGuard/Captain:Attack#5" value="My faith is my shield!"/>
+	<entry name="RavenGuard/Captain:AttackCount" value="6"/>
+
+	<entry name="RavenGuard/Captain:Broken#0" value="Emperor preserve us!"/>
+	<entry name="RavenGuard/Captain:BrokenCount" value="1"/>
+
+	<entry name="RavenGuard/Captain:Hurt#0" value="I must focus…?"/>
+	<entry name="RavenGuard/Captain:HurtCount" value="1"/>
+
+	<entry name="RavenGuard/Captain:Idle#0" value="I should be leading from the front."/>
+	<entry name="RavenGuard/Captain:Idle#1" value="Inspirational speeches don't write themselves."/>
+	<entry name="RavenGuard/Captain:Idle#2" value="We must save humanity from itself."/>
+	<entry name="RavenGuard/Captain:Idle#3" value="Why here? Why Gladius? Are we being tested?"/>
+	<entry name="RavenGuard/Captain:IdleCount" value="4"/>
+
+	<entry name="RavenGuard/Captain:Shaken#0" value="I bend to no-one!"/>
+	<entry name="RavenGuard/Captain:ShakenCount" value="1"/>
+
+	<entry name="RavenGuard/Captain:Victory#0" value="Thus fall all enemies of the Golden Throne!"/>
+	<entry name="RavenGuard/Captain:VictoryCount" value="1"/>
+	
+	<entry name="RavenGuard/AssaultCaptain:Attack#0" value="Die happy scum, knowing you died at my hand!"/>
+	<entry name="RavenGuard/AssaultCaptain:Attack#1" value="Eat boltgun."/>
+	<entry name="RavenGuard/AssaultCaptain:Attack#2" value="For the Emperor!"/>
+	<entry name="RavenGuard/AssaultCaptain:Attack#3" value="You are facing a Space Marine captain. Surrender now, for a quick death."/>
+	<entry name="RavenGuard/AssaultCaptain:Attack#4" value="Corax awaits."/>
+	<entry name="RavenGuard/AssaultCaptain:Attack#5" value="My faith is my shield!"/>
+	<entry name="RavenGuard/AssaultCaptain:AttackCount" value="6"/>
+
+	<entry name="RavenGuard/AssaultCaptain:Broken#0" value="Emperor preserve us!"/>
+	<entry name="RavenGuard/AssaultCaptain:BrokenCount" value="1"/>
+
+	<entry name="RavenGuard/AssaultCaptain:Hurt#0" value="I must focus…?"/>
+	<entry name="RavenGuard/AssaultCaptain:HurtCount" value="1"/>
+
+	<entry name="RavenGuard/AssaultCaptain:Idle#0" value="I should be leading from the front."/>
+	<entry name="RavenGuard/AssaultCaptain:Idle#1" value="Inspirational speeches don't write themselves."/>
+	<entry name="RavenGuard/AssaultCaptain:Idle#2" value="We must save humanity from itself."/>
+	<entry name="RavenGuard/AssaultCaptain:Idle#3" value="Why here? Why Gladius? Are we being tested?"/>
+	<entry name="RavenGuard/AssaultCaptain:IdleCount" value="4"/>
+
+	<entry name="RavenGuard/AssaultCaptain:Shaken#0" value="I bend to no-one!"/>
+	<entry name="RavenGuard/AssaultCaptain:ShakenCount" value="1"/>
+
+	<entry name="RavenGuard/AssaultCaptain:Victory#0" value="Thus fall all enemies of the Golden Throne!"/>
+	<entry name="RavenGuard/AssaultCaptain:VictoryCount" value="1"/>
+
+	<!-- Chaplain -->
+	<entry name="RavenGuard/Chaplain:Attack#0" value="Be blessed by the Crozius!"/>
+	<entry name="RavenGuard/Chaplain:Attack#1" value="I will make you believe!"/>
+	<entry name="RavenGuard/Chaplain:Attack#2" value="In nomine Imperator!"/>
+	<entry name="RavenGuard/Chaplain:AttackCount" value="3"/>
+
+	<entry name="RavenGuard/Chaplain:Broken#0" value="Not one step back!"/>
+	<entry name="RavenGuard/Chaplain:BrokenCount" value="1"/>
+
+	<entry name="RavenGuard/Chaplain:Hurt#0" value="Though I suffer their blows, I shall not fall."/>
+	<entry name="RavenGuard/Chaplain:HurtCount" value="1"/>
+
+	<entry name="RavenGuard/Chaplain:Idle#0" value="Death has no terror save that our work will be incomplete."/>
+	<entry name="RavenGuard/Chaplain:Idle#1" value="Give your life to the Emperor, it shall not be in vain."/>
+	<entry name="RavenGuard/Chaplain:Idle#2" value="There is no peace whilst our foes live."/>
+	<entry name="RavenGuard/Chaplain:Idle#3" value="We spit our defiance to the end."/>
+	<entry name="RavenGuard/Chaplain:IdleCount" value="4"/>
+
+	<entry name="RavenGuard/Chaplain:Shaken#0" value="For a warrior, the only crime is cowardice."/>
+	<entry name="RavenGuard/Chaplain:ShakenCount" value="1"/>
+
+	<entry name="RavenGuard/Chaplain:Victory#0" value="Faith is stronger than adamantium."/>
+	<entry name="RavenGuard/Chaplain:VictoryCount" value="1"/>
+
+	<!-- Headquarters -->
+	<entry name="RavenGuard/Headquarters:Attack#0" value="Break yourselves on our defences!"/>
+	<entry name="RavenGuard/Headquarters:Attack#1" value="Fools, to attack an Adeptus Astartes stronghold."/>
+	<entry name="RavenGuard/Headquarters:Attack#2" value="Fortress Commander here. Firing."/>
+	<entry name="RavenGuard/Headquarters:Attack#3" value="Why not try walking in the front door?"/>
+	<entry name="RavenGuard/Headquarters:AttackCount" value="4"/>
+
+	<entry name="RavenGuard/Headquarters:Broken#0" value="Our Chapter will. NOT. Fall."/>
+	<entry name="RavenGuard/Headquarters:BrokenCount" value="1"/>
+
+	<entry name="RavenGuard/Headquarters:Hurt#0" value="Fortress is breached, repeat Fortress is breached."/>
+	<entry name="RavenGuard/Headquarters:HurtCount" value="1"/>
+
+	<entry name="RavenGuard/Headquarters:Idle#0" value="All quiet on the home front."/>
+	<entry name="RavenGuard/Headquarters:Idle#1" value="Commander, we're ready for anything."/>
+	<entry name="RavenGuard/Headquarters:Idle#2" value="Litanies are being read in the Reclusiam."/>
+	<entry name="RavenGuard/Headquarters:Idle#3" value="Serfs are hard at work."/>
+	<entry name="RavenGuard/Headquarters:IdleCount" value="4"/>
+
+	<entry name="RavenGuard/Headquarters:Shaken#0" value="Recall all the units to the Fortress!"/>
+	<entry name="RavenGuard/Headquarters:ShakenCount" value="1"/>
+
+	<entry name="RavenGuard/Headquarters:Victory#0" value="Invaders eliminated."/>
+	<entry name="RavenGuard/Headquarters:VictoryCount" value="1"/>
+
+	<!-- Librarian -->
+	<entry name="RavenGuard/Librarian:Attack#0" value="Let me gaze into your future… ah. It's short."/>
+	<entry name="RavenGuard/Librarian:Attack#1" value="I have a gift. It would be churlish not to share it…"/>
+	<entry name="RavenGuard/Librarian:Attack#2" value="Snap go my fingers… snap go your bones."/>
+	<entry name="RavenGuard/Librarian:AttackCount" value="3"/>
+
+	<entry name="RavenGuard/Librarian:Broken#0" value="I can hear the daemon, howling in my ears."/>
+	<entry name="RavenGuard/Librarian:BrokenCount" value="1"/>
+
+	<entry name="RavenGuard/Librarian:Hurt#0" value="Physical pain is nothing compared to eternal damnation."/>
+	<entry name="RavenGuard/Librarian:HurtCount" value="1"/>
+
+	<entry name="RavenGuard/Librarian:Idle#0" value="Blessed is the mind too small for doubt."/>
+	<entry name="RavenGuard/Librarian:Idle#1" value="The warp holds no fear for me."/>
+	<entry name="RavenGuard/Librarian:Idle#2" value="The warp storm… sometimes the pain is nigh unbearable."/>
+	<entry name="RavenGuard/Librarian:Idle#3" value="When this is over… the Librarium calls."/>
+	<entry name="RavenGuard/Librarian:IdleCount" value="4"/>
+
+	<entry name="RavenGuard/Librarian:Shaken#0" value="The lore has nothing about this…"/>
+	<entry name="RavenGuard/Librarian:ShakenCount" value="1"/>
+
+	<entry name="RavenGuard/Librarian:Victory#0" value="Their failure was foreseen."/>
+	<entry name="RavenGuard/Librarian:VictoryCount" value="1"/>
+
+	<!-- Tactical Marine -->
+	<entry name="RavenGuard/TacticalSpaceMarine:Artefact#0" value="What is that foul xenos device?"/>
+	<entry name="RavenGuard/TacticalSpaceMarine:ArtefactCount" value="1"/>
+	<entry name="RavenGuard/TacticalSpaceMarine:Attack#0" value="Eat boltgun!"/>
+	<entry name="RavenGuard/TacticalSpaceMarine:Attack#1" value="Engaging the enemy!"/>
+	<entry name="RavenGuard/TacticalSpaceMarine:Attack#2" value="For the Chapter!"/>
+	<entry name="RavenGuard/TacticalSpaceMarine:Attack#3" value="I am your salvation!"/>
+	<entry name="RavenGuard/TacticalSpaceMarine:Attack#4" value="Space Marines, attack!"/>
+	<entry name="RavenGuard/TacticalSpaceMarine:Attack#5" value="Taste the Emperor's fury!"/>
+	<entry name="RavenGuard/TacticalSpaceMarine:Attack#6" value="We are the Shadowed Blades."/>
+	<entry name="RavenGuard/TacticalSpaceMarine:Attack#7" value="Victorus aut Mortis!"/>
+	<entry name="RavenGuard/TacticalSpaceMarine:AttackCount" value="8"/>
+
+	<entry name="RavenGuard/TacticalSpaceMarine:Broken#0" value="Fall back to the prepared defenses!"/>
+	<entry name="RavenGuard/TacticalSpaceMarine:Broken#1" value="Fight to the last marine!"/>
+	<entry name="RavenGuard/TacticalSpaceMarine:Broken#2" value="Preserve the gene-seed!"/>
+	<entry name="RavenGuard/TacticalSpaceMarine:Broken#3" value="We bring shame upon our Chapter!"/>
+	<entry name="RavenGuard/TacticalSpaceMarine:Broken#4" value="I miss Gene-dad…"/>
+	<entry name="RavenGuard/TacticalSpaceMarine:BrokenCount" value="5"/>
+
+	<entry name="RavenGuard/TacticalSpaceMarine:Cover#0" value="The Emperor protects those who protect themselves."/>
+	<entry name="RavenGuard/TacticalSpaceMarine:CoverCount" value="1"/>
+
+	<entry name="RavenGuard/TacticalSpaceMarine:Hurt#0" value="We will stand until the last Marine."/>
+	<entry name="RavenGuard/TacticalSpaceMarine:Hurt#1" value="We… will… not… fall!"/>
+	<entry name="RavenGuard/TacticalSpaceMarine:Hurt#2" value="Victorus… aut… Mortis."/>
+	<entry name="RavenGuard/TacticalSpaceMarine:HurtCount" value="3"/>
+
+	<entry name="RavenGuard/TacticalSpaceMarine:Idle#0" value="Burn the heretic."/>
+	<entry name="RavenGuard/TacticalSpaceMarine:Idle#1" value="Let them come…."/>
+	<entry name="RavenGuard/TacticalSpaceMarine:Idle#2" value="So many Xenos… so few bolts."/>
+	<entry name="RavenGuard/TacticalSpaceMarine:Idle#3" value="We are the Sons of Corax."/>
+	<entry name="RavenGuard/TacticalSpaceMarine:Idle#4" value="At the Commander's order."/>
+	<entry name="RavenGuard/TacticalSpaceMarine:Idle#5" value="We must not meddle with these xenos artefacts."/>
+	<entry name="RavenGuard/TacticalSpaceMarine:Idle#6" value="Orders?"/>
+	<entry name="RavenGuard/TacticalSpaceMarine:IdleCount" value="7"/>
+
+	<entry name="RavenGuard/TacticalSpaceMarine:Shaken#0" value="…blessed is the mind too small for doubt."/>
+	<entry name="RavenGuard/TacticalSpaceMarine:Shaken#1" value="Against this darkness, we shall prevail."/>
+	<entry name="RavenGuard/TacticalSpaceMarine:Shaken#2" value="I am an unbreakable shield, forged against the darkness."/>
+	<entry name="RavenGuard/TacticalSpaceMarine:Shaken#3" value="I believe in the Emperor!"/>
+	<entry name="RavenGuard/TacticalSpaceMarine:Shaken#4" value="Whilst our enemies draw breath, we cannot afford fear."/>
+	<entry name="RavenGuard/TacticalSpaceMarine:ShakenCount" value="5"/>
+
+	<entry name="RavenGuard/TacticalSpaceMarine:Victory#0" value="All xenos and traitors are blights, to be cleansed from the galaxy."/>
+	<entry name="RavenGuard/TacticalSpaceMarine:Victory#1" value="We fight, we prevail."/>
+	<entry name="RavenGuard/TacticalSpaceMarine:Victory#2" value="Death at our hands is no dishonour."/>
+	<entry name="RavenGuard/TacticalSpaceMarine:Victory#3" value="In the Emperor's name."/>
+	<entry name="RavenGuard/TacticalSpaceMarine:Victory#4" value="My fist, clenched tight in ceramite, smashes with the force of a Chapter."/>
+	<entry name="RavenGuard/TacticalSpaceMarine:Victory#5" value="So fall all enemies of the Imperium."/>
+	<entry name="RavenGuard/TacticalSpaceMarine:Victory#6" value="Through the destruction of our enemies do we earn our salvation."/>
+	<entry name="RavenGuard/TacticalSpaceMarine:Victory#7" value="We are the Emperor's vengeance, made flesh."/>
+	<entry name="RavenGuard/TacticalSpaceMarine:VictoryCount" value="8"/>
+
+	<!-- Other-Unit Calls -->
+	<entry name="RavenGuard/Terminator" value="RavenGuard/TacticalSpaceMarine"/>
+	<entry name="RavenGuard/AssaultSpaceMarine" value="RavenGuard/TacticalSpaceMarine"/>
+	<entry name="RavenGuard/DevastatorSpaceMarine" value="RavenGuard/TacticalSpaceMarine"/>
+	<entry name="RavenGuard/Scout" value="RavenGuard/TacticalSpaceMarine"/>
+</language>

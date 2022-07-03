@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<building>
+	<modifiers>
+		<modifier visible="0">
+			<effects>
+				<productionCost base="36"/>
+				<requisitionsCost base="50"/>
+				<populationRequired base="1"/>
+				<slotsRequired base="1"/>
+				<energyUpkeep add="2"/>
+			</effects>
+		</modifier>
+		<modifier>
+			<effects>
+				<populationLimit add="1"/>
+				<production add="6"/>
+				<research add="2"/>
+			</effects>
+		</modifier>
+	</modifiers>
+	<productionModifiers>
+		<modifier>
+			<effects>
+				
+			</effects>
+		</modifier>
+	</productionModifiers>
+	<strategyModifiers>
+		<modifier>
+			<effects>
+				<increaseInfantryProductionScore base="1.0"/>
+			</effects>
+		</modifier>
+	</strategyModifiers>
+	<actions>
+		<produceUnit unit="RavenGuard/TacticalSpaceMarine"/>
+		<produceUnit unit="RavenGuard/Scout" requiredUpgrade="RavenGuard/Scout"/>
+		<produceUnit unit="RavenGuard/AssaultSpaceMarine" requiredUpgrade="RavenGuard/AssaultSpaceMarine"/>
+		<produceUnit unit="RavenGuard/DevastatorSpaceMarine" requiredUpgrade="RavenGuard/DevastatorSpaceMarine"/>
+		<produceUnit unit="RavenGuard/Apothecary" requiredUpgrade="RavenGuard/Apothecary"/>
+		<produceUnit unit="RavenGuard/Terminator" requiredUpgrade="RavenGuard/Terminator"/>
+		<produceUnit unit="RavenGuard/VeteranSquad" requiredUpgrade="RavenGuard/VeteranSquad"/>
+		<produceUnit unit="RavenGuard/VeteranAssault" requiredUpgrade="RavenGuard/VeteranAssault"/>
+	</actions>
+</building>

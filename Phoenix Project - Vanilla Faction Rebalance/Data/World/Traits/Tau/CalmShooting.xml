@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<trait category="Buff">
+	<modifiers>
+		<modifier>
+			<conditions>
+				<unit>
+					<notMovedThisTurn/>
+				</unit>
+				<encounterRange greater="2"/>
+			</conditions>
+			<effects>
+				<rangedAttacks mul="2"/>
+			</effects>
+		</modifier>
+	</modifiers>
+</trait>

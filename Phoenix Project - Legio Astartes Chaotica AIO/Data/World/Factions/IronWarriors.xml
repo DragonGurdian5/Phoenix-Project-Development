@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<faction actionsTitle="GUI/Siegecraft"
+		buildingVariations="3"
+		constructSound="Actions/Construct"
+		dlc="Supplement3"
+		energy="1"
+		energyPooling="0.25"
+		food="1"
+		foodPooling="0.25"
+		influence="1"
+		loyalty="1"
+		ore="1"
+		playable="1"
+		production="1"
+		research="1"
+		startingEnergy="25"
+		startingFood="25"
+		startingInfluence="75"
+		startingOre="50">
+	<music>
+		<track name="Music/AdeptusMechanicusBGM" dlc="Supplement9"/>
+		<track name="Music/AdeptusMechanicusTheme" dlc="Supplement9"/>
+		<track name="Music/AstraMilitarumBGM"/>
+		<track name="Music/AstraMilitarumTheme"/>
+		<track name="Music/BGM0"/>
+		<track name="Music/BGM1"/>
+		<mainTrack name="Music/ChaosSpaceMarinesBGM" dlc="Supplement3"/>
+		<track name="Music/ChaosSpaceMarinesTheme" dlc="Supplement3"/>
+		<track name="Music/EldarBGM" dlc="Supplement7"/>
+		<track name="Music/EldarTheme" dlc="Supplement7"/>
+		<track name="Music/MainBGM"/>
+		<track name="Music/MainTheme"/>
+		<track name="Music/NecronsBGM"/>
+		<track name="Music/NecronsTheme"/>
+		<track name="Music/OrksBGM"/>
+		<track name="Music/OrksTheme"/>
+		<track name="Music/SpaceMarinesBGM"/>
+		<track name="Music/SpaceMarinesTheme"/>
+		<track name="Music/TauBGM" dlc="Supplement5"/>
+		<track name="Music/TauTheme" dlc="Supplement5"/>
+		<track name="Music/TyranidsBGM" dlc="Supplement2"/>
+		<track name="Music/TyranidsTheme" dlc="Supplement2"/>
+	</music>
+	<actions>
+		<webwayRedoubt
+				name="IronWarriors/WebwayRedoubt"
+				icon="Actions/IronWarriors/WebwayRedoubt"
+				charges="3">
+			<modifiers>
+				<modifier visible="0">
+					<effects>
+						<influenceCost base="50"/>
+					</effects>
+				</modifier>
+			</modifiers>
+			<beginTargets>
+				<target rangeMax="-1">
+					<conditions>
+						<tile>
+							<noFeatureCategory name="Resource"/>
+							<noFeatureCategory name="WireWeed"/>
+							<land/>
+							<noEnemyCity/>
+							<noUnit/>
+							<noFeature name="GravityWaves"/>
+						</tile>
+					</conditions>
+					<areas>
+						<area affects="Unit">
+							<modifiers>
+								<modifier>
+									<effects>
+										<removeUnit/>
+									</effects>
+								</modifier>
+							</modifiers>
+						</area>
+						<area affects="Tile">
+							<modifiers>
+								<modifier>
+									<effects>
+										<foundCity/>
+									</effects>
+								</modifier>
+							</modifiers>
+						</area>
+					</areas>
+				</target>
+			</beginTargets>
+		</webwayRedoubt>
+		<convertWildlife cooldown="5"
+			name="IronWarriors/convertWildlife">
+			<model>
+				<action sound="Actions/ConvertWildlife"/>
+			</model>
+			<beginTargets>
+				<target rangeMax="-1">
+					<conditions>
+						<unit>
+							<enemy/>
+							<noTrait name="Enslaved"/>
+						</unit>
+						<unit match="Any">
+							<type name="IronWarriors/ChaosCultist"/>
+						</unit>
+					</conditions>
+					<areas>
+						<area affects="Unit">
+							<modifiers>
+								<modifier>
+									<effects>
+										<changePlayer/>
+									</effects>
+								</modifier>
+							</modifiers>
+						</area>
+					</areas>
+				</target>
+			</beginTargets>
+		</convertWildlife>
+		<deployFortress charges="1"
+				cooldownScalesWithPace="1"
+				icon="Actions/IronWarriors/deployLordOfIron"
+				scaleInfluenceCost="1"
+				unit="IronWarriors/LordOfIron"
+				requiredUpgrade="IronWarriors/LordOfIron">
+			<model>
+				<action sound="Actions/DropPod"/>
+			</model>
+			<modifiers>
+				<modifier visible="0">
+					<effects>
+						<influenceCost base="100"/>
+					</effects>
+				</modifier>
+			</modifiers>
+			<beginTargets>
+				<target rangeMax="-1">
+					<conditions>
+						<tile>
+							<noFeatureCategory name="Resource"/>
+							<noFeatureCategory name="WireWeed"/>
+							<land/>
+							<noEnemyCity/>
+							<noUnit/>
+							<noFeature name="GravityWaves"/>
+						</tile>
+					</conditions>
+				</target>
+			</beginTargets>
+		</deployFortress>
+	</actions>
+	<startingUnits>
+		<unit type="IronWarriors/ChaosSpaceMarine" count="1"/>
+		<unit type="IronWarriors/ChaosCultist" count="3"/>
+	</startingUnits>
+</faction>

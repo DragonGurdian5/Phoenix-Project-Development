@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<upgrade position="6"
+		icon="Units/RavenGuard/SternguardVeteran">
+	<requiredUpgrades>
+		<upgrade name="RavenGuard/CompanyCommand"/>
+	</requiredUpgrades>
+</upgrade>

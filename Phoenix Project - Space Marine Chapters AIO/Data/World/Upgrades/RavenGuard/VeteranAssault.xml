@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<upgrade position="6"
+		icon="Units/RavenGuard/VanguardVeteran">
+	<requiredUpgrades>
+		<upgrade name="RavenGuard/AssaultSpaceMarine"/>
+	</requiredUpgrades>
+</upgrade>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+
+	<entry name="ChaosSpaceMarines/convertWildlife" value="For the Dark Gods!"/>
+	<entry name="ChaosSpaceMarines/convertWildlifeDescription" value="Convert the local Cultists to your Warband - whether they like it or not. Enslaved Units cannot be converted. Cost scales with target strength."/>
+	<entry name="ChaosSpaceMarines/convertWildlifeFlavor" value="“Your shrines will burn, your streets run with blood, your false idols shattered, your people slaughtered by the thousands, your very planet torn apart... and the barest fraction of my hatred will be satisfied.”<br/>  — Ba'ar Zul the Hate-Bound, Warrior of Khorne."/>
+
+	<entry name="Tyranids/convertWildlife" value="Generations in the Making..."/>
+	<entry name="Tyranids/convertWildlifeDescription" value="Converts a unit of Neophyte Hybrids to your side. Enslaved Units cannot be converted. Cost scales with target strength."/>
+	<entry name="Tyranids/convertWildlifeFlavor" value="“The Genestealers on this world have been preparing for our arrival for decades, centuries, perhaps even millenia. Let them now rejoice, and come to fuel the early days of our Feeding.“<br> — Unknown"/>
+
+
+</language>
