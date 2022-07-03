@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+
+	<entry name="AstraMilitarum/Guardsman" value="Guardsmen Squad"/>
+	<entry name="AstraMilitarum/GuardsmanDescription" value="Light infantry unit."/>
+	<entry name="AstraMilitarum/GuardsmanFlavor" value="From the steaming jungles of Catachan to the war-torn fortress world of Cadia, the humble Guardsmen provide the ironclad backbone of the Imperial Guard."/>
+
+</language>
