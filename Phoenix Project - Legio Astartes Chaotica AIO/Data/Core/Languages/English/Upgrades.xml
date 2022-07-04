@@ -1,7 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
 <language>
 
-	<entry name="IronWarriors/LordOfIron" value="The Lord of Iron"/>
-	<entry name="IronWarriors/LordOfIronDescription" value=""/>
+	<!-- Buildings -->
+	<entry name="IronWarriors/Aircraft" value="Helhaunted Eyrie"/>
+
+	<entry name="IronWarriors/Construction" value="Hellforges"/>
 	
+	<entry name="IronWarriors/Heroes" value="<string name='Buildings/IronWarriors/Heroes'/>"/>
+
+	<entry name="IronWarriors/Housing" value="<string name='Buildings/IronWarriors/Housing'/>"/>
+
+	<entry name="IronWarriors/Infantry" value="<string name='Buildings/IronWarriors/Infantry'/>"/>
+
+	<entry name="IronWarriors/Loyalty" value="<string name='Buildings/IronWarriors/Loyalty'/>"/>
+
+	<entry name="IronWarriors/Vehicles" value="<string name='Buildings/IronWarriors/Vehicles'/>"/>
+
+	<!-- Units -->
+	<entry name="IronWarriors/LordOfIron" value="The Lord of Iron"/>
+	
+	<entry name="IronWarriors/Defiler" value="Defilers"/>
+	
+	<entry name="IronWarriors/Havoc" value="Havocs Squad"/>
+	
+	<entry name="IronWarriors/Helbrute" value="Helbrutes"/>
+	
+	<entry name="IronWarriors/Maulerfiend" value="Maulerfiends"/>
+	
+	<entry name="IronWarriors/Obliterator" value="Obliterators"/>
+	
+	<entry name="IronWarriors/Raptor" value="Raptors"/>
+	
+	<entry name="IronWarriors/Venomcrawler" value="Venomcrawlers"/>
+	
+	<entry name="IronWarriors/Warpsmith" value="Warpsmith"/>
+
+	<!-- Misc. -->
+	<entry name="IronWarriors/CityTier2" value="Iron Foundations"/>
+
+	<entry name="IronWarriors/CityTier3" value="A New Iron Cage"/>
+
+	<entry name="IronWarriors/DirgeCaster" value="Dirge Caster"/>
+	
+	<entry name="IronWarriors/ExtraInfantryArmor" value="Warp-Touched Armor"/>
+	
+	<entry name="IronWarriors/ExtraVehicleArmor" value="Warp-forged Hulls"/>
+
+	<entry name="IronWarriors/FragGrenade" value="Fragmentation Grenades"/>
+	
+	<entry name="IronWarriors/KrakGrenade" value="Krak Grenades"/>
+	
+	<entry name="IronWarriors/MeltaBomb" value="Melta Bombs"/>
+	
+	<entry name="IronWarriors/WarpflameGargoyles" value="<string name='Upgrades/ChaosSpaceMarines/WarpflameGargoyles"/>
+	<entry name="IronWarriors/WarpflameGargoylesDescription" value="<string name='Upgrades/ChaosSpaceMarines/WarpflameGargoylesDescription"/>
+
 </language>
