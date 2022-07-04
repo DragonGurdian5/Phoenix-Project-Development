@@ -52,7 +52,7 @@
 	
 	<entry name="IronWarriors/MeltaBomb" value="Melta Bombs"/>
 	
-	<entry name="IronWarriors/WarpflameGargoyles" value="<string name='Upgrades/ChaosSpaceMarines/WarpflameGargoyles"/>
-	<entry name="IronWarriors/WarpflameGargoylesDescription" value="<string name='Upgrades/ChaosSpaceMarines/WarpflameGargoylesDescription"/>
+	<entry name="IronWarriors/WarpflameGargoyles" value="<string name='Upgrades/ChaosSpaceMarines/WarpflameGargoyles'/>"/>
+	<entry name="IronWarriors/WarpflameGargoylesDescription" value="<string name='Upgrades/ChaosSpaceMarines/WarpflameGargoylesDescription'/>"/>
 
 </language>
