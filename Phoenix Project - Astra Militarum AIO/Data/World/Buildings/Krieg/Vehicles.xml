@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<building>
+	<modifiers>
+		<modifier visible="0">
+			<effects>
+				<productionCost base="36"/>
+				<oreCost base="50"/>
+				<populationRequired base="1"/>
+				<slotsRequired base="1"/>
+				<energyUpkeep add="2"/>
+			</effects>
+		</modifier>
+		<modifier>
+			<effects>
+				<ore add="2"/>
+				<research add="2"/>
+				<production add="6"/>
+			</effects>
+		</modifier>
+	</modifiers>
+	<productionModifiers>
+		<modifier>
+			<effects>
+				
+			</effects>
+		</modifier>
+	</productionModifiers>
+	<strategyModifiers>
+		<modifier>
+			<effects>
+				<increaseVehiclesProductionScore base="1.0"/>
+			</effects>
+		</modifier>
+	</strategyModifiers>
+	<actions>
+		<produceUnit unit="Krieg/ScoutSentinel"/>
+		<produceUnit unit="Krieg/Chimera" requiredUpgrade="Krieg/Chimera"/>
+		<produceUnit unit="Krieg/Hydra" requiredUpgrade="Krieg/Hydra"/>
+		<produceUnit unit="Krieg/DevilDog" requiredUpgrade="Krieg/DevilDog"/>
+		<produceUnit unit="Krieg/Basilisk" requiredUpgrade="Krieg/Basilisk"/>
+		<produceUnit unit="Krieg/LemanRussBattleTank" requiredUpgrade="Krieg/LemanRussBattleTank"/>
+		<produceUnit unit="Krieg/Baneblade" requiredUpgrade="Krieg/Baneblade"/>
+	</actions>
+</building>

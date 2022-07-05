@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<!-- Vanilla Faction Defeats and Discoveries -->
+	<entry name="AdeptusMechanicusDefeatedKrieg" value=""/>
+	<entry name="AdeptusMechanicusDiscoveredKrieg" value=""/>
+
+	<entry name="AstraMilitarumDefeatedKrieg" value=""/>
+	<entry name="AstraMilitarumDiscoveredKrieg" value=""/>
+
+	<entry name="ChaosSpaceMarinesDefeatedKrieg" value=""/>
+	<entry name="ChaosSpaceMarinesDiscoveredKrieg" value=""/>
+
+	<entry name="EldarDefeatedKrieg" value=""/>
+	<entry name="EldarDiscoveredKrieg" value=""/>
+
+	<entry name="NecronsDefeatedKrieg" value=""/>
+	<entry name="NecronsDiscoveredKrieg" value=""/>
+
+	<entry name="OrksDefeatedKrieg" value=""/>
+	<entry name="OrksDiscoveredKrieg" value=""/>
+
+	<entry name="SpaceMarinesDefeatedKrieg" value=""/>
+	<entry name="SpaceMarinesDiscoveredKrieg" value=""/>
+
+	<entry name="TauDefeatedKrieg" value=""/>
+	<entry name="TauDiscoveredKrieg" value=""/>
+
+	<entry name="TyranidsDefeatedKrieg" value=""/>
+	<entry name="TyranidsDiscoveredKrieg" value=""/>
+
+	<!-- Faction Defeats -->
+	<entry name="Krieg" value="[IG] Death Korps of Krieg"/>
+	<entry name="KriegDefeatedAdeptusMechanicus" value=""/>
+	<entry name="KriegDefeatedAstraMilitarum" value=""/>
+	<entry name="KriegDefeatedChaosSpaceMarines" value=""/>
+	<entry name="KriegDefeatedEldar" value=""/>
+	<entry name="KriegDefeatedNecrons" value=""/>
+	<entry name="KriegDefeatedOrks" value=""/>
+	<entry name="KriegDefeatedSpaceMarines" value=""/>
+	<entry name="KriegDefeatedTau" value=""/>
+	<entry name="KriegDefeatedTyranids" value=""/>
+	<entry name="KriegDefeatedKrieg" value=""/>
+
+	<!-- Faction Discoveries -->
+	<entry name="KriegDiscoveredAdeptusMechanicus" value=""/>
+	<entry name="KriegDiscoveredAstraMilitarum" value=""/>
+	<entry name="KriegDiscoveredChaosSpaceMarines" value=""/>
+	<entry name="KriegDiscoveredEldar" value=""/>
+	<entry name="KriegDiscoveredNecrons" value=""/>
+	<entry name="KriegDiscoveredOrks" value=""/>
+	<entry name="KriegDiscoveredSpaceMarines" value=""/>
+	<entry name="KriegDiscoveredTau" value=""/>
+	<entry name="KriegDiscoveredTyranids" value=""/>
+	<entry name="KriegDiscoveredKrieg" value=""/>
+
+	<!-- Faction Flavors -->
+	<entry name="KriegProperties" value="<style name='Title'/>Cult of Sacrifice<br><icon texture='GUI/Bullet'/><style name='Bold'/>Initial Challenge:<style name='Default'/> <style color='GUI/Red'/>Hard<style color='Default'/><br/><icon texture='GUI/Bullet'/><style name='Bold'/>Trillions of Men:<style name='Default'/> Masses of inexpensive light infantry.<br/><icon texture='GUI/Bullet'/><style name='Bold'/>Thundering Artillery:<style name='Default'/> Extremely long-ranged artillery.<br/><icon texture='GUI/Bullet'/><style name='Bold'/>Cult of Sacrifice:<style name='Default'/> Reinvigorate Morale with surrounding Deaths."/>
+	<entry name="KriegFlavor" value="<style name='Italic'/>“We're the Death Korps of Krieg, son. Did you think that was just a pretty name? We never retreat. We fight and die, that's the Krieg way.”<br/>  — Lieutenant Konarski, 933rd Death Korps of Krieg"/>
+	<entry name="KriegShortFlavor" value=""/>
+
+	<!-- Endgame Flavors -->
+	<entry name="KriegLostFlavor" value=""/>
+	<entry name="KriegWonEliminationFlavor" value=""/>
+
+	<!-- Compatability Discovery and Defeats -->
+	<entry name="KriegDiscoveredRavenGuard" value=""/>
+	<entry name="KriegDefeatedRavenGuard" value=""/>
+
+	<!-- Vanilla Faction Rename -->
+	<entry name="AstraMilitarum" value="Astra Militarum (Generic)"/>
+
+</language>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+
+	<entry name="Krieg" value="<string name='Factions/Krieg'/>"/>
+	<entry name="Krieg0" value="Bastion des Kaisers"/>
+	<entry name="KriegCount" value="1"/>
+
+</language>

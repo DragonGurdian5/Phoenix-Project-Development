@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+
+	<entry name="Krieg/Aircraft" value="Aeronautica Imperialis Uplink"/>
+	<entry name="Krieg/Construction" value="Labour Corps"/>
+	<entry name="Krieg/Energy" value="Plasma Ioniser"/>
+	<entry name="Krieg/Food" value="Soylens Farm"/>
+	<entry name="Krieg/Loyalty" value="Sanctum Imperialis"/>
+	<entry name="Krieg/Headquarters" value="Korps Headquarters"/>
+	<entry name="Krieg/Heroes" value="Shrine of the Aquila"/>
+	<entry name="Krieg/Housing" value="Death Korps Barracks"/>
+	<entry name="Krieg/Infantry" value="Vitaewomb Bunker"/>
+	<entry name="Krieg/Influence" value="Cogitator Station"/>
+	<entry name="Krieg/Ore" value="Ore Extractor"/>
+	<entry name="Krieg/Research" value="Officio Tactica"/>
+	<entry name="Krieg/Vehicles" value="Manufactorum"/>
+
+</language>

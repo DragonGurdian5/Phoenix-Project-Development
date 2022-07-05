@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+
+	<!-- Heroes -->
+	<entry name="Krieg/LordCommissar" value="Death Korps Lord Commissar"/>
+
+	<entry name="Krieg/TankCommander" value="Death Korps Tank Commander"/>
+
+	<entry name="Krieg/ArtilleryObserver" value="Death Korps Artillery Observer"/>
+
+	<!-- Infantry -->
+	<entry name="Krieg/Guardsman" value="Death Korps Infantry Squad"/>
+
+	<entry name="Krieg/HeavyWeaponsSquad" value="Death Korps Heavy Weapons Squad"/>
+
+	<entry name="Krieg/Sniper" value="Death Korps Marksman Squad"/>
+
+	<entry name="Krieg/Grenadiers" value="Death Korps Grenadier Squad"/>
+
+	<entry name="Krieg/Engineers" value="Death Korps Engineer Squad"/>
+
+	<entry name="Krieg/TechpriestEnginseer" value="Techpriest Enginseer"/>
+
+	<!-- Vehicles -->
+	<entry name="Krieg/Baneblade" value="Baneblade"/>
+
+	<entry name="Krieg/Basilisk" value="Basilisk"/>
+
+	<entry name="Krieg/Chimera" value="Chimera"/>
+
+	<entry name="Krieg/DevilDog" value="Devil Dog"/>
+
+	<entry name="Krieg/Hydra" value="Hydra"/>
+
+	<entry name="Krieg/LemanRussBattleTank" value="Leman Russ Battle Tank"/>
+
+	<entry name="Krieg/ScoutSentinel" value="Scout Sentinel"/>
+
+	<!-- Aircraft -->
+	<entry name="Krieg/MarauderBomber" value="Marauder Bomber"/>
+
+	<entry name="Krieg/Thunderbolt" value="Thunderbolt Heavy Fighter"/>
+
+	<entry name="Krieg/Valkyrie" value="Valkyrie Transport"/>
+
+	<!-- Buildings -->
+	<entry name="Krieg/Headquarters" value="Death Korps Headquarters"/>
+
+</language>
