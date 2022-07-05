@@ -6,5 +6,12 @@ This text file is going to go over everything currently within the mod. Feel fre
 Currently in this Mod:
 
 - New Faction: Death Korps of Krieg
+    - New Unit: Death Korps Infantry Squad
+    - New Unit: Death Korps Heavy Weapons Squad
+    - New Unit: Death Korps Grenadiers
+    - New Unit: Death Korps Engineers
+
+    - New Traits
+        - Cult of Sacrifice
     
 - Renamed Faction: Astra Militarum > Astra Militarum (Generic)

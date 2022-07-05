@@ -1,6 +1,86 @@
 <?xml version="1.0" encoding="utf-8"?>
 <language>
 
-    <entry name="Krieg/wip" value="Tech Tree Not Yet Developed"/>
+    <!-- Buildings -->
+    <entry name="Krieg/Aircraft" value="Aeronautica Imperialis Contacts"/>
+
+    <entry name="Krieg/Construction" value="Additional Labourers"/>
+
+    <entry name="Krieg/Heroes" value="Shrine to the Emperor"/>
+
+    <entry name="Krieg/Housing" value="Barracks Production"/>
+    
+    <entry name="Krieg/Loyalty" value="Sanctum Imperialis"/>
+    
+    <entry name="Krieg/Vehicles" value="Wargear Manfuactorums"/>
+
+    <!-- Units -->
+    <entry name="Krieg/Chimera" value="Chimeras"/>
+    <entry name="Krieg/ChimeraDescription" value=""/>
+    <entry name="Krieg/ChiemraFlavor" value=""/>
+
+    <entry name="Krieg/Baneblade" value="Baneblades"/>
+
+    <entry name="Krieg/Basilisk" value="Basilisks"/>
+
+    <entry name="Krieg/DevilDog" value="Devil Dogs"/>
+
+    <entry name="Krieg/Engineers" value="Engineers"/>
+
+    <entry name="Krieg/Grenadiers" value="Grenadiers"/>
+
+    <entry name="Krieg/HeavyWeaponsSquad" value="Heavy Weapons Squads"/>
+
+    <entry name="Krieg/Hydra" value="Hydras"/>
+
+    <entry name="Krieg/LemanRussBattleTank" value="Leman Russ Battle Tank"/>
+
+    <entry name="Krieg/MarauderBomber" value="Marauder Bombers"/>
+
+    <entry name="Krieg/Quartermasters" value="Quartermasters"/>
+
+    <entry name="Krieg/Snipers" value="Marksmen Squads"/>
+
+    <entry name="Krieg/Thunderbolt" value="Thunderbolts"/>
+
+    <!-- Heroes -->
+    <entry name="Krieg/TankCommander" value="Tank Commander"/>
+
+    <!-- Misc. -->
+    <entry name="Krieg/AdditionalHeavyBolters" value="Additional Heavy Bolters"/>
+
+    <entry name="Krieg/BanebladeLascannon" value="Baneblade Upgrades"/>
+
+    <entry name="Krieg/BlastDamage" value="Improved Explosive Casings"/>
+
+    <entry name="Krieg/BoltDamage" value="Kraken Bolt Shells"/>
+
+    <entry name="Krieg/CamoNetting" value="Camo Netting"/>
+
+    <entry name="Krieg/ChaffLauncher" value="Chaff Launchers"/>
+
+    <entry name="Krieg/CityTier2" value="Command Expansion"/>
+
+    <entry name="Krieg/CityTier3" value="Command Expansion"/>
+
+    <entry name="Krieg/DozerBlade" value="Dozer Blades"/>
+
+    <entry name="Krieg/ExtraVehicleArmor" value="Extra Vehicle Armor"/>
+
+    <entry name="Krieg/FragGrenade" value="Fragmentation Grenades"/>
+
+    <entry name="Krieg/HunterKillerMissile" value="Hunter-Killer Missiles"/>
+
+    <entry name="Krieg/KrakGrenade" value="Krak Grenades"/>
+
+    <entry name="Krieg/LasDamage" value="Hotshot Powerpacks"/>
+
+    <entry name="Krieg/RecoveryGear" value="Recovery Gear"/>
+
+    <entry name="Krieg/SkystrikeMissile" value="Skystrike Missiles"/>
+
+    <entry name="Krieg/SmokeLauncher" value="Smoke Launchers"/>
+
+    <entry name="Krieg/VoxCaster" value="Vox Casters"/>
 
 </language>
