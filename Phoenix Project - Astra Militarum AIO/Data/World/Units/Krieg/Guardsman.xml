@@ -90,45 +90,19 @@
 			</model>
 		</move>
 		<throwGrenade weaponSlotName="FragGrenade" cooldown="10"
-				requiredUpgrade="AstraMilitarum/FragGrenade">
+				requiredUpgrade="Krieg/FragGrenade">
 			<model>
 				<action animation="Units/AstraMilitarum/GuardsmanGrenade"
 						beginFire="0.833333333333"/>
 			</model>
 		</throwGrenade>
 		<throwGrenade weaponSlotName="KrakGrenade" cooldown="10"
-				requiredUpgrade="AstraMilitarum/KrakGrenade">
+				requiredUpgrade="Krieg/KrakGrenade">
 			<model>
 				<action animation="Units/AstraMilitarum/GuardsmanGrenade"
 						beginFire="0.833333333333"/>
 			</model>				
 		</throwGrenade>
-		<mediPack cooldown="10" requiredUpgrade="AstraMilitarum/MediPack">
-			<model>
-				<action bone="ChestBone"
-						sound="Actions/Heal"/>
-			</model>
-			<beginTargets>
-				<selfTarget>
-					<conditions>
-						<unit>
-							<damaged/>
-						</unit>
-					</conditions>
-					<areas>
-						<area affects="Unit">
-							<modifiers>
-								<modifier>
-									<effects>
-										<hitpointsFactorFromMax add="0.5"/>
-									</effects>
-								</modifier>
-							</modifiers>
-						</area>
-					</areas>
-				</selfTarget>
-			</beginTargets>
-		</mediPack>
 	</actions>
 	<traits>
 		

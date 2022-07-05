@@ -22,12 +22,12 @@
 						fireInterval="0.5"/>
 			</model>
 		</weapon>
-		<weapon name="FragGrenade" slotName="FragGrenade" enabled="0">
+		<weapon name="FragGrenade" slotName="FragGrenade" requiredUpgrade="Krieg/FragGrenade">
 			<model>
 				<grenadeWeapon muzzleBone="LeftHandBone"/>
 			</model>
 		</weapon>
-		<weapon name="ATBundle" slotName="KrakGrenade" enabled="0">
+		<weapon name="ATBundle" slotName="KrakGrenade" requiredUpgrade="Krieg/KrakGrenade">
 			<model>
 				<grenadeWeapon muzzleBone="LeftHandBone"/>
 			</model>
@@ -96,39 +96,72 @@
 						beginFire="0.833333333333"/>
 			</model>
 		</throwGrenade>
-		<throwGrenade weaponSlotName="KrakGrenade" cooldown="10"
+		<throwGrenade weaponSlotName="ATBundle" cooldown="10"
 				requiredUpgrade="AstraMilitarum/KrakGrenade">
 			<model>
 				<action animation="Units/AstraMilitarum/GuardsmanGrenade"
 						beginFire="0.833333333333"/>
 			</model>				
 		</throwGrenade>
-		<mediPack cooldown="10" requiredUpgrade="AstraMilitarum/MediPack">
+		<clearTileUnitAbility cooldown="1"
+				icon="Actions/ClearTile"
+				name="ClearTile">
 			<model>
-				<action bone="ChestBone"
-						sound="Actions/Heal"/>
+				<action animation="Units/AstraMilitarum/TechpriestEnginseerBuild"/>
 			</model>
 			<beginTargets>
-				<selfTarget>
+				<target rangeMax="1">
+					<conditions/>
+					<areas/>
+				</target>
+			</beginTargets>
+			<modifiers>
+				<modifier visible="0">
+					<effects>
+						<influenceCost base="5"/>
+						<oreCost base="5"/>
+					</effects>
+				</modifier>
+			</modifiers>
+		</clearTileUnitAbility>
+		<constructImperialStrongpoint
+				cooldown="3">
+			<model>
+				<action	sound="Actions/Construct"/>
+			</model>
+			<modifiers>
+				<modifier visible="0">
+					<effects>
+						<oreCost base="10"/>
+					</effects>
+				</modifier>
+			</modifiers>
+			<beginTargets>
+				<target rangeMax="1">
 					<conditions>
-						<unit>
-							<damaged/>
-						</unit>
+						<tile>
+							<noFeatureCategory name="Resource"/>
+							<noFeatureCategory name="WireWeed"/>
+							<land/>
+							<noEnemyCity/>
+							<noUnit/>
+							<noFeature name="GravityWaves"/>
+						</tile>
 					</conditions>
 					<areas>
-						<area affects="Unit">
+						<area affects="Tile">
 							<modifiers>
 								<modifier>
 									<effects>
-										<hitpointsFactorFromMax add="0.5"/>
+										<addFeature name="WireWeed"/>
 									</effects>
 								</modifier>
 							</modifiers>
 						</area>
 					</areas>
-				</selfTarget>
+				</target>
 			</beginTargets>
-		</mediPack>
+		</constructImperialStrongpoint>
 	</actions>
 	<traits>
 		
