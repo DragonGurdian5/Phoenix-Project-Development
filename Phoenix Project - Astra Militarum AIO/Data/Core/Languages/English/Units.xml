@@ -21,6 +21,8 @@
 
 	<entry name="Krieg/TechpriestEnginseer" value="Techpriest Enginseer"/>
 
+	<entry name="Krieg/Quartermaster" value="Quartermasters"/>
+
 	<!-- Vehicles -->
 	<entry name="Krieg/Baneblade" value="Baneblade"/>
 

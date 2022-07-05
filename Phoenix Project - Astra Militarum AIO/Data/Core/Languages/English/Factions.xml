@@ -54,7 +54,7 @@
 	<entry name="KriegDiscoveredKrieg" value=""/>
 
 	<!-- Faction Flavors -->
-	<entry name="KriegProperties" value="<style name='Title'/>Cult of Sacrifice<br><icon texture='GUI/Bullet'/><style name='Bold'/>Initial Challenge:<style name='Default'/> <style color='GUI/Red'/>Hard<style color='Default'/><br/><icon texture='GUI/Bullet'/><style name='Bold'/>Trillions of Men:<style name='Default'/> Masses of inexpensive light infantry.<br/><icon texture='GUI/Bullet'/><style name='Bold'/>Thundering Artillery:<style name='Default'/> Extremely long-ranged artillery.<br/><icon texture='GUI/Bullet'/><style name='Bold'/>Cult of Sacrifice:<style name='Default'/> Reinvigorate Morale with surrounding Deaths."/>
+	<entry name="KriegProperties" value="<style name='Title'/>Cult of Sacrifice<br><icon texture='GUI/Bullet'/><style name='Bold'/>Initial Challenge:<style name='Default'/> <style color='GUI/Red'/>Hard<style color='Default'/><br/><icon texture='GUI/Bullet'/><style name='Bold'/>Trillions of Men:<style name='Default'/> Masses of inexpensive light infantry.<br/><icon texture='GUI/Bullet'/><style name='Bold'/>Thundering Artillery:<style name='Default'/> Extremely long-ranged artillery.<br/><icon texture='GUI/Bullet'/><style name='Bold'/>Cult of Sacrifice:<style name='Default'/> No loss of Moralefrom nearby friendly Deaths.<br><icon texture='GUI/Bullet'/><style name='Bold'/>Siegemasters:<style name='Default'/> Enflame the World in Siege Warfare, by way of heavy artillery and mass infantry tactics."/>
 	<entry name="KriegFlavor" value="<style name='Italic'/>“We're the Death Korps of Krieg, son. Did you think that was just a pretty name? We never retreat. We fight and die, that's the Krieg way.”<br/>  — Lieutenant Konarski, 933rd Death Korps of Krieg"/>
 	<entry name="KriegShortFlavor" value=""/>
 
@@ -65,6 +65,8 @@
 	<!-- Compatability Discovery and Defeats -->
 	<entry name="KriegDiscoveredRavenGuard" value=""/>
 	<entry name="KriegDefeatedRavenGuard" value=""/>
+	<entry name="KriegDiscoveredIronWarriors" value=""/>
+	<entry name="KriegDefeatedIronWarriors" value=""/>
 
 	<!-- Vanilla Faction Rename -->
 	<entry name="AstraMilitarum" value="Astra Militarum (Generic)"/>
