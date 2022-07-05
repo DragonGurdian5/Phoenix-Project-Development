@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <material>
 	<textures>
-		<texture name="Units/SpaceMarines/DevastatorSpaceMarineDiffuse"/>
+		<texture name="Units/RavenGuard/DevastatorSpaceMarineDiffuse"/>
 		<texture name="Units/SpaceMarines/DevastatorSpaceMarineNormal"/>
 		<texture name="Units/SpaceMarines/DevastatorSpaceMarineSIC"/>
 		<texture name="ShadowMapColor"/>

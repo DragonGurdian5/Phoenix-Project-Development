@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <material>
 	<textures>
-		<texture name="Units/SpaceMarines/RazorbackDiffuse"/>
+		<texture name="Units/RavenGuard/RazorbackDiffuse"/>
 		<texture name="Units/SpaceMarines/RazorbackNormal"/>
 		<texture name="Units/SpaceMarines/RazorbackSIC"/>
 		<texture name="ShadowMapColor"/>

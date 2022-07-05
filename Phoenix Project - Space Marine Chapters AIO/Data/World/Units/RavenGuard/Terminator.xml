@@ -2,7 +2,7 @@
 <unit>
 	<model>
 		<unit mesh="Units/SpaceMarines/Terminator"
-				material="Units/SpaceMarines/Terminator"
+				material="Units/RavenGuard/Terminator"
 				idleAnimation="Units/SpaceMarines/TerminatorIdle"
 				idleAnimationCount="3"
 				idleContinuously="1"
@@ -102,7 +102,7 @@
 						soundCount="1"/>
 			</model>
 		</move>
-		<orbitalDeployment requiredUpgrade="SpaceMarines/OrbitalDeployment">
+		<orbitalDeployment requiredUpgrade="RavenGuard/OrbitalDeployment">
 			<model>
 				<action sound="Actions/DropPod"/>
 			</model>

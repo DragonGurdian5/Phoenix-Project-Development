@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<upgrade position="4" icon="Units/RavenGuard/Predator">
+<upgrade position="5" icon="Units/SpaceMarines/Predator">
 	<requiredUpgrades>
 		<upgrade name="RavenGuard/Vehicles"/>
 	</requiredUpgrades>

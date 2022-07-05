@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <material>
 	<textures>
-		<texture name="Units/SpaceMarines/TerminatorDiffuse"/>
+		<texture name="Units/RavenGuard/TerminatorDiffuse"/>
 		<texture name="Units/SpaceMarines/TerminatorNormal"/>
 		<texture name="Units/SpaceMarines/TerminatorSIC"/>
 		<texture name="ShadowMapColor"/>

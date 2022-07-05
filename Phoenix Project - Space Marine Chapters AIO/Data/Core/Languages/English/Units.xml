@@ -56,7 +56,7 @@
 	<entry name="RavenGuard/HeadquartersDescription" value="Headquarters unit that represents the fortress city's defenses."/>
 	<entry name="RavenGuard/HeadquartersFlavor" value="<string name='Buildings/RavenGuard/HeadquartersFlavor'/>"/>
 
-	<entry name="RavenGuard/Dreadnought" value="Dreadnought"/>
+	<entry name="RavenGuard/Dreadnought" value="Castraferrum Dreadnought"/>
 	<entry name="RavenGuard/DreadnoughtDescription" value="Units/SpaceMarines/DreadnoughtDescription"/>
 	<entry name="RavenGuard/DreadnoughtFlavor" value="Units/SpaceMarines/DreadnoughtFlavor"/>
 
@@ -68,11 +68,15 @@
 	<entry name="RavenGuard/LandRaiderDescription" value=""/>
 	<entry name="RavenGuard/LandRaiderFlavor" value=""/>
 
-	<entry name="RavenGuard/LandSpeeder" value="Land Speeder Tempest"/>
+	<entry name="RavenGuard/LandSpeeder" value="Land Speeders"/>
 	<entry name="RavenGuard/LandSpeederDescription" value=""/>
 	<entry name="RavenGuard/LandSpeederFlavor" value=""/>
 
-	<entry name="RavenGuard/Predator" value="Predator Annihilator"/>
+	<entry name="RavenGuard/PredatorDestructor" value="Predator Destructor"/>
+	<entry name="RavenGuard/PredatorDescription" value=""/>
+	<entry name="RavenGuard/PredatorFlavor" value=""/>
+
+	<entry name="RavenGuard/PredatorAnnihilator" value="Predator Annihilator"/>
 	<entry name="RavenGuard/PredatorDescription" value=""/>
 	<entry name="RavenGuard/PredatorFlavor" value=""/>
 

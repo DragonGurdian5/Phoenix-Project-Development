@@ -2,7 +2,7 @@
 <unit dlc="Supplement1">
 	<model>
 		<unit mesh="Units/SpaceMarines/LandRaider"
-				material="Units/SpaceMarines/LandRaider"
+				material="Units/RavenGuard/LandRaider"
 				idleAnimation="Units/SpaceMarines/LandRaiderIdle"
 				idleAnimationCount="3"
 				idleContinuously="1"

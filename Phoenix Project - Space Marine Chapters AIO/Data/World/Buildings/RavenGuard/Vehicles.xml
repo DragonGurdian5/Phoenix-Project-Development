@@ -37,7 +37,8 @@
 		<produceUnit unit="RavenGuard/ScoutBiker"/>
 		<produceUnit unit="RavenGuard/Vindicator" requiredUpgrade="RavenGuard/Vindicator"/>
 		<produceUnit unit="RavenGuard/Razorback" requiredUpgrade="RavenGuard/Razorback"/>
-		<produceUnit unit="RavenGuard/Predator" requiredUpgrade="RavenGuard/Predator"/>
+		<produceUnit unit="RavenGuard/PredatorAnnihilator" requiredUpgrade="RavenGuard/PredatorLascannon"/>
+		<produceUnit unit="RavenGuard/PredatorDestructor" requiredUpgrade="RavenGuard/Predator"/>
 		<produceUnit unit="RavenGuard/LandRaider" requiredUpgrade="RavenGuard/LandRaider"/>
 		<produceUnit unit="RavenGuard/Hunter" requiredUpgrade="RavenGuard/Hunter"/>
 		<produceUnit unit="RavenGuard/Dreadnought" requiredUpgrade="RavenGuard/Dreadnought"/>

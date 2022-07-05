@@ -2,7 +2,7 @@
 <unit>
 	<model>
 		<unit mesh="Units/SpaceMarines/Dreadnought"
-				material="Units/SpaceMarines/Dreadnought"
+				material="Units/RavenGuard/Dreadnought"
 				idleAnimation="Units/SpaceMarines/DreadnoughtIdle"
 				idleAnimationCount="3"
 				normalWeight="0.1"

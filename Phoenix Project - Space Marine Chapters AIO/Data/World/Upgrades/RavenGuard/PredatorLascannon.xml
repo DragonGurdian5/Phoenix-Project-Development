@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<upgrade position="8" icon="Weapons/HeavyBolter">
+<upgrade position="7" icon="Units/SpaceMarines/Predator">
+	<requiredUpgrades>
+		<upgrade name="RavenGuard/Predator"/>
+	</requiredUpgrades>
 	<strategyModifiers>
 		<modifier>
 			<effects>

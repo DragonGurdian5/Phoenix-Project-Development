@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <material>
 	<textures>
-		<texture name="Units/SpaceMarines/ScoutBikerDiffuse"/>
+		<texture name="Units/RavenGuard/ScoutBikerDiffuse"/>
 		<texture name="Units/SpaceMarines/ScoutBikerNormal"/>
 		<texture name="Units/SpaceMarines/ScoutBikerSIC"/>
 		<texture name="ShadowMapColor"/>

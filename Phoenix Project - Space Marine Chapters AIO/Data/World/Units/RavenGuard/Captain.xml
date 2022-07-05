@@ -2,7 +2,7 @@
 <unit>
 	<model>
 		<unit mesh="Units/SpaceMarines/Captain"
-				material="Units/SpaceMarines/Captain"
+				material="Units/RavenGuard/Captain"
 				idleAnimation="Units/SpaceMarines/CaptainIdle"
 				idleAnimationCount="4"
 				idleContinuously="1"
@@ -119,14 +119,14 @@
 			</model>				
 		</move>
 		<throwGrenade weaponSlotName="FragGrenade" cooldown="10"
-				requiredUpgrade="SpaceMarines/FragGrenade">
+				requiredUpgrade="RavenGuard/FragGrenade">
 			<model>
 				<action animation="Units/SpaceMarines/CaptainGrenade"
 						beginFire="1.16666666667"/>
 			</model>				
 		</throwGrenade>
 		<throwGrenade weaponSlotName="KrakGrenade" cooldown="10"
-				requiredUpgrade="SpaceMarines/KrakGrenade">
+				requiredUpgrade="RavenGuard/KrakGrenade">
 			<model>
 				<action animation="Units/SpaceMarines/CaptainGrenade"
 						beginFire="1.16666666667"/>
@@ -231,7 +231,7 @@
 				</target>
 			</beginTargets>
 		</orbitalStrike>
-		<orbitalDeployment requiredUpgrade="SpaceMarines/OrbitalDeployment">
+		<orbitalDeployment requiredUpgrade="RavenGuard/OrbitalDeployment">
 			<model>
 				<action sound="Actions/DropPod"/>
 			</model>

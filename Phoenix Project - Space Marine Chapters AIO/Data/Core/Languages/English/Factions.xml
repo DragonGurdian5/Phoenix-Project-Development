@@ -65,6 +65,8 @@
 	<!-- Compatability Discovery and Defeats -->
 	<entry name="RavenGuardDiscoveredIronWarriors" value=""/>
 	<entry name="RavenGuardDefeatedIronWarriors" value=""/>
+	<entry name="RavenGuardDiscoveredKrieg" value=""/>
+	<entry name="RavenGuardDefeatedKrieg" value=""/>
 
 	<!-- Vanilla Faction Rename -->
 	<entry name="SpaceMarines" value="Adeptus Astartes (Generic)"/>

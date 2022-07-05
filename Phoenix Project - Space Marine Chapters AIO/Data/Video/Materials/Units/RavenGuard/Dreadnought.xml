@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <material>
 	<textures>
-		<texture name="Units/SpaceMarines/DreadnoughtDiffuse"/>
+		<texture name="Units/RavenGuard/DreadnoughtDiffuse"/>
 		<texture name="Units/SpaceMarines/DreadnoughtNormal"/>
 		<texture name="Units/SpaceMarines/DreadnoughtSIC"/>
 		<texture name="ShadowMapColor"/>

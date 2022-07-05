@@ -2,7 +2,7 @@
 <unit>
 	<model>
 		<unit mesh="Units/SpaceMarines/Chaplain"
-				material="Units/SpaceMarines/Chaplain"
+				material="Units/RavenGuard/Chaplain"
 				idleAnimation="Units/SpaceMarines/ChaplainIdle"
 				idleAnimationCount="5"
 				idleContinuously="1"
@@ -232,7 +232,7 @@
 				</selfTarget>
 			</beginTargets>
 		</orationOfRestoration>
-		<orbitalDeployment requiredUpgrade="SpaceMarines/OrbitalDeployment">
+		<orbitalDeployment requiredUpgrade="RavenGuard/OrbitalDeployment">
 			<model>
 				<action sound="Actions/DropPod"/>
 			</model>
@@ -250,9 +250,8 @@
 	<traits>
 		<!-- <trait name="Bulky"/> -->
 		<!-- <trait name="AndTheyShallKnowNoFear"/> -->
-		<trait name="ExtraInfantryArmour" requiredUpgrade="SpaceMarines/ExtraInfantryArmour"/>
+		<trait name="ExtraInfantryArmour" requiredUpgrade="RavenGuard/ExtraInfantryArmour"/>
 		<trait name="Hero"/>
-		<trait name="LastStand" requiredUpgrade="SpaceMarines/LastStand"/>
 		<trait name="Relentless"/>
 		<trait name="Rosarius"/>
 		<trait name="TerminatorArmour"/>

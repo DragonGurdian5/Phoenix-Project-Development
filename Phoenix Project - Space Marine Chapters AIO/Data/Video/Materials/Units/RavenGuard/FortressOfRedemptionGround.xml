@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <material>
 	<textures>
-		<texture name="Units/SpaceMarines/FortressOfRedemptionGroundDiffuse"/>
+		<texture name="Units/RavenGuard/FortressOfRedemptionGroundDiffuse"/>
 		<texture name="Units/SpaceMarines/FortressOfRedemptionGroundNormal"/>
 		<texture name="Units/SpaceMarines/FortressOfRedemptionGroundSIC"/>
 		<texture name="ShadowMapColor"/>

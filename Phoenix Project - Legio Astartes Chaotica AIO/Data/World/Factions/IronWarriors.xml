@@ -84,6 +84,15 @@
 								</modifier>
 							</modifiers>
 						</area>
+						<area affects="Tile" radius="0">
+							<modifiers>
+								<modifier visible="0">
+									<effects>
+										<addFeature duration="1" name="TelekineDome"/>
+									</effects>
+								</modifier>
+							</modifiers>
+						</area>
 					</areas>
 				</target>
 			</beginTargets>

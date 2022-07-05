@@ -7,7 +7,7 @@
 				idleAnimationCount="3"
 				idleContinuously="1"
 				normalWeight="0.1"
-				scale="0.9 0.9 0.9"
+				scale="1 1 1"
 				bloodBone="ChestBone"
 				walker="1"/>
 	</model>

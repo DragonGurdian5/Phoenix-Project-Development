@@ -51,4 +51,8 @@
 	<entry name="RavenGuard/Vehicles" value="Armoury"/>
 	<entry name="RavenGuard/VehiclesDescription" value="Building that produces ground vehicles as well as generates requisitions and research."/>
 	<entry name="RavenGuard/VehiclesFlavor" value="Home to anything that a Marine might employ to purge the battlefield of xenos and heretics, from the simplest combat knife to the most redoubtable of relics. The Master of Ordnance keeps a close watch upon the Chapter's wargear—only his gene-print can grant access to this titanic underground repository of weapons and vehicles."/>
+
+	<entry name="RavenGuard/Heroes" value="If you see this, file a bug report!"/>
+	<entry name="RavenGuard/HeroesDescription" value="If you see this, file a bug report!"/>
+	<entry name="RavenGuard/HeroesFlavor" value="If you see this, file a bug report!"/>
 </language>

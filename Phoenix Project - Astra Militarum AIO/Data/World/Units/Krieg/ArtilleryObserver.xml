@@ -92,16 +92,24 @@
 						beginFire="0.833333333333"/>
 			</model>				
 		</throwGrenade>
-		<mediPack cooldown="10" requiredUpgrade="AstraMilitarum/MediPack">
+		<orbitalStrike cooldown="3"
+			name="Krieg/Bombardment"
+			icon="Actions/OrbitalBombardment">
 			<model>
-				<action bone="ChestBone"
-						sound="Actions/Heal"/>
+				<action sound="Actions/BombDrop"/>
 			</model>
+			<modifiers>
+				<modifier visible="0">
+					<effects>
+						<oreCost base="40"/>
+					</effects>
+				</modifier>
+			</modifiers>
 			<beginTargets>
-				<selfTarget>
+				<target rangeMax="7" rangeMin="2">
 					<conditions>
 						<unit>
-							<damaged/>
+							<enemy/>
 						</unit>
 					</conditions>
 					<areas>
@@ -109,7 +117,70 @@
 							<modifiers>
 								<modifier>
 									<effects>
-										<hitpointsFactorFromMax add="0.5"/>
+										<weaponDamage weapon="KriegOrbitalBombardment"/>
+									</effects>
+								</modifier>
+							</modifiers>
+						</area>
+					</areas>
+				</target>
+			</beginTargets>
+		</orbitalStrike>
+		<orbitalStrike cooldown="5"
+			name="Krieg/DangerClose"
+			icon="Actions/OrbitalStrike">
+			<model>
+				<action sound="Actions/BombDrop"/>
+			</model>
+			<modifiers>
+				<modifier visible="0">
+					<effects>
+						<oreCost base="80"/>
+					</effects>
+				</modifier>
+			</modifiers>
+			<beginTargets>
+				<target rangeMax="1">
+					<conditions>
+						<unit>
+							<enemy/>
+						</unit>
+					</conditions>
+					<areas>
+						<area affects="Unit">
+							<modifiers>
+								<modifier>
+									<effects>
+										<weaponDamage weapon="KriegDangerClose"/>
+									</effects>
+								</modifier>
+							</modifiers>
+						</area>
+					</areas>
+				</target>
+			</beginTargets>
+		</orbitalStrike>
+		<!-- 
+		<genericUnitAbility passive="1"
+			name="Krieg/ObserverNearby"
+			icon="Actions/Krieg/ObserverNearby">
+			<beginTargets>
+				<selfTarget>
+					<areas>
+						<area affects="Unit" excludeRadius="0" radius="1">
+							<modifiers>
+								<modifier>
+									<conditions>		
+										<unit>
+											<allied/>
+											<noTrait name="Enslaved"/>
+										</unit>
+										<unit match="Any">
+											<type name="Krieg/Basilisk"/>
+										</unit>
+									</conditions>
+									<effects>
+										<addTrait name="ObserverNearby"/>
 									</effects>
 								</modifier>
 							</modifiers>
@@ -117,7 +188,8 @@
 					</areas>
 				</selfTarget>
 			</beginTargets>
-		</mediPack>
+		</genericUnitAbility> 
+		-->
 	</actions>
 	<traits>
 		

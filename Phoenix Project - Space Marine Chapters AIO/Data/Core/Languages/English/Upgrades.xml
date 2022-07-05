@@ -78,7 +78,7 @@
 	<entry name="RavenGuard/LandSpeeder" value="Land Speeders"/>
 	<entry name="RavenGuard/LandSpeederDescription" value=""/>
 	
-	<entry name="RavenGuard/Predator" value="Predator Annihilator"/>
+	<entry name="RavenGuard/Predator" value="<string name='Units/RavenGuard/PredatorDestructor'/>"/>
 	<entry name="RavenGuard/PredatorDescription" value=""/>
 	
 	<entry name="RavenGuard/Razorback" value="Razorback"/>
@@ -126,7 +126,19 @@
 	<entry name="RavenGuard/MasterOfShadows" value="Master of Shadows"/>
 	<entry name="RavenGuard/MasterOfShadowsDescription" value=""/>
 
-	<entry name="RavenGuard/PredatorLascannon" value="<string name='Upgrades/SpaceMarines/PredatorLascannon'/>"/>
+	<entry name="RavenGuard/PredatorLascannon" value="<string name='Units/RavenGuard/PredatorAnnihilator'/>"/>
 	<entry name="RavenGuard/PredatorLascannonDescription" value=""/>
+
+	<entry name="RavenGuard/ExtraHeavyBolters" value="<string name='Upgrades/SpaceMarines/PredatorLascannon'/>"/>
+	<entry name="RavenGuard/ExtraHeavyBoltersDescription" value=""/>
+
+	<entry name="RavenGuard/ImprovedScans" value="Improved Augur Devices"/>
+	<entry name="RavenGuard/ImprovedScansDescription" value=""/>
+
+	<entry name="RavenGuard/MeleeDamage" value="Power Weapon Generators"/>
+	<entry name="RavenGuard/MeleeDamageDescription" value=""/>
+
+	<entry name="RavenGuard/BoltDamage" value="Kraken Bolts"/>
+	<entry name="RavenGuard/BoltDamageDescription" value="<string name='Upgrades/SpaceMarines/BoltDamageDescription'/>"/>
 
 </language>

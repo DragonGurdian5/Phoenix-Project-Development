@@ -15,6 +15,7 @@
     <entry name="Krieg/Vehicles" value="Wargear Manfuactorums"/>
 
     <!-- Units -->
+
     <entry name="Krieg/Chimera" value="Chimeras"/>
     <entry name="Krieg/ChimeraDescription" value=""/>
     <entry name="Krieg/ChiemraFlavor" value=""/>
@@ -45,6 +46,8 @@
 
     <!-- Heroes -->
     <entry name="Krieg/TankCommander" value="Tank Commander"/>
+    
+    <entry name="Krieg/ArtilleryObserver" value="Artillery Observers"/>
 
     <!-- Misc. -->
     <entry name="Krieg/AdditionalHeavyBolters" value="Additional Heavy Bolters"/>

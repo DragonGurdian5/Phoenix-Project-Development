@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <material>
 	<textures>
-		<texture name="Units/SpaceMarines/PredatorDiffuse"/>
+		<texture name="Units/RavenGuard/PredatorDiffuse"/>
 		<texture name="Units/SpaceMarines/PredatorNormal"/>
 		<texture name="Units/SpaceMarines/PredatorSIC"/>
 		<texture name="ShadowMapColor"/>

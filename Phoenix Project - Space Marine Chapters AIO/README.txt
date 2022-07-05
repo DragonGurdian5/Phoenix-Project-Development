@@ -5,21 +5,26 @@ This text file is going to go over everything currently within the mod. Feel fre
 
 Currently in this Mod:
 
-- Custom Faction: Raven Guard
-    - Custom Unit: Vanguard Veteran
-    - Custom Unit: Sternguard Veteran
-    - Custom Unit: Master of Shadows
+- New Faction: Raven Guard
+    - New Unit: Vanguard Veteran
+    - New Unit: Sternguard Veteran
+    - New Unit: Master of Shadows
         - Custom Weapon: Raven's Talons (Lightning Claws)
         - Custom Weapon: Blackout (Bolt Pistol)
-    - Custom Unit: Shadow-Captain
-    - Custom Unit: Shadow-Captain (Jump)
+    - New Unit: Shadow-Captain
+    - New Unit: Shadow-Captain (Jump)
+    - New Unit: Predator Annihilator
 
     - Custom Technology Tree
 
-    - Custom Traits (Masters of Ambush, Wraithslip)
+    - New Traits (Masters of Ambush, Mk VI 'Corvus' Armor, Mk VI Artificer Armor)
+    - Customized Traits
+        - Infiltrate > Wraithslip
 
     - Updated Unit: Tactical Marine > 10 per Squad
     - Updated Unit: Devastator Marine > 5 per Squad
     - Updated Unit: Assault Marine > 10 per Squad
+    - Updated Unit: Predator > Predator Destructor
+    - Updated Unit: Dreadnought > Castraferrum Dreadnought
 
 - Renamed Faction: Space Marines > Adeptus Astartes (Generic)

@@ -142,7 +142,7 @@
 						beginFire="1.16666666667"/>
 			</model>				
 		</throwGrenade>
-		<orbitalDeployment requiredUpgrade="SpaceMarines/OrbitalDeployment">
+		<orbitalDeployment requiredUpgrade="RavenGuard/OrbitalDeployment">
 			<model>
 				<action sound="Actions/DropPod"/>
 			</model>

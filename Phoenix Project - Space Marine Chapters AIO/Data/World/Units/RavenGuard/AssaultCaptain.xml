@@ -2,7 +2,7 @@
 <unit>
 	<model>
 		<unit mesh="Units/SpaceMarines/AssaultSpaceMarine"
-				material="Units/SpaceMarines/AssaultSpaceMarine"
+				material="Units/RavenGuard/AssaultSpaceMarine"
 				idleAnimation="Units/SpaceMarines/AssaultSpaceMarineIdle"
 				idleAnimationCount="3"
 				idleContinuously="1"
@@ -135,33 +135,26 @@
 				<target>
 					<areas>
 						<area affects="Unit">
-							<modifiers>
-								<modifier requiredUpgrade="SpaceMarines/HammerOfWrath">
-									<effects>
-										<addTrait duration="1" name="HammerOfWrath"/>
-									</effects>
-								</modifier>
-							</modifiers>
 						</area>
 					</areas>
 				</target>
 			</beginTargets>
 		</jumpPack>
 		<throwGrenade weaponSlotName="FragGrenade" cooldown="10"
-				requiredUpgrade="SpaceMarines/FragGrenade">
+				requiredUpgrade="RavenGuard/FragGrenade">
 			<model>
 				<action animation="Units/SpaceMarines/CaptainGrenade"
 						beginFire="1.16666666667"/>
 			</model>				
 		</throwGrenade>
 		<throwGrenade weaponSlotName="KrakGrenade" cooldown="10"
-				requiredUpgrade="SpaceMarines/KrakGrenade">
+				requiredUpgrade="RavenGuard/KrakGrenade">
 			<model>
 				<action animation="Units/SpaceMarines/CaptainGrenade"
 						beginFire="1.16666666667"/>
 			</model>				
 		</throwGrenade>
-		<orbitalDeployment requiredUpgrade="SpaceMarines/OrbitalDeployment">
+		<orbitalDeployment requiredUpgrade="RavenGuard/OrbitalDeployment">
 			<model>
 				<action sound="Actions/DropPod"/>
 			</model>

@@ -2,7 +2,7 @@
 <unit>
 	<model>
 		<unit mesh="Units/SpaceMarines/DevastatorSpaceMarine"
-				material="Units/SpaceMarines/DevastatorSpaceMarine"
+				material="Units/RavenGuard/DevastatorSpaceMarine"
 				idleAnimation="Units/SpaceMarines/DevastatorSpaceMarineIdle"
 				idleAnimationCount="3"
 				idleContinuously="1"
@@ -142,7 +142,7 @@
 				</selfTarget>
 			</beginTargets>
 		</signum>
-		<orbitalDeployment requiredUpgrade="SpaceMarines/OrbitalDeployment">
+		<orbitalDeployment requiredUpgrade="RavenGuard/OrbitalDeployment">
 			<model>
 				<action sound="Actions/DropPod"/>
 			</model>

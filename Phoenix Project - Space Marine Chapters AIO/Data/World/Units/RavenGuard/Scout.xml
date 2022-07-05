@@ -2,7 +2,7 @@
 <unit dlc="Supplement10">
 	<model>
 		<unit mesh="Units/SpaceMarines/Scout"
-				material="Units/SpaceMarines/Scout"
+				material="Units/RavenGuard/Scout"
 				idleAnimation="Units/SpaceMarines/ScoutIdle"
 				idleAnimationCount="3"
 				idleContinuously="1"

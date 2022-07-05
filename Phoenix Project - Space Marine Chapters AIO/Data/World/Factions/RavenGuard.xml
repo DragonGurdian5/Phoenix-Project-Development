@@ -307,7 +307,7 @@
 			</model>
 		</deployCity>
 		<orbitalScan cooldown="1"
-				requiredUpgrade="SpaceMarines/OrbitalScan">
+				requiredUpgrade="RavenGuard/OrbitalScan">
 			<model>
 				<action sound="Actions/Scan"/>
 			</model>
@@ -326,6 +326,11 @@
 								<modifier>
 									<effects>
 										<reveal/>
+									</effects>
+								</modifier>
+								<modifier requiredUpgrade="RavenGuard/ImprovedScans">
+									<effects>
+										<radius add="1"/>
 									</effects>
 								</modifier>
 							</modifiers>

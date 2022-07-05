@@ -2,7 +2,7 @@
 <unit>
 	<model>		
 		<unit mesh="Units/SpaceMarines/LandSpeeder"
-				material="Units/SpaceMarines/LandSpeeder"
+				material="Units/RavenGuard/LandSpeeder"
 				idleAnimation="Units/SpaceMarines/LandSpeederIdle"
 				idleAnimationCount="2"
 				idleContinuously="1"

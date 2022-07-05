@@ -2,7 +2,7 @@
 <unit>
 	<model>
 		<unit mesh="Units/SpaceMarines/TacticalSpaceMarine"
-				material="Units/SpaceMarines/TacticalSpaceMarine"
+				material="Units/RavenGuard/TacticalSpaceMarine"
 				idleAnimation="Units/SpaceMarines/TacticalSpaceMarineIdle"
 				idleAnimationCount="5"
 				idleContinuously="1"
@@ -119,7 +119,7 @@
 						beginFire="0.666666666667"/>
 			</model>				
 		</throwGrenade>
-		<orbitalDeployment requiredUpgrade="SpaceMarines/OrbitalDeployment">
+		<orbitalDeployment requiredUpgrade="RavenGuard/OrbitalDeployment">
 			<model>
 				<action sound="Actions/DropPod"/>
 			</model>

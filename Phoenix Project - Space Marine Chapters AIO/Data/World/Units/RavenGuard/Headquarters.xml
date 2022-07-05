@@ -2,7 +2,7 @@
 <unit icon="Buildings/SpaceMarines/Headquarters">
 	<model>
 		<structureUnit mesh="Units/SpaceMarines/Headquarters"
-				material="Buildings/SpaceMarines/Buildings"
+				material="Buildings/RavenGuard/Buildings"
 				idleAnimationCount="0"
 				heatImpactSound="Impacts/HeatConcrete"
 				heatImpactSoundCount="4"

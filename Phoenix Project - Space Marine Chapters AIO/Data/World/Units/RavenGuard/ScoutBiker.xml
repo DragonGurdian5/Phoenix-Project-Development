@@ -2,7 +2,7 @@
 <unit>
 	<model>		
 		<unit mesh="Units/SpaceMarines/ScoutBiker"
-				material="Units/SpaceMarines/ScoutBiker"
+				material="Units/RavenGuard/ScoutBiker"
 				idleAnimation="Units/SpaceMarines/ScoutBikerIdle"
 				idleAnimationCount="4"
 				idleContinuously="1"

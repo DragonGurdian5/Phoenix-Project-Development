@@ -2,7 +2,7 @@
 <unit>
 	<model>		
 		<unit mesh="Units/SpaceMarines/Vindicator"
-				material="Units/SpaceMarines/Vindicator"
+				material="Units/RavenGuard/Vindicator"
 				idleAnimation=""
 				idleAnimationCount="0"
 				scale="1.2 1.2 1.2"

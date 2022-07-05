@@ -2,7 +2,7 @@
 <unit dlc="Supplement6">
 	<model>		
 		<unit mesh="Units/SpaceMarines/Razorback"
-				material="Units/SpaceMarines/Razorback"
+				material="Units/RavenGuard/Razorback"
 				idleContinuously="1"
 				idleAnimation="Units/SpaceMarines/RazorbackIdle"
 				idleAnimationCount="3"

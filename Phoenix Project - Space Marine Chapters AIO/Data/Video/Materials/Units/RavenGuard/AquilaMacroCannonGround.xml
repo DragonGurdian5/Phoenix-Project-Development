@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <material>
 	<textures>
-		<texture name="Units/SpaceMarines/AquilaMacroCannonGroundDiffuse"/>
+		<texture name="Units/RavenGuard/AquilaMacroCannonGroundDiffuse"/>
 		<texture name="Units/SpaceMarines/AquilaMacroCannonGroundNormal"/>
 		<texture name="Units/SpaceMarines/AquilaMacroCannonGroundSIC"/>
 		<texture name="ShadowMapColor"/>

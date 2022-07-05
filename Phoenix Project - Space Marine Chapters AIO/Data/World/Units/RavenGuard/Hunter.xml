@@ -2,7 +2,7 @@
 <unit>
 	<model>		
 		<unit mesh="Units/SpaceMarines/Hunter"
-				material="Units/SpaceMarines/Hunter"
+				material="Units/RavenGuard/Hunter"
 				idleAnimation="Units/SpaceMarines/HunterIdle"
 				idleAnimationCount="2"
 				scale="1.1 1.1 1.1"

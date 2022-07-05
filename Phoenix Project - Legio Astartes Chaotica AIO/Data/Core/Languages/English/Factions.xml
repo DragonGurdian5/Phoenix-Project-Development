@@ -65,6 +65,8 @@
 	<!-- Compatability Discovery and Defeats -->
 	<entry name="IronWarriorsDiscoveredRavenGuard" value="Aha! The Sons of Corax believe themselves to be so hidden, undiscoverable, yet they leave themselves out in the open such as this. They will fall underfoot. 'Victory or Death', they say, and so we shall oblige!"/>
 	<entry name="IronWarriorsDefeatedRavenGuard" value="As expected. The Shadows were weak. They crushed themselves upon our steeled bastions, and then found their 'shadowed blades' failed to pierce our armours. Pitiful."/>
+	<entry name="IronWarriorsDiscoveredKrieg" value=""/>
+	<entry name="IronWarriorsDefeatedKrieg" value=""/>
 
 	<!-- Vanilla Faction Rename -->
 	<entry name="ChaosSpaceMarines" value="Legio Astartes Chaotica (Generic)"/>

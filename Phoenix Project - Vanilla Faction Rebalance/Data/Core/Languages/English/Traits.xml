@@ -4,4 +4,7 @@
 	<entry name="Tau/CalmShooting" value="Calm Shot"/>
 	<entry name="Tau/CalmShootingDescription" value="Doubles the attacks when over half range."/>
 
+	<entry name="TauLongRange" value="Long Range Weapon"/>
+	<entry name="TauLongRangeDescription" value=""/>
+
 </language>

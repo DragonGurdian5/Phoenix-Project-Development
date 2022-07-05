@@ -1,16 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <language>
-	<entry name="abyss" value="The Abyss"/>
-	<entry name="abyssDescription" value=""/>
-	<entry name="abyssFlavor" value=""/>
-	<entry name="umbralform" value="Umbral Form"/>
-	<entry name="umbralformDescription" value=""/>
-	<entry name="umbralformFlavor" value=""/>
-	<entry name="shadowstep" value="Shadowstep"/>
-	<entry name="shadowstepDescription" value=""/>
-	<entry name="shadowstepFlavor" value=""/>
 
-	<entry name="RavenGuard/deployChapterMaster" value="<string name='Actions/DeployUnit'/>"/>
-	<entry name="RavenGuard/deployChapterMasterHint" value="<string name='Actions/DeployUnitHint'/>"/>
+	<entry name="RavenGuard/CoraxIngenuity" value="Corax's Ingenuity"/>
+	<entry name="RavenGuard/CoraxIngenuityDescription" value=""/>
+	<entry name="RavenGuard/CoraxIngenuityFlavor" value="The Librarian plunges his mind into the Warp, harnessing its power. He is infused with power, embodying the pure ideals of Corax, and emanating his power to those around him."/>
+
+	<entry name="RavenGuard/CurseOfTheRaven" value="Curse of the Raven"/>
+	<entry name="RavenGuard/CurseOfTheRavenDescription" value=""/>
+	<entry name="RavenGuard/CurseOfTheRavenFlavor" value=""/>
+
+	<entry name="RavenGuard/UnkindnessOfDeliverance" value="Unkindness of Deliverance"/>
+	<entry name="RavenGuard/UnkindnessOfDeliveranceDescription" value=""/>
+	<entry name="RavenGuard/UnkindnessOfDeliveranceFlavor" value=""/>
+
+	<entry name="RavenGuard/Shadowstep" value="Shadowstep"/>
+	<entry name="RavenGuard/ShadowstepDescription" value=""/>
+	<entry name="RavenGuard/ShadowstepFlavor" value="The gloom of the battlefield coalesces into a dark passageway that allow those who use it to stalk amongst shadows and re-emerge where the foe leasts expects them."/>
+
+	<entry name="RavenGuard/UmbralForm" value="Umbral Form"/>
+	<entry name="RavenGuard/UmbralFormDescription" value=""/>
+	<entry name="RavenGuard/UmbralFormFlavor" value=""/>
+
+	<entry name="RavenGuard/EnvelopingDarkness" value="Enveloping Darkness"/>
+	<entry name="RavenGuard/EnvelopingDarknessDescription" value=""/>
+	<entry name="RavenGuard/EnvelopingDarknessFlavor" value=""/>
+
+	<entry name="RavenGuard/SpectralBlade" value="Spectral Blade"/>
+	<entry name="RavenGuard/SpectralBladeDescription" value=""/>
+	<entry name="RavenGuard/SpectralBladeFlavor" value=""/>
+
+	<entry name="RavenGuard/TheAbyss" value="The Abyss"/>
+	<entry name="RavenGuard/TheAbyssDescription" value=""/>
+	<entry name="RavenGuard/TheAbyssFlavor" value=""/>
+
+	<entry name="RavenGuard/DarknessWithin" value="The Darkness Within"/>
+	<entry name="RavenGuard/DarknessWithinDescription" value=""/>
+	<entry name="RavenGuard/DarknessWithinFlavor" value=""/>
 
 </language>
