@@ -23,4 +23,9 @@
 	<entry name="Krieg3" value="Command Center 17"/>
 	<entry name="KriegCount" value="4"/>
 
+	<!-- Imperial Fists -->
+	<entry name="ImperialFists" value="<string name='Factions/ImperialFists'/>"/>
+	<entry name="ImperialFists0" value="Fortress of Dorn"/>
+	<entry name="ImperialFistsCount" value="1"/>
+
 </language>
