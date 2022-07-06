@@ -14,7 +14,8 @@
 
 	<!-- Iron Warriors -->
 	<entry name="IronWarriors0" value="Honosou"/>
-	<entry name="IronWarriorsCount" value="1"/>
+	<entry name="IronWarriors1" value="Kheladon"/>
+	<entry name="IronWarriorsCount" value="2"/>
 
 	<!-- Death Korps of Krieg-->
 	<entry name="Krieg0" value="Wilhelm"/>
@@ -24,5 +25,10 @@
 	<entry name="Krieg4" value="Dietrich"/>
 	<entry name="Krieg5" value="Volst"/>
 	<entry name="KriegCount" value="6"/>
-	
+
+	<!-- Imperial Fists -->
+	<entry name="ImperialFists0" value="Gregor"/>
+	<entry name="ImperialFists1" value="Lysander"/>
+	<entry name="ImperialFistsCount" value="2"/>
+
 </language>
