@@ -110,6 +110,7 @@
 		</throwGrenade>
 	</actions>
 	<traits>
+		<trait name="Krieg/CultOfSacrifice"/>
 		<trait name="ExtraInfantryArmour" requiredUpgrade="AstraMilitarum/ExtraInfantryArmour"/>
 	</traits>
 </unit>

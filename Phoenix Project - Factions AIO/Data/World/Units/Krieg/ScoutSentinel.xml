@@ -155,6 +155,7 @@
 		</useWeapon>
 	</actions>
 	<traits>
+		<trait name="Krieg/CultOfSacrifice"/>
 		<trait name="CamoNetting" requiredUpgrade="AstraMilitarum/CamoNetting"/>
 		<trait name="ExtraVehicleArmour" requiredUpgrade="AstraMilitarum/ExtraVehicleArmour"/>
 		<trait name="RecoveryGear" requiredUpgrade="AstraMilitarum/RecoveryGear"/>

@@ -253,6 +253,7 @@
 		<shop/>
 	</actions>
 	<traits>
+		<trait name="Krieg/CultOfSacrifice"/>
 		<trait name="CamoNetting" requiredUpgrade="AstraMilitarum/CamoNetting"/>
 		<trait name="DozerBlade" requiredUpgrade="AstraMilitarum/DozerBlade"/>
 		<trait name="ExtraVehicleArmour" requiredUpgrade="AstraMilitarum/ExtraVehicleArmour"/>

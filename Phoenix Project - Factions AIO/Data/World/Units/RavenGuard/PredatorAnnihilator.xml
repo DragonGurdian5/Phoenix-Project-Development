@@ -20,7 +20,7 @@
 		</weapon>
 		<weapon name="HeavyBolter"
 				count="2"
-				requiredUpgrade="SpaceMarines/PredatorLascannon">
+				requiredUpgrade="RavenGuard/PredatorHeavyBolters">
 			<model>
 				<projectileWeapon bone="Hull"
 						mesh="Weapons/SpaceMarines/PredatorHeavyBolters"

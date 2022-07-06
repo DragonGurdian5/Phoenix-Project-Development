@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<building>
+	<modifiers>
+		<modifier visible="0">
+			<effects>
+				<productionCost base="36"/>
+				<requisitionsCost base="50"/>
+				<populationRequired base="1"/>
+				<slotsRequired base="1"/>
+				<energyUpkeep add="2"/>
+			</effects>
+		</modifier>
+		<modifier>
+			<effects>
+				<populationLimit add="1"/>
+				<production add="6"/>
+				<research add="2"/>
+			</effects>
+		</modifier>
+	</modifiers>
+	<productionModifiers>
+		<modifier>
+			<effects>
+				
+			</effects>
+		</modifier>
+	</productionModifiers>
+	<strategyModifiers>
+		<modifier>
+			<effects>
+				<increaseInfantryProductionScore base="1.0"/>
+			</effects>
+		</modifier>
+	</strategyModifiers>
+	<actions>
+		<produceUnit unit="ImperialFists/TacticalSpaceMarine"/>
+		<!-- 
+		<produceUnit unit="ImperialFists/Scout" requiredUpgrade="ImperialFists/Scout"/>
+		<produceUnit unit="ImperialFists/AssaultSpaceMarine" requiredUpgrade="ImperialFists/AssaultSpaceMarine"/>
+		<produceUnit unit="ImperialFists/DevastatorSpaceMarine" requiredUpgrade="ImperialFists/DevastatorSpaceMarine"/>
+		<produceUnit unit="ImperialFists/Apothecary" requiredUpgrade="ImperialFists/Apothecary"/>
+		<produceUnit unit="ImperialFists/Terminator" requiredUpgrade="ImperialFists/Terminator"/> 
+		<produceUnit unit="ImperialFists/SternguardVeteran" requiredUpgrade="ImperialFists/SternguardVeteran"/>
+		<produceUnit unit="ImperialFists/VanguardVeteran" requiredUpgrade="ImperialFists/VanguardVeteran"/> 
+		-->
+	</actions>
+</building>

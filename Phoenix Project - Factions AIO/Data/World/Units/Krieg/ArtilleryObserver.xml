@@ -192,6 +192,6 @@
 		-->
 	</actions>
 	<traits>
-		
+		<trait name="Krieg/CultOfSacrifice"/>
 	</traits>
 </unit>

@@ -111,6 +111,7 @@
 		</useWeapon>		
 	</actions>
 	<traits>
+		<trait name="Krieg/CultOfSacrifice"/>
 		<trait name="Amphibious"/>
 		<trait name="CamoNetting" requiredUpgrade="AstraMilitarum/CamoNetting"/>
 		<trait name="DozerBlade" requiredUpgrade="AstraMilitarum/DozerBlade"/>

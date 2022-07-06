@@ -11,14 +11,32 @@
 				bloodBone="ChestBone"
 				walker="1"/>
 	</model>
-	<group size="3" rowSize="5" memberDeltaX="70" memberDeltaY="50"/>
+	<group size="10" rowSize="5" memberDeltaX="70" memberDeltaY="50"/>
 	<weapons>
-
+		<weapon name="LuciusLasgun">
+			<model>
+				<beamWeapon mesh="Weapons/AstraMilitarum/GuardsmanLasgun"
+						material="Weapons/AstraMilitarum/GuardsmanLasgun"
+						bone="RightHandBone"
+						muzzleBone="GuardsmanLasgunMuzzle0"
+						fireInterval="0.5"/>
+			</model>
+		</weapon>
+		<weapon name="FragGrenade" slotName="FragGrenade" enabled="0">
+			<model>
+				<grenadeWeapon muzzleBone="LeftHandBone"/>
+			</model>
+		</weapon>
+		<weapon name="KrakGrenade" slotName="KrakGrenade" enabled="0">
+			<model>
+				<grenadeWeapon muzzleBone="LeftHandBone"/>
+			</model>
+		</weapon>
 	</weapons>
 	<modifiers>
 		<modifier visible="0">
 			<effects>
-				<armor base="4"/> <!-- %armor base armor=5+ -->
+				<armor base="3"/> <!-- %armor base armor=5+ -->
 				<foodUpkeep base="1.0"/> <!-- %foodUpkeep base tier=4 factor=1 -->
 				<foodCost base="10.0"/> <!-- %foodCost base tier=4 factor=0.5 -->
 				<hitpointsMax base="1.5"/> <!-- %hitpointsMax base toughness=3 wounds=1 -->
@@ -71,34 +89,20 @@
 						soundCount="4"/>
 			</model>
 		</move>
-		<narthecium cooldown="1">
+		<throwGrenade weaponSlotName="FragGrenade" cooldown="10"
+				requiredUpgrade="Krieg/FragGrenade">
 			<model>
-				<action sound="Actions/Heal"/>
+				<action animation="Units/AstraMilitarum/GuardsmanGrenade"
+						beginFire="0.833333333333"/>
 			</model>
-			<beginTargets>
-				<target rangeMax="1">
-					<conditions>
-						<unit>
-							<allied/>
-							<damaged/>
-							<noTrait name="Fortification"/>
-							<noTrait name="Vehicle"/>
-						</unit>
-					</conditions>
-					<areas>
-						<area affects="Unit">
-							<modifiers>
-								<modifier>
-									<effects>
-										<hitpoints add="8"/>
-									</effects>
-								</modifier>
-							</modifiers>
-						</area>
-					</areas>
-				</target>
-			</beginTargets>
-		</narthecium>
+		</throwGrenade>
+		<throwGrenade weaponSlotName="KrakGrenade" cooldown="10"
+				requiredUpgrade="Krieg/KrakGrenade">
+			<model>
+				<action animation="Units/AstraMilitarum/GuardsmanGrenade"
+						beginFire="0.833333333333"/>
+			</model>				
+		</throwGrenade>
 	</actions>
 	<traits>
 		<trait name="Krieg/CultOfSacrifice"/>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<faction actionsTitle="GUI/Operations"
+		buildingVariations="3"
+		constructSound="Actions/Construct" 
+		energy="1"
+		energyPooling="0.25"
+		influence="1"
+		loyalty="1"
+		playable="1"
+		production="1"
+		requisitions="1"
+		research="1"
+		startingEnergy="25"
+		startingFood="0"
+		startingInfluence="25"
+		startingOre="0"
+		startingRequisitions="75">
+	<music>
+		<track name="Music/AdeptusMechanicusBGM" dlc="Supplement9"/>
+		<track name="Music/AdeptusMechanicusTheme" dlc="Supplement9"/>
+		<track name="Music/AstraMilitarumBGM"/>
+		<track name="Music/AstraMilitarumTheme"/>
+		<track name="Music/BGM0"/>
+		<track name="Music/BGM1"/>
+		<track name="Music/ChaosSpaceMarinesBGM" dlc="Supplement3"/>
+		<track name="Music/ChaosSpaceMarinesTheme" dlc="Supplement3"/>
+		<track name="Music/EldarBGM" dlc="Supplement7"/>
+		<track name="Music/EldarTheme" dlc="Supplement7"/>
+		<track name="Music/MainBGM"/>
+		<track name="Music/MainTheme"/>
+		<track name="Music/NecronsBGM"/>
+		<track name="Music/NecronsTheme"/>
+		<track name="Music/OrksBGM"/>
+		<track name="Music/OrksTheme"/>
+		<mainTrack name="Music/SpaceMarinesBGM"/>
+		<track name="Music/SpaceMarinesTheme"/>
+		<track name="Music/TauBGM" dlc="Supplement5"/>
+		<track name="Music/TauTheme" dlc="Supplement5"/>
+		<track name="Music/TyranidsBGM" dlc="Supplement2"/>
+		<track name="Music/TyranidsTheme" dlc="Supplement2"/>
+	</music>
+	<actions>
+		<deployCity charges="1">
+			<model>
+				<action sound="Actions/DropPod"/>
+			</model>
+		</deployCity>
+		<orbitalScan cooldown="1"
+				requiredUpgrade="ImperialFists/OrbitalScan">
+			<model>
+				<action sound="Actions/Scan"/>
+			</model>
+			<modifiers>
+				<modifier visible="0">
+					<effects>
+						<influenceCost base="20"/>
+					</effects>
+				</modifier>
+			</modifiers>
+			<beginTargets>
+				<target rangeMax="-1" sighted="0">
+					<areas>
+						<area affects="Tile" radius="1">
+							<modifiers>
+								<modifier>
+									<effects>
+										<reveal/>
+									</effects>
+								</modifier>
+							</modifiers>
+						</area>
+					</areas>
+				</target>
+			</beginTargets>
+		</orbitalScan>
+		<orbitalBombardment cooldown="1"
+				requiredUpgrade="ImperialFists/OrbitalBombardment">
+			<model>
+				<action sound="Actions/BombDrop"/>
+			</model>
+			<modifiers>
+				<modifier visible="0">
+					<effects>
+						<influenceCost base="80"/>
+					</effects>
+				</modifier>
+			</modifiers>
+			<beginTargets>
+				<target rangeMax="-1">
+					<conditions>
+						<unit>
+							<enemy/>
+						</unit>
+					</conditions>
+					<areas>
+						<area affects="Unit">
+							<modifiers>
+								<modifier>
+									<effects>
+										<weaponDamage weapon="OrbitalBombardment"/>
+									</effects>
+								</modifier>
+							</modifiers>
+						</area>
+					</areas>
+				</target>
+			</beginTargets>
+		</orbitalBombardment>
+		<deployFortress charges="1"
+				cooldownScalesWithPace="1"
+				icon="Actions/ImperialFists/deployChapterMaster"
+				scaleInfluenceCost="1"
+				unit="ImperialFists/ChapterMaster"
+				requiredUpgrade="ImperialFists/ChapterMaster">
+			<model>
+				<action sound="Actions/DropPod"/>
+			</model>
+			<modifiers>
+				<modifier visible="0">
+					<effects>
+						<influenceCost base="100"/>
+					</effects>
+				</modifier>
+			</modifiers>
+			<beginTargets>
+				<target rangeMax="-1">
+					<conditions>
+						<tile>
+							<noFeatureCategory name="Resource"/>
+							<noFeatureCategory name="WireWeed"/>
+							<land/>
+							<noEnemyCity/>
+							<noUnit/>
+							<noFeature name="GravityWaves"/>
+						</tile>
+					</conditions>
+				</target>
+			</beginTargets>
+		</deployFortress>
+	</actions>
+	<startingUnits>
+		<unit type="ImperialFists/TacticalSpaceMarine" count="3"/>
+	</startingUnits>
+</faction>

@@ -35,7 +35,7 @@
 	<actions>
 		<produceUnit unit="Krieg/Guardsman"/>
 		<produceUnit unit="Krieg/HeavyWeaponsSquad" requiredUpgrade="Krieg/HeavyWeaponsSquad"/>
-		<produceUnit unit="Krieg/Engineers" requiredUpgrade="Krieg/Engineers"/>
+		<produceUnit unit="Krieg/EngineerSquad" requiredUpgrade="Krieg/Entrenchment"/>
 		<produceUnit unit="Krieg/Grenadiers" requiredUpgrade="Krieg/Grenadiers"/>
 		<produceUnit unit="Krieg/Sniper" requiredUpgrade="Krieg/Sniper"/>
 		<produceUnit unit="Krieg/ArtilleryObserver" requiredUpgrade="Krieg/ArtilleryObserver"/>

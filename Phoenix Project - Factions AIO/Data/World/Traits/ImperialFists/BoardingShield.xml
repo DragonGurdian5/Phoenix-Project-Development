@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<trait>
+	<modifiers>
+		<modifier>
+			<conditions>
+				<unit match="Any">
+					<trait name="City"/>
+					<trait name="ImperialRuins"/>
+				</unit>
+			</conditions>
+			<effects>
+				<invulnerableDamageReduction min="0.2"/>
+			</effects>
+		</modifier>
+	</modifiers>
+</trait>

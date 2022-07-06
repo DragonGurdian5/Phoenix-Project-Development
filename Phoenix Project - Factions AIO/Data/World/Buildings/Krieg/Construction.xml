@@ -56,9 +56,9 @@
 		<constructBuilding building="Krieg/Food"/>
 		<constructBuilding building="Krieg/Energy"/>
 		<constructBuilding building="Krieg/Influence"/>
-		<constructBuilding building="Krieg/Loyalty"/>
 		<constructBuilding building="Krieg/Ore"/>
 		<constructBuilding building="Krieg/Infantry"/>
+		<constructBuilding building="Krieg/Loyalty" requiredUpgrade="Krieg/Loyalty"/>
 		<constructBuilding building="Krieg/Construction" requiredUpgrade="Krieg/Construction"/>
 		<constructBuilding building="Krieg/Aircraft" requiredUpgrade="Krieg/Aircraft"/>
 		<constructBuilding building="Krieg/Heroes" requiredUpgrade="Krieg/Heroes"/>
