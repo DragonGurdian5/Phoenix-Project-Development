@@ -26,4 +26,14 @@
 	<entry name="Difficulty4Krieg" value="Marshal"/>
 	<entry name="Difficulty5Krieg" value="Lord Commander"/>
 	<entry name="Difficulty6Krieg" value="Warmaster"/>
+
+	<!-- Imperial Fists -->
+	<entry name="Difficulty0ImperialFists" value="Neophyte"/>
+	<entry name="Difficulty1ImperialFists" value="Battle-Brother"/>
+	<entry name="Difficulty2ImperialFists" value="Brother-Sergeant"/>
+	<entry name="Difficulty3ImperialFists" value="Brother-Lieutenant"/>
+	<entry name="Difficulty4ImperialFists" value="Brother-Captain"/>
+	<entry name="Difficulty5ImperialFists" value="Chapter Master"/>
+	<entry name="Difficulty6ImperialFists" value="Praetorian of Terra"/>
+
 </language>
