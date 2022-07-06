@@ -9,7 +9,7 @@
 	<entry name="RavenGuard/AssaultCCaptainDescription" value="Legendary hero unit that excels in close combat, equipped with Jump Pack."/>
 	<entry name="RavenGuard/AssaultCCaptainFlavor" value="Amid the fire and thunder of the front lines, Space Marine Captains set a peerless example to their brothers as they carve down one enemy after another. Each Captain is a skilled warrior, a veteran of hundreds of battles who has slain whole armies of foes during his celebrated career."/>
 	
-	<entry name="RavenGuard/AssaultSpaceMarine" value="Assault Space Marines"/>
+	<entry name="RavenGuard/AssaultSpaceMarine" value="Assault Marine Squad"/>
 	<entry name="RavenGuard/AssaultSpaceMarineDescription" value="Melee infantry unit equipped with jump packs to overcome terrain obstacles."/>
 	<entry name="RavenGuard/AssaultSpaceMarineFlavor" value="The howl of jump pack turbines heralds the meteoric descent of the Assault Marines. Plunging from the sky with bolt pistols blazing, they slam into their foes like a hurricane of destruction. Screaming victims are thrown to the ground, bodies crushed beneath ceramite boots, chests ripped open by snarling chainswords. Within moments the killing is done, and the Assault Marines bound onwards, leaving behind them a ragged wound torn in the enemy's battle line."/>
 	
@@ -21,7 +21,7 @@
 	<entry name="RavenGuard/ChaplainDescription" value="Zealous hero unit that raises morale and inspires loyalty."/>
 	<entry name="RavenGuard/ChaplainFlavor" value="To meet the baleful gaze of a Space Marine Chaplain is to know that death itself will soon follow. These terrifying warrior-priests can be found wherever the fighting is thickest, inspiring their brothers to greatness with every thunderous blow and roared exhortation."/>
 	
-	<entry name="RavenGuard/DevastatorSpaceMarine" value="Devastator Space Marines"/>
+	<entry name="RavenGuard/DevastatorSpaceMarine" value="Devastator Marine Squad"/>
 	<entry name="RavenGuard/DevastatorSpaceMarineDescription" value="Infantry unit equipped to bring down heavy war machines."/>
 	<entry name="RavenGuard/DevastatorSpaceMarineFlavor" value="The battlefield echoes to the furious roar of heavy weapons as the Devastators open fire. No matter the target, no matter the odds, a Devastator Squad carries sufficient firepower to obliterate their enemies in a matter of moments. Even mighty war engines cannot stand against these deadly-accurate support troopers, shuddering to a blazing, explosion-wracked halt beneath the concentrated volleys of the Devastators."/>
 	
@@ -33,7 +33,7 @@
 	<entry name="RavenGuard/ScoutDescription" value="Infantry unit specializing in reconnaissance and infiltration."/>
 	<entry name="RavenGuard/ScoutFlavor" value="The first the enemy knows of a Scout Squad’s presence is when its advance is brought to a sudden, violent halt. Heads snap back and warriors crumple to the floor, neat holes drilled through their skulls by sniper fire. The sudden boom of shotguns sees foes thrown from their feet with bloody craters blasted in their chests and backs. Bolt pistols bark, counterpointed by the thump of heavy bolter fire and the screams of the dying as enemies caught in the crossfire are torn apart by mass-reactive shells. Even artillery and heavy weapons troopers are not safe, as ambushing Scouts burst from concealment to wreak havoc on the enemy’s rear lines. However a Scout Squad chooses to attack its foes, it will be with total surprise and from an unexpected quarter, their stealth and cunning proving to be just as deadly as bolter and blade."/>
 	
-	<entry name="RavenGuard/TacticalSpaceMarine" value="Tactical Space Marines"/>
+	<entry name="RavenGuard/TacticalSpaceMarine" value="Tactical Marine Squad"/>
 	<entry name="RavenGuard/TacticalSpaceMarineDescription" value="Versatile infantry unit."/>
 	<entry name="RavenGuard/TacticalSpaceMarineFlavor" value="Where an objective must be seized, Tactical Squads attack in a storm of gunfire and combat blades. Where the line must be held, these courageous warriors plant their feet, raise their weapons, and fight to the last. Armed with boltguns and grenades, Tactical Squads are superbly versatile strategic assets."/>
 	
@@ -74,12 +74,12 @@
 	<entry name="RavenGuard/LandSpeederFlavor" value=""/>
 
 	<entry name="RavenGuard/PredatorDestructor" value="Predator Destructor"/>
-	<entry name="RavenGuard/PredatorDescription" value=""/>
-	<entry name="RavenGuard/PredatorFlavor" value=""/>
+	<entry name="RavenGuard/PredatorDestructorDescription" value=""/>
+	<entry name="RavenGuard/PredatorDestructorFlavor" value=""/>
 
 	<entry name="RavenGuard/PredatorAnnihilator" value="Predator Annihilator"/>
-	<entry name="RavenGuard/PredatorDescription" value=""/>
-	<entry name="RavenGuard/PredatorFlavor" value=""/>
+	<entry name="RavenGuard/PredatorAnnihilatorDescription" value=""/>
+	<entry name="RavenGuard/PredatorAnnihilatorFlavor" value=""/>
 
 	<entry name="RavenGuard/Razorback" value="Razorback"/>
 	<entry name="RavenGuard/RazorbackDescription" value=""/>
@@ -147,7 +147,7 @@
 
 	<entry name="Krieg/Grenadiers" value="Death Korps Grenadier Squad"/>
 
-	<entry name="Krieg/Engineers" value="Death Korps Engineer Squad"/>
+	<entry name="Krieg/EngineerSquad" value="Death Korps Engineer Squad"/>
 
 	<entry name="Krieg/TechpriestEnginseer" value="Techpriest Enginseer"/>
 
@@ -174,5 +174,20 @@
 	<entry name="Krieg/Valkyrie" value="Valkyrie Transport"/>
 
 	<entry name="Krieg/Headquarters" value="Death Korps Headquarters"/>
+
+	<!-- Imperial Fists -->
+	<entry name="ImperialFists/TacticalSpaceMarine" value="Tactical Marine Squad"/>
+
+	<entry name="ImperialFists/AssaultSpaceMarine" value="Assault Marine Squad"/>
+
+	<entry name="ImperialFists/DevastatorSpaceMarine" value="Devastator Marine Squad"/>
+
+	<entry name="ImperialFists/VanguardVeteran" value="Vanguard Veteran Squad"/>
+	
+	<entry name="ImperialFists/SternguardVeteran" value="Sternguard Veteran Squad"/>
+
+	<entry name="ImperialFists/ChapterMaster" value="Chapter Master"/>
+
+	<entry name="ImperialFists/Headquarters" value="Fortress Command"/>
 
 </language>
