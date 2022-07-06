@@ -127,7 +127,7 @@
 	<entry name="RavenGuard/PredatorLascannon" value="<string name='Units/RavenGuard/PredatorAnnihilator'/>"/>
 	<entry name="RavenGuard/PredatorLascannonDescription" value=""/>
 
-	<entry name="RavenGuard/ExtraHeavyBolters" value="<string name='Upgrades/SpaceMarines/PredatorLascannon'/>"/>
+	<entry name="RavenGuard/ExtraHeavyBolters" value="Predator Heavy Bolter"/>
 	<entry name="RavenGuard/ExtraHeavyBoltersDescription" value=""/>
 
 	<entry name="RavenGuard/ImprovedScans" value="Improved Augur Devices"/>
@@ -214,7 +214,7 @@
 
     <entry name="Krieg/DevilDog" value="Devil Dogs"/>
 
-    <entry name="Krieg/Engineers" value="Engineers"/>
+    <entry name="Krieg/Entrenchment" value="Entrenching Tools"/>
 
     <entry name="Krieg/Grenadiers" value="Grenadiers"/>
 
