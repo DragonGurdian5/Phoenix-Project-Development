@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<language>
-	<entry name="RavenGuardCity" value="Raven Guard Fortress"/>
-	<entry name="RavenGuardDescription" value="<string name='Traits/CityDescription'/>"/>
-	<entry name="RavenGuardFlavor" value="FLAVOR"/>
-</language>

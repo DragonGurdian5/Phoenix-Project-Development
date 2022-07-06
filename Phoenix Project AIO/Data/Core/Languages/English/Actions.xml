@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+
+	<!-- Raven Guard -->
+	<entry name="RavenGuard/CoraxIngenuity" value="Corax's Ingenuity"/>
+	<entry name="RavenGuard/CoraxIngenuityDescription" value=""/>
+	<entry name="RavenGuard/CoraxIngenuityFlavor" value="The Librarian plunges his mind into the Warp, harnessing its power. He is infused with power, embodying the pure ideals of Corax, and emanating his power to those around him."/>
+
+	<entry name="RavenGuard/CurseOfTheRaven" value="Curse of the Raven"/>
+	<entry name="RavenGuard/CurseOfTheRavenDescription" value=""/>
+	<entry name="RavenGuard/CurseOfTheRavenFlavor" value=""/>
+
+	<entry name="RavenGuard/UnkindnessOfDeliverance" value="Unkindness of Deliverance"/>
+	<entry name="RavenGuard/UnkindnessOfDeliveranceDescription" value=""/>
+	<entry name="RavenGuard/UnkindnessOfDeliveranceFlavor" value=""/>
+
+	<entry name="RavenGuard/Shadowstep" value="Shadowstep"/>
+	<entry name="RavenGuard/ShadowstepDescription" value=""/>
+	<entry name="RavenGuard/ShadowstepFlavor" value="The gloom of the battlefield coalesces into a dark passageway that allow those who use it to stalk amongst shadows and re-emerge where the foe leasts expects them."/>
+
+	<entry name="RavenGuard/UmbralForm" value="Umbral Form"/>
+	<entry name="RavenGuard/UmbralFormDescription" value=""/>
+	<entry name="RavenGuard/UmbralFormFlavor" value=""/>
+
+	<entry name="RavenGuard/EnvelopingDarkness" value="Enveloping Darkness"/>
+	<entry name="RavenGuard/EnvelopingDarknessDescription" value=""/>
+	<entry name="RavenGuard/EnvelopingDarknessFlavor" value=""/>
+
+	<entry name="RavenGuard/SpectralBlade" value="Spectral Blade"/>
+	<entry name="RavenGuard/SpectralBladeDescription" value=""/>
+	<entry name="RavenGuard/SpectralBladeFlavor" value=""/>
+
+	<entry name="RavenGuard/TheAbyss" value="The Abyss"/>
+	<entry name="RavenGuard/TheAbyssDescription" value=""/>
+	<entry name="RavenGuard/TheAbyssFlavor" value=""/>
+
+	<entry name="RavenGuard/DarknessWithin" value="The Darkness Within"/>
+	<entry name="RavenGuard/DarknessWithinDescription" value=""/>
+	<entry name="RavenGuard/DarknessWithinFlavor" value=""/>
+
+	<!-- Death Korps of Krieg -->
+	<entry name="Krieg/Bombardment" value="Artillery Strike"/>
+	<entry name="Krieg/BombardmentDescription" value="Call in an off-map artillery barrage on a target in range."/>
+	<entry name="Krieg/BombardmentFlavor" value="“Infantry win firefights. Tanks win battles. Artillery win wars.”<br> — Old saying amongst Imperial Guard artillery officers"/>
+	
+	<entry name="Krieg/DangerClose" value="Danger Close!"/>
+	<entry name="Krieg/DangerCloseDescription" value="Call in a superheavy off-map artillery barrage on a target in range."/>
+	<entry name="Krieg/DangerCloseFlavor" value="“Infantry win firefights. Tanks win battles. Artillery win wars.”<br> — Old saying amongst Imperial Guard artillery officers"/>
+
+	<entry name="Krieg/ObserverNearby" value="Artillery Spotter Support"/>
+	<entry name="Krieg/ObserverNearbyDescription" value="Range improvement to nearby Artillery units."/>
+	<entry name="Krieg/ObserverNearbyFlavor" value=""/>
+
+	<!-- Iron Warriors -->
+	<entry name="IronWarriors/convertWildlife" value="For the Dark Gods!"/>
+	<entry name="IronWarriors/convertWildlifeDescription" value="Convert the local Cultists to your Warband - whether they like it or not. Enslaved Units cannot be converted. Cost scales with target strength."/>
+	<entry name="IronWarriors/convertWildlifeFlavor" value="“Your shrines will burn, your streets run with blood, your false idols shattered, your people slaughtered by the thousands, your very planet torn apart... and the barest fraction of my hatred will be satisfied.”<br/>  — Ba'ar Zul the Hate-Bound, Warrior of Khorne."/>
+
+	<entry name="IronWarriors/WebwayRedoubt" value="Summon City"/>
+	<entry name="IronWarriors/WebwayRedoubtDescription" value="Summon a pillar of Warp energy to form the basis of a new Fortress."/>
+	<entry name="IronWarriors/WebwayRedoubtFlavor" value="While the Psykic cultists are little more than annoyances, they have soem uses. They can commune with the slaves of our Father, and summon from him a new foundation for a Fortress in our own glory."/>
+
+
+</language>

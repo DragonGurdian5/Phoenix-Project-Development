@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<!-- Raven Guard -->
+	<entry name="RavenGuard/Apothecary" value="Apothecaries"/>
+	<entry name="RavenGuard/ApothecaryDescription" value="Infantry unit that heals allied infantry."/>
+	<entry name="RavenGuard/ApothecaryFlavor" value="These courageous field-surgeons face the full heat of battle, their nartheciums healing even grievous injuries, and their vials of combat stimms and anticoagulants quickly getting wounded brothers back into the fight. They also administer the Emperor's grace to those beyond help, extracting the progenoid glands containing the gene-seed so that the Space Marine's legacy might live on."/>
+	
+	<entry name="RavenGuard/AssaultCaptain" value="Shadow-Captain (Jump)"/>
+	<entry name="RavenGuard/AssaultCCaptainDescription" value="Legendary hero unit that excels in close combat, equipped with Jump Pack."/>
+	<entry name="RavenGuard/AssaultCCaptainFlavor" value="Amid the fire and thunder of the front lines, Space Marine Captains set a peerless example to their brothers as they carve down one enemy after another. Each Captain is a skilled warrior, a veteran of hundreds of battles who has slain whole armies of foes during his celebrated career."/>
+	
+	<entry name="RavenGuard/AssaultSpaceMarine" value="Assault Space Marines"/>
+	<entry name="RavenGuard/AssaultSpaceMarineDescription" value="Melee infantry unit equipped with jump packs to overcome terrain obstacles."/>
+	<entry name="RavenGuard/AssaultSpaceMarineFlavor" value="The howl of jump pack turbines heralds the meteoric descent of the Assault Marines. Plunging from the sky with bolt pistols blazing, they slam into their foes like a hurricane of destruction. Screaming victims are thrown to the ground, bodies crushed beneath ceramite boots, chests ripped open by snarling chainswords. Within moments the killing is done, and the Assault Marines bound onwards, leaving behind them a ragged wound torn in the enemy's battle line."/>
+	
+	<entry name="RavenGuard/Captain" value="Shadow-Captain"/>
+	<entry name="RavenGuard/CaptainDescription" value="Legendary hero unit that excels in close combat."/>
+	<entry name="RavenGuard/CaptainFlavor" value="Amid the fire and thunder of the front lines, Space Marine Captains set a peerless example to their brothers as they carve down one enemy after another. Each Captain is a skilled warrior, a veteran of hundreds of battles who has slain whole armies of foes during his celebrated career."/>
+	
+	<entry name="RavenGuard/Chaplain" value="Chaplain"/>
+	<entry name="RavenGuard/ChaplainDescription" value="Zealous hero unit that raises morale and inspires loyalty."/>
+	<entry name="RavenGuard/ChaplainFlavor" value="To meet the baleful gaze of a Space Marine Chaplain is to know that death itself will soon follow. These terrifying warrior-priests can be found wherever the fighting is thickest, inspiring their brothers to greatness with every thunderous blow and roared exhortation."/>
+	
+	<entry name="RavenGuard/DevastatorSpaceMarine" value="Devastator Space Marines"/>
+	<entry name="RavenGuard/DevastatorSpaceMarineDescription" value="Infantry unit equipped to bring down heavy war machines."/>
+	<entry name="RavenGuard/DevastatorSpaceMarineFlavor" value="The battlefield echoes to the furious roar of heavy weapons as the Devastators open fire. No matter the target, no matter the odds, a Devastator Squad carries sufficient firepower to obliterate their enemies in a matter of moments. Even mighty war engines cannot stand against these deadly-accurate support troopers, shuddering to a blazing, explosion-wracked halt beneath the concentrated volleys of the Devastators."/>
+	
+	<entry name="RavenGuard/Librarian" value="Shadow-Librarian"/>
+	<entry name="RavenGuard/LibrarianDescription" value="Hero unit with versatile psychic powers."/>
+	<entry name="RavenGuard/LibrarianFlavor" value="Eyes blazing and fists crackling with the roiling energies of the Warp, Space Marine Librarians stride into battle to destroy their foes. Some hurl blasts of force that crush their victims to paste, while others twist the flow of time itself, or revitalise their brothers with incredible surges of vitality. However they choose to fight, all Librarians are powerful psykers, harnessing the potent mutation they bear as a force to defend Humanity."/>
+	
+	<entry name="RavenGuard/Scout" value="Scouts"/>
+	<entry name="RavenGuard/ScoutDescription" value="Infantry unit specializing in reconnaissance and infiltration."/>
+	<entry name="RavenGuard/ScoutFlavor" value="The first the enemy knows of a Scout Squad’s presence is when its advance is brought to a sudden, violent halt. Heads snap back and warriors crumple to the floor, neat holes drilled through their skulls by sniper fire. The sudden boom of shotguns sees foes thrown from their feet with bloody craters blasted in their chests and backs. Bolt pistols bark, counterpointed by the thump of heavy bolter fire and the screams of the dying as enemies caught in the crossfire are torn apart by mass-reactive shells. Even artillery and heavy weapons troopers are not safe, as ambushing Scouts burst from concealment to wreak havoc on the enemy’s rear lines. However a Scout Squad chooses to attack its foes, it will be with total surprise and from an unexpected quarter, their stealth and cunning proving to be just as deadly as bolter and blade."/>
+	
+	<entry name="RavenGuard/TacticalSpaceMarine" value="Tactical Space Marines"/>
+	<entry name="RavenGuard/TacticalSpaceMarineDescription" value="Versatile infantry unit."/>
+	<entry name="RavenGuard/TacticalSpaceMarineFlavor" value="Where an objective must be seized, Tactical Squads attack in a storm of gunfire and combat blades. Where the line must be held, these courageous warriors plant their feet, raise their weapons, and fight to the last. Armed with boltguns and grenades, Tactical Squads are superbly versatile strategic assets."/>
+	
+	<entry name="RavenGuard/Terminator" value="Terminators"/>
+	<entry name="RavenGuard/TerminatorDescription" value="Heavily armoured infantry unit that can take on virtually every ground opponent."/>
+	<entry name="RavenGuard/TerminatorFlavor" value="Near invincible and utterly indomitable, Terminators undertake those missions that even their power-armoured brethren cannot. Whether it be an unsupported strike into the heart of an enemy fortress, or hunting super-heavy war engines on foot, these heroic 1st Company Veterans are equal to the task."/>
+	
+	<entry name="RavenGuard/VeteranAssault" value="Vanguard Veteran Squad"/>
+	<entry name="RavenGuard/VeteranAssaultDescription" value=""/>
+	<entry name="RavenGuard/VeteranAssaultFlavor" value=""/>
+
+	<entry name="RavenGuard/VeteranSquad" value="Sternguard Veteran Squad"/>
+	<entry name="RavenGuard/VeteranSquadDescription" value=""/>
+	<entry name="RavenGuard/VeteranSquadFlavor" value=""/>
+
+	<entry name="RavenGuard/MasterOfShadows" value="Master of Shadows"/>
+	<entry name="RavenGuard/MasterOfShadowsDescription" value="Legendary Hero Unit, and the Chapter Master of the Raven Guard"/>
+	<entry name="RavenGuard/MasterOfShadowsFlavor" value="Firstmost among the Shadows, the Chapter Master of the Raven Guard is a Jump Assault Marine, equipped with several fields of combat exprience, and a variety Relics of the Chapter."/>
+	
+	<entry name="RavenGuard/Headquarters" value="<string name='Buildings/RavenGuard/Headquarters'/>"/>
+	<entry name="RavenGuard/HeadquartersDescription" value="Headquarters unit that represents the fortress city's defenses."/>
+	<entry name="RavenGuard/HeadquartersFlavor" value="<string name='Buildings/RavenGuard/HeadquartersFlavor'/>"/>
+
+	<entry name="RavenGuard/Dreadnought" value="Castraferrum Dreadnought"/>
+	<entry name="RavenGuard/DreadnoughtDescription" value="Units/SpaceMarines/DreadnoughtDescription"/>
+	<entry name="RavenGuard/DreadnoughtFlavor" value="Units/SpaceMarines/DreadnoughtFlavor"/>
+
+	<entry name="RavenGuard/Hunter" value="Hunter"/>
+	<entry name="RavenGuard/HunterDescription" value="Units/SpaceMarines/HunterDescription"/>
+	<entry name="RavenGuard/HunterFlavor" value="Units/SpaceMarines/HunterFlavor"/>
+
+	<entry name="RavenGuard/LandRaider" value="Land Raider Phobos"/>
+	<entry name="RavenGuard/LandRaiderDescription" value=""/>
+	<entry name="RavenGuard/LandRaiderFlavor" value=""/>
+
+	<entry name="RavenGuard/LandSpeeder" value="Land Speeders"/>
+	<entry name="RavenGuard/LandSpeederDescription" value=""/>
+	<entry name="RavenGuard/LandSpeederFlavor" value=""/>
+
+	<entry name="RavenGuard/PredatorDestructor" value="Predator Destructor"/>
+	<entry name="RavenGuard/PredatorDescription" value=""/>
+	<entry name="RavenGuard/PredatorFlavor" value=""/>
+
+	<entry name="RavenGuard/PredatorAnnihilator" value="Predator Annihilator"/>
+	<entry name="RavenGuard/PredatorDescription" value=""/>
+	<entry name="RavenGuard/PredatorFlavor" value=""/>
+
+	<entry name="RavenGuard/Razorback" value="Razorback"/>
+	<entry name="RavenGuard/RazorbackDescription" value=""/>
+	<entry name="RavenGuard/RazorbackFlavor" value=""/>
+
+	<entry name="RavenGuard/ScoutBiker" value="Scout Bikes"/>
+	<entry name="RavenGuard/ScoutBikerDescription" value=""/>
+	<entry name="RavenGuard/ScoutBikerFlavor" value=""/>
+
+	<entry name="RavenGuard/Vindicator" value="Vindicator"/>
+	<entry name="RavenGuard/VindicatorDescription" value=""/>
+	<entry name="RavenGuard/VindicatorFlavor" value=""/>
+
+	<!-- Iron Warriors -->
+	<entry name="IronWarriors/Headquarters" value="<string name='Buildings/IronWarriors/Headquarters'/>"/>
+	<entry name="IronWarriors/HeadquartersDescription" value="Headquarters unit that represents the fortress city's defenses."/>
+	<entry name="IronWarriors/HeadquartersFlavor" value="<string name='Buildings/IronWarriors/HeadquartersFlavor'/>"/>
+
+	<entry name="IronWarriors/ChaosCultist" value="Chaos Cultist Mob"/>
+
+	<entry name="IronWarriors/AugmentedChaosSpaceMarine" value="Augmented Marine Squad"/>
+
+	<entry name="IronWarriors/ChaosSpaceMarine" value="Chaos Space Marine Squad"/>
+
+	<entry name="IronWarriors/Havoc" value="Havoc Squad"/>
+	
+	<entry name="IronWarriors/Raptor" value="Raptor Squad"/>
+
+	<entry name="IronWarriors/ChaosLord" value="Warsmith"/>
+
+	<entry name="IronWarriors/Warpsmith" value="Warpsmith"/>
+
+	<entry name="IronWarriors/LordOfIron" value="Lord of Iron"/>
+
+	<entry name="IronWarriors/ChaosLandRaider" value="Chaos Land Raider"/>
+
+	<entry name="IronWarriors/ChaosRhino" value="Chaos Rhino"/>
+
+	<entry name="IronWarriors/Defiler" value="Defiler"/>
+
+	<entry name="IronWarriors/Forgefiend" value="Forgefiend"/>
+
+	<entry name="IronWarriors/Helbrute" value="Helbrute"/>
+
+	<entry name="IronWarriors/Heldrake" value="Heldrake"/>
+
+	<entry name="IronWarriors/Maulerfiend" value="Maulerfiend"/>
+
+	<entry name="IronWarriors/Obliterator" value="Obliterator"/>
+
+	<entry name="IronWarriors/Venomcrawler" value="Venomcrawler"/>
+
+	<!-- Death Korps of Krieg-->
+	<entry name="Krieg/LordCommissar" value="Death Korps Lord Commissar"/>
+
+	<entry name="Krieg/TankCommander" value="Death Korps Tank Commander"/>
+
+	<entry name="Krieg/ArtilleryObserver" value="Death Korps Artillery Observer"/>
+
+	<entry name="Krieg/Guardsman" value="Death Korps Infantry Squad"/>
+
+	<entry name="Krieg/HeavyWeaponsSquad" value="Death Korps Heavy Weapons Squad"/>
+
+	<entry name="Krieg/Sniper" value="Death Korps Marksman Squad"/>
+
+	<entry name="Krieg/Grenadiers" value="Death Korps Grenadier Squad"/>
+
+	<entry name="Krieg/Engineers" value="Death Korps Engineer Squad"/>
+
+	<entry name="Krieg/TechpriestEnginseer" value="Techpriest Enginseer"/>
+
+	<entry name="Krieg/Quartermaster" value="Quartermasters"/>
+
+	<entry name="Krieg/Baneblade" value="Baneblade"/>
+
+	<entry name="Krieg/Basilisk" value="Basilisk"/>
+
+	<entry name="Krieg/Chimera" value="Chimera"/>
+
+	<entry name="Krieg/DevilDog" value="Devil Dog"/>
+
+	<entry name="Krieg/Hydra" value="Hydra"/>
+
+	<entry name="Krieg/LemanRussBattleTank" value="Leman Russ Battle Tank"/>
+
+	<entry name="Krieg/ScoutSentinel" value="Scout Sentinel"/>
+
+	<entry name="Krieg/MarauderBomber" value="Marauder Bomber"/>
+
+	<entry name="Krieg/Thunderbolt" value="Thunderbolt Heavy Fighter"/>
+
+	<entry name="Krieg/Valkyrie" value="Valkyrie Transport"/>
+
+	<entry name="Krieg/Headquarters" value="Death Korps Headquarters"/>
+
+</language>

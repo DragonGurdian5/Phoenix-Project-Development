@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<!-- Raven Guard -->
+	<entry name="RavenGuard" value="<string name='Factions/RavenGuard'/>"/>
+	<entry name="RavenGuard0" value="Wings of Corax"/>
+	<entry name="RavenGuard1" value="Shadowmaw"/>
+	<entry name="RavenGuard2" value="Shadow of Gladius"/>
+	<entry name="RavenGuard3" value="Umbral Hall"/>
+	<entry name="RavenGuard4" value="Bastion of Silence"/>
+	<entry name="RavenGuard5" value="Silent Fortress"/>
+	<entry name="RavenGuardCount" value="6"/>
+
+	<!-- Iron Warriors -->
+	<entry name="IronWarriors" value="<string name='Factions/IronWarriors'/>"/>
+	<entry name="IronWarriors0" value="Ironforge"/>
+	<entry name="IronWarriorsCount" value="1"/>
+
+	<!-- Death Korps of Krieg -->
+	<entry name="Krieg" value="<string name='Factions/Krieg'/>"/>
+	<entry name="Krieg0" value="Bastion des Kaisers"/>
+	<entry name="Krieg1" value="Bastion of the Imperium"/>
+	<entry name="Krieg2" value="Trenchworks Command Complex"/>
+	<entry name="Krieg3" value="Command Center 17"/>
+	<entry name="KriegCount" value="4"/>
+
+</language>

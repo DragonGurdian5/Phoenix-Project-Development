@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<language>
-
-	<entry name="Krieg/ObserverNearby" value="Artillery Spotter Support"/>
-	<entry name="Krieg/ObserverNearbyDescription" value="Range improvement from nearby Artillery Spotters."/>
-	<entry name="Krieg/ObserverNearbyFlavor" value=""/>
-
-</language>

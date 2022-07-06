@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<!-- Raven Guard -->
+	<entry name="RavenGuard/Aircraft" value="Launch Pads"/>
+	<entry name="RavenGuard/AircraftDescription" value="Building that produces aircraft as well as generates requisitions and influence."/>
+	<entry name="RavenGuard/AircraftFlavor" value="Staging area for the Chapter's aerial assault craft and transports, from whence battle-brothers may embark upon their endless crusade. The fortress-monastery's active gunships, interceptors, landing craft and even its mighty Thunderhawks are housed in a hive of hangars below the launch pads."/>
+	
+	<entry name="RavenGuard/Construction" value="Orbital Relay"/>
+	<entry name="RavenGuard/ConstructionDescription" value="Building that constructs new buildings and generates influence."/>
+	<entry name="RavenGuard/ConstructionFlavor" value="In normal times, the various Teleportaria would be used to transport troops to and from nearby starships. In these warptorn times, the Orbital Relay serves a more important function, communicating with the low-orbiting Battle Barge and calling down important requisitions for rapid surface deployment."/>
+	
+	<entry name="RavenGuard/Energy" value="Generatorum"/>
+	<entry name="RavenGuard/EnergyDescription" value="Building that generates energy."/>
+	<entry name="RavenGuard/EnergyFlavor" value="Though the light of the Emperor is the true source of every Chapter's strength, a physical power source is also required. The exact nature of its Generatorum differs from Chapter to Chapter. The Space Wolves, for instance, have driven immense crystal shafts deep into the surface of the planet Fenris, transforming subterranean heat into the endless energy their fortress-monastery demands."/>
+	
+	<entry name="RavenGuard/GeneseedBunker" value="Geneseed Bunker"/>
+	<entry name="RavenGuard/GeneseedBunkerDescription" value="Building that stores the geneseed of your chapter and generates influence."/>
+	<entry name="RavenGuard/GeneseedBunkerFlavor" value="Using all of the secrets of the machine spirits, Techmarines have designed these bunkers to be shielded in every possible way—physically, electromagnetically and psychically. It will take the labour of hundreds of heavy Servitors, but even if a Chapter's warriors die to a man, the Apothecaries and geneseed in these bunkers will be able to resurrect it… eventually."/>
+	
+	<entry name="RavenGuard/Headquarters" value="Great Hall"/>
+	<entry name="RavenGuard/HeadquartersDescription" value="Headquarters building that generates resources, and produces Captains."/>
+	<entry name="RavenGuard/HeadquartersFlavor" value="Every fortress-monastery contains myriad halls large enough to house several armies, but most have too a Great Hall, centerpiece of a Chapter's home. Trophies, relics and even its most revered spacecraft may be housed within the Great Hall. If the sight of the Great Hall does not reduce a visitor to dumbfounded silence, then it has failed in its purpose."/>
+	
+	<entry name="RavenGuard/Chapel" value="Reclusiam"/>
+	<entry name="RavenGuard/ChapelDescription" value="Building that produces Chaplains, as well as generates influence and increases loyalty."/>
+	<entry name="RavenGuard/ChapelFlavor" value="For those rare ceremonies that require the attendance of every Battle Brother, the vastness of the Reclusiam allows the entire Chapter to gather. This is the most precious place in a fortress-monastery—home to its most sacred relics and, in a rare few, the very body of its Primarch. It is also the seat of the chapter's commanders and heroes."/>
+	
+	<entry name="RavenGuard/Housing" value="Chapel-Barracks"/>
+	<entry name="RavenGuard/HousingDescription" value="Building that increases population limit."/>
+	<entry name="RavenGuard/HousingFlavor" value="Though each Battle-Brother receives his own personal cell, those members of a Chapter who do not directly enforce the will of the Emperor share communal quarters spread across the fortress-monastery. Support staff including servants, nurses and technicians call these stark dormitories home."/>
+	
+	<entry name="RavenGuard/Infantry" value="Apothecarion"/>
+	<entry name="RavenGuard/InfantryDescription" value="Building that produces infantry as well as increases population limit and generates research."/>
+	<entry name="RavenGuard/InfantryFlavor" value="The Apothecarion provides medical support for wounded Battle-Brothers, and plays a vital role in the elevation of an Aspirant to a Space Marine. Both these functions pale into insignificance against the Apothecarion's other purpose—the preservation of its Chapter's unique gene-seed, from which new Space Marines are created. If the gene-seed is lost, so too is the Chapter."/>
+	
+	<entry name="RavenGuard/Influence" value="Assimularum"/>
+	<entry name="RavenGuard/InfluenceDescription" value="Building that generates influence."/>
+	<entry name="RavenGuard/InfluenceFlavor" value="An immense and high-ceilinged gathering-place, wherein every member of the Chapter may assemble to attend briefings, ceremonies and even feasts of particular import. In most fortress-monasteries, the Great Hall is the only room to exceed the sheer size of the Assimularum."/>
+	
+	<entry name="RavenGuard/Loyalty" value="Penitorium"/>
+	<entry name="RavenGuard/LoyaltyDescription" value="Building that increases loyalty."/>
+	<entry name="RavenGuard/LoyaltyFlavor" value="Astartes Battle-Brothers guilty of any kind of transgression are held here as a form of remedial and penitent punishment."/>
+	
+	<entry name="RavenGuard/Requisitions" value="Refectory"/>
+	<entry name="RavenGuard/RequisitionsDescription" value="Building that generates requisitions."/>
+	<entry name="RavenGuard/RequisitionsFlavor" value="The Chapter's mammoth dining halls and kitchens are contained within its Refectories. The Space Marine diet is a spartan affair, augmented with a cocktail of bio-chemical supplements to ensure constant battle-readiness. The Battle-Brothers consume this repast in complete silence."/>
+	
+	<entry name="RavenGuard/Research" value="Librarium"/>
+	<entry name="RavenGuard/ResearchDescription" value="Building that produces Librarians, as well as generates research."/>
+	<entry name="RavenGuard/ResearchFlavor" value="Though also a store for extensive written histories of its Chapter, the Librarium is first and foremost its central command, communications and defence station. Here, Astropaths manage external and intra-base comms, while Librarians and psykers pore over, protect and update the Chapter's centuries of wisdom."/>
+	
+	<entry name="RavenGuard/Vehicles" value="Armoury"/>
+	<entry name="RavenGuard/VehiclesDescription" value="Building that produces ground vehicles as well as generates requisitions and research."/>
+	<entry name="RavenGuard/VehiclesFlavor" value="Home to anything that a Marine might employ to purge the battlefield of xenos and heretics, from the simplest combat knife to the most redoubtable of relics. The Master of Ordnance keeps a close watch upon the Chapter's wargear—only his gene-print can grant access to this titanic underground repository of weapons and vehicles."/>
+
+	<entry name="RavenGuard/Heroes" value="If you see this, file a bug report!"/>
+	<entry name="RavenGuard/HeroesDescription" value="If you see this, file a bug report!"/>
+	<entry name="RavenGuard/HeroesFlavor" value="If you see this, file a bug report!"/>
+
+	<!-- Iron Warriors -->
+	<entry name="IronWarriors/Aircraft" value="Helhaunted Eyrie"/>
+	<entry name="IronWarriors/AircraftDescription" value="Building that produces heldrakes as well as generates loyalty and influence."/>
+	<entry name="IronWarriors/AircraftFlavor" value="10,000 years ago the Heldrakes were fighter craft, piloted by the cream of the Adeptus Astartes. Now, they are hideous amalgams of man and machine, formed by millennia of war into dragon-like creatures that live to fight. This artificial eyrie allows the Warpsmiths to monitor the Heldrakes and even attempt to replicate their age-old creation."/>
+
+	<entry name="IronWarriors/Construction" value="Warp Forge"/>
+	<entry name="IronWarriors/ConstructionDescription" value="Building that constructs new buildings as well as generates ore and influence."/>
+	<entry name="IronWarriors/ConstructionFlavor" value="Though the Warpsmiths’ Soul Forges are deep in the Realm of Chaos and hence inaccessible from Gladius, Chaos is nothing if not flexible. These Warp Forges are kept hot by the daily sacrifice of thousands of civilians, captured in the ruins of their fallen Hive World, to pull the warpbound buildings of Chaos into shimmering existence."/>
+
+	<entry name="IronWarriors/Cult" value="Cultist Camp"/>
+	<entry name="IronWarriors/CultDescription" value="Building that produces meatshield units, and increases loyalty."/>
+	<entry name="IronWarriors/CultFlavor" value="What are gods without followers? Here, Cultists and Dark Apostles alike plot to bring converts to the worship of Chaos—not a hard task on Gladius, once people see the inhuman Xenos, the undoubted effects of the Dark Gods’ powers, and the Daemonic shapes lingering in the chancel."/>
+
+	<entry name="IronWarriors/Energy" value="Warpbound Generator"/>
+	<entry name="IronWarriors/EnergyDescription" value="Building that generates energy."/>
+	<entry name="IronWarriors/EnergyFlavor" value="The fallen Techpriests of Chaos—now the Warpsmiths of the Dark Mechanicum—have had ten thousand years of calibrating their devices beyond the strictures of the Omnissiah. As powerful as a conventional Plasma Generator, this power source can be constructed quickly in situ. Its demon spirit draws energy from the flickering of a tear into the Empyrean to charge an infernal motion device."/>
+
+	<entry name="IronWarriors/Food" value="Renderer"/>
+	<entry name="IronWarriors/FoodDescription" value="Building that harvests food."/>
+	<entry name="IronWarriors/FoodFlavor" value=""/>
+
+	<entry name="IronWarriors/Loyalty" value=""/>
+	<entry name="IronWarriors/LoyaltyDescription" value="Building that increases loyalty."/>
+	<entry name="IronWarriors/LoyaltyFlavor" value=""/>
+
+	<entry name="IronWarriors/Headquarters" value="Iron Fortress"/>
+	<entry name="IronWarriors/HeadquartersDescription" value="Headquarters building that generates resources."/>
+	<entry name="IronWarriors/HeadquartersFlavor" value="Even ten thousand years of heresy hasn’t entirely eliminated a Traitor’s training. Like their fellow Adeptus Astartes, Traitor Marines prefer to operate from a secure, well-constructed defensive position—preferably built by the Iron Warriors. This acts as a forward operations base for their raids and pillaging."/>
+
+	<entry name="IronWarriors/Heroes" value="Warsmith's Quarters"/>
+	<entry name="IronWarriors/HeroesDescription" value="Building that produces heroes as well as generates influence and increases loyalty."/>
+	<entry name="IronWarriors/HeroesFlavor" value=""/>
+
+	<entry name="IronWarriors/Housing" value="Captive Pens"/>
+	<entry name="IronWarriors/HousingDescription" value="Building that increases population limit."/>
+	<entry name="IronWarriors/HousingFlavor" value=""/>
+
+	<entry name="IronWarriors/Infantry" value="Abominator's Genelab"/>
+	<entry name="IronWarriors/InfantryDescription" value="Building that produces infantry as well as generates food and research."/>
+	<entry name="IronWarriors/InfantryFlavor" value="Not all Chaos Space Marines date from the 30th millenium—others are recruited from civilians, brutally altered with geneseed taken from a fallen Marine. At this genelab, fallen Apothecaries operate on the strongest cultists drawn from Gladius’ ruined Hives. The few who survive the Abominators’ operations are implanted with Progenoid glands and recruited as new Chaos Space Marines."/>
+
+	<entry name="IronWarriors/Influence" value=""/>
+	<entry name="IronWarriors/InfluenceDescription" value="Building that generates influence."/>
+	<entry name="IronWarriors/InfluenceFlavor" value=""/>
+
+	<entry name="IronWarriors/Ore" value="Slave Mines"/>
+	<entry name="IronWarriors/OreDescription" value="Building that harvests ore."/>
+	<entry name="IronWarriors/OreFlavor" value=""/>
+
+	<entry name="IronWarriors/Research" value="Archive"/>
+	<entry name="IronWarriors/ResearchDescription" value="Building that generates research."/>
+	<entry name="IronWarriors/ResearchFlavor" value=""/>
+
+	<entry name="IronWarriors/Vehicles" value="Infernal Fabricator"/>
+	<entry name="IronWarriors/VehiclesDescription" value="Building that produces ground vehicles as well as generates ore and influence."/>
+	<entry name="IronWarriors/VehiclesFlavor" value="Normally confined to the Soul Forges of the Warp, these incomprehensible mechanoid structures are responsible for the creation of all Daemon vehicles. Here, Mechatendril-wreathed Warpsmiths oversee the breaking and corruption of Machine Spirits of captured Imperial vehicles, as well as the forcible incorporation of Lesser Daemons, machinery and tortured flesh into Daemon Engines."/>
+
+	<!-- Death Korps of Krieg -->
+	<entry name="Krieg/Aircraft" value="Aeronautica Imperialis Uplink"/>
+	<entry name="Krieg/Construction" value="Labour Corps"/>
+	<entry name="Krieg/Energy" value="Plasma Ioniser"/>
+	<entry name="Krieg/Food" value="Soylens Farm"/>
+	<entry name="Krieg/Loyalty" value="Sanctum Imperialis"/>
+	<entry name="Krieg/Headquarters" value="Korps Headquarters"/>
+	<entry name="Krieg/Heroes" value="Shrine of the Emperor"/>
+	<entry name="Krieg/Housing" value="Death Korps Barracks"/>
+	<entry name="Krieg/Infantry" value="Vitaewomb Bunker"/>
+	<entry name="Krieg/Influence" value="Cogitator Station"/>
+	<entry name="Krieg/Ore" value="Ore Extractor"/>
+	<entry name="Krieg/Research" value="Officio Tactica"/>
+	<entry name="Krieg/Vehicles" value="Manufactorum"/>
+
+</language>

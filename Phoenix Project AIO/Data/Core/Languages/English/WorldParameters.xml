@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<!-- Raven Guard -->
+	<entry name="Difficulty0RavenGuard" value="Neophyte"/>
+	<entry name="Difficulty1RavenGuard" value="Battle-Brother"/>
+	<entry name="Difficulty2RavenGuard" value="Shadow Sergeant"/>
+	<entry name="Difficulty3RavenGuard" value="Shadow Lieutenant"/>
+	<entry name="Difficulty4RavenGuard" value="Shadow Captain"/>
+	<entry name="Difficulty5RavenGuard" value="Master of Shaodws"/>
+	<entry name="Difficulty6RavenGuard" value="Ravenlord"/>
+
+	<!-- Iron Warriors -->
+	<entry name="Difficulty0IronWarriors" value="Cultist"/>
+	<entry name="Difficulty1IronWarriors" value="Pureblood"/>
+	<entry name="Difficulty2IronWarriors" value="Sergeant"/>
+	<entry name="Difficulty3IronWarriors" value="Legion Lieutenant"/>
+	<entry name="Difficulty4IronWarriors" value="Legion Captain"/>
+	<entry name="Difficulty5IronWarriors" value="Warsmith"/>
+	<entry name="Difficulty6IronWarriors" value="Lord of Iron"/>
+
+	<!-- Death Korps of Krieg -->
+	<entry name="Difficulty0Krieg" value="Vat-born"/>
+	<entry name="Difficulty1Krieg" value="Kriegsman"/>
+	<entry name="Difficulty2Krieg" value="Watchmaster"/>
+	<entry name="Difficulty3Krieg" value="Quartermaster"/>
+	<entry name="Difficulty4Krieg" value="Marshal"/>
+	<entry name="Difficulty5Krieg" value="Lord Commander"/>
+	<entry name="Difficulty6Krieg" value="Warmaster"/>
+</language>

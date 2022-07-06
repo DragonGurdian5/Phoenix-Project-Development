@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<!-- Raven Guard -->
+	<entry name="RavenGuard/Wraithslip" value="Wraithslip"/>
+	<entry name="RavenGuard/WraithslipDescription" value="Prevents the unit from being targeted by overwatch attacks."/>
+	<entry name="RavenGuard/WraithslipFlavor" value="While many Armies train Infiltrators, it is among the forefront of the teachings of the Sons of Corax. To move unseen, where and be where the enemy wishes you weren't."/>
+	<entry name="RavenGuard/AmbushForest" value="Masters of Ambush"/>
+	<entry name="RavenGuard/AmbushForestDescription" value="Amplifies the abilities of Overwatch, while within advantageous Features."/>
+	<entry name="RavenGuard/AmbushForestFlavor" value="The Sons of Corax are quite familiar with lying in wait. Rooftops, windows, trees, even the most miniscule speck of Shadow is a valid place for them to sit - and wait."/>
+	<entry name="RavenGuard/AmbushRuins" value="Masters of Ambush"/>
+	<entry name="RavenGuard/AmbushRuinsDescription" value="Amplifies the abilities of Overwatch, while within advantageous Features."/>
+	<entry name="RavenGuard/AmbushRuinsFlavor" value="The Sons of Corax are quite familiar with lying in wait. Rooftops, windows, trees, even the most miniscule speck of Shadow is a valid place for them to sit - and wait."/>
+	<entry name="RavenGuard/AmbushCity" value="Masters of Ambush"/>
+	<entry name="RavenGuard/AmbushCityDescription" value="Amplifies the abilities of Overwatch, while within advantageous Features."/>
+	<entry name="RavenGuard/AmbushCityFlavor" value="The Sons of Corax are quite familiar with lying in wait. Rooftops, windows, trees, even the most miniscule speck of Shadow is a valid place for them to sit - and wait."/>
+	<entry name="RavenGuard/ScoutTraining" value="Advanced Scout Training"/>
+	<entry name="RavenGuard/ScoutTrainingDescription" value="Enhances Infantry's ability to act as Reconnissaince, expanding their scouting range."/>
+	<entry name="RavenGuard/ScoutTrainingFlavor" value="Every Marine spends time as a Neophyte, learning to stalk their prey and identify important targets. However the Scions of Shadow spend nearly double the time of the average Chapter, engaging the enemy as the light Scout infantry - resulting in their near impeccable eyesight being improved even moreso."/>
+	<entry name="RavenGuard/ImprovedSensors" value="Enhanced Sensors"/>
+	<entry name="RavenGuard/ImprovedSensorsDescription" value="Enhances Vehicles' ability to act as Reconnissaince, expanding their scouting range."/>
+	<entry name="RavenGuard/ImprovedSensorsFlavor" value=""/>
+
+	<entry name="RavenGuard/CorvusArmor" value="Mk VI 'Corvus' Armor"/>
+	<entry name="RavenGuard/CorvusArmorDescription" value="Enhances the sight and movement of the Marine, at the cost of Armor."/>
+	<entry name="RavenGuard/CorvusArmorFlavor" value="Mark VI Armour is a lighter armour, with less protection over the joints of the suit. It also comes equipped with enhanced sensor equipment in the cone of the helmet, resulting in the 'Beakie' look."/>
+
+	<entry name="RavenGuard/ArtificerArmor" value="Mk VI Artificer Armor"/>
+	<entry name="RavenGuard/ArtificerArmorDescription" value="Enhances the sight and movement of the Marine, but without the cost of Armor."/>
+	<entry name="RavenGuard/ArtificerArmorFlavor" value="Mark VI Armour is a lighter armour, with less protection over the joints of the suit. It also comes equipped with enhanced sensor equipment in the cone of the helmet, resulting in the 'Beakie' look. Fortunately, with the enhancements afforded by the custom-made suit of Artificer armor, the Marine receives all the benefits, without the loss of armor."/>
+
+	<entry name="RavenGuard/CityTier2" value="Fortress Expansion"/>
+	<entry name="RavenGuard/CityTier2Description" value="Increases the tile acquisition radius."/>
+	<entry name="RavenGuard/CityTier2Flavor" value="The second stage of the Fortress' construction has started. With the core facilities established, the Techmarines are authorised to expand their operations and create a second defensive line."/>
+	<entry name="RavenGuard/CityTier3" value="Advanced Redoubts"/>
+	<entry name="RavenGuard/CityTier3Description" value="Further increases the tile acquisition radius."/>
+	<entry name="RavenGuard/CityTier3Flavor" value="The third stage of the Fortress construction involves the creation of independent garrisons and buttresses along an additional line of city walls. In the shadow of those cyclopean barriers, Servitors and serfs spend their lives, scurrying from one task to another."/>
+	<entry name="RavenGuard/CityTier4" value="Fortress Supreme"/>
+	<entry name="RavenGuard/CityTier4Description" value="Finalizes the Fortress Expansion, with a final increase to the tile acquisition radius."/>
+	<entry name="RavenGuard/CityTier4Flavor" value="With this expansion, the Master Artificer declares the fortress complete. Now it rivals in scale a Hive City. Inside its impregnable walls, you could be anywhere in the Imperium. Outside, the local tribes come from enormous distances to pay tribute, whilst their finest warriors hope to be accepted for the lethal trials that might lead to their being modified into a Space Marine."/>
+
+	<!-- Death Korps of Krieg -->
+	<entry name="Krieg/ObserverNearby" value="Artillery Spotter Support"/>
+	<entry name="Krieg/ObserverNearbyDescription" value="Range improvement from nearby Artillery Spotters."/>
+	<entry name="Krieg/ObserverNearbyFlavor" value=""/>
+
+</language>

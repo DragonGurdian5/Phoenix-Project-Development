@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<!-- Raven Guard -->
+	<entry name="RavenGuard0" value="Kayvaan"/>
+	<entry name="RavenGuard1" value="Aajz"/>
+	<entry name="RavenGuard2" value="Tyris"/>
+	<entry name="RavenGuard3" value="Aethon"/>
+	<entry name="RavenGuard4" value="Shykos"/>
+	<entry name="RavenGuard5" value="Vaen"/>
+	<entry name="RavenGuard6" value="Vorkys"/>
+	<entry name="RavenGuard7" value="Kraephen"/>
+	<entry name="RavenGuard8" value="Vicinte"/>
+	<entry name="RavenGuardCount" value="9"/>
+
+	<!-- Iron Warriors -->
+	<entry name="IronWarriors0" value="Honosou"/>
+	<entry name="IronWarriorsCount" value="1"/>
+
+	<!-- Death Korps of Krieg-->
+	<entry name="Krieg0" value="Wilhelm"/>
+	<entry name="Krieg1" value="Johanne"/>
+	<entry name="Krieg2" value="Lucius"/>
+	<entry name="Krieg3" value="Griswald"/>
+	<entry name="Krieg4" value="Dietrich"/>
+	<entry name="Krieg5" value="Volst"/>
+	<entry name="KriegCount" value="6"/>
+	
+</language>
