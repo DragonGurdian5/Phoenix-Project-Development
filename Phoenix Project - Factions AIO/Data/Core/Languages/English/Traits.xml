@@ -43,4 +43,8 @@
 	<entry name="Krieg/ObserverNearbyDescription" value="Range improvement from nearby Artillery Spotters."/>
 	<entry name="Krieg/ObserverNearbyFlavor" value=""/>
 
+	<entry name="Krieg/CultOfSacrifice" value="Cult of Sacrifice"/>
+	<entry name="Krieg/CultOfSacrificeDescription" value="Grants Morale Loss prevention buff, and immunity to Fear."/>
+	<entry name="Krieg/CultOfSacrificeFlavor" value="“In life, war. In death, peace. In life, shame. In death, atonement.” — Final Litany of the Litany of Sacrifice"/>
+
 </language>
