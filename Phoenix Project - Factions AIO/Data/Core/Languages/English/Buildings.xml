@@ -129,4 +129,17 @@
 	<entry name="Krieg/Research" value="Officio Tactica"/>
 	<entry name="Krieg/Vehicles" value="Manufactorum"/>
 
+	<!-- Imperial Fists -->
+	<entry name="ImperialFists/Headquarters" value="Command Bastion"/>
+	<entry name="ImperialFists/Construction" value="Techmarine Quarters"/>
+	<entry name="ImperialFists/Infantry" value="Apothecarion"/>
+	<entry name="ImperialFists/Aircraft" value="Landing Bays"/>
+	<entry name="ImperialFists/Vehicles" value="Machine Bays"/>
+	<entry name="ImperialFists/Energy" value="Plasma Generators"/>
+	<entry name="ImperialFists/Influence" value="Aquilan Statue"/>
+	<entry name="ImperialFists/Loyalty" value="Reflection Chamber"/>
+	<entry name="ImperialFists/Research" value="Librarium"/>
+	<entry name="ImperialFists/Requisitions" value="Refractorum"/>
+	<entry name="ImperialFists/Housing" value="Marine Barracks"/>
+
 </language>
