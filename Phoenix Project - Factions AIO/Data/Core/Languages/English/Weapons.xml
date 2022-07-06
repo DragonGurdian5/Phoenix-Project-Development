@@ -1,18 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <language>
+	<!-- Generic -->
+	<entry name="SMLightningClaws" value="Lightning Claws"/>
+	<entry name="SMLightningClawsFlavor" value=""/>
+
+	<entry name="Boltgun" value="Godwyn Pattern Boltgun"/>
+
 	<!-- Raven Guard -->
 	<entry name="Blackout" value="Blackout"/>
 	<entry name="BlackoutFlavor" value=""/>
 	<entry name="RavensTalons" value="Raven's Talons"/>
 	<entry name="RavensTalonsFlavor" value=""/>
 
-	<entry name="SMLightningClaws" value="Lightning Claws"/>
-	<entry name="SMLightningClawsFlavor" value=""/>
-
 	<!-- Death Korps of Krieg -->
 	<entry name="LuciusLasgun" value="Lucius Pattern Lasgun"/>
+	<entry name="LuciusLasgunFlavor" value="A slow-firing and hard-hitting lasgun, employed virtually exclusively by the Death Korps of Krieg."/>
 
 	<entry name="ATBundle" value="Death Korps Krak Grenade Bundle"/>
+	<entry name="ATBundleFlavor" value="Sometimes, throwing an explosive at a fortification or tank isn't enough. Sometimes, you have to throw five of them. And sometimes, you only have time for one…" />
 
 	<entry name="KriegDangerClose" value="Artillery Bombardment"/>
 	
