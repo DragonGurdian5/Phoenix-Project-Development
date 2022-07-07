@@ -4,15 +4,9 @@
 	<entry name="RavenGuard/Wraithslip" value="Wraithslip"/>
 	<entry name="RavenGuard/WraithslipDescription" value="Prevents the unit from being targeted by overwatch attacks."/>
 	<entry name="RavenGuard/WraithslipFlavor" value="While many Armies train Infiltrators, it is among the forefront of the teachings of the Sons of Corax. To move unseen, where and be where the enemy wishes you weren't."/>
-	<entry name="RavenGuard/AmbushForest" value="Masters of Ambush"/>
-	<entry name="RavenGuard/AmbushForestDescription" value="Amplifies the abilities of Overwatch, while within advantageous Features."/>
-	<entry name="RavenGuard/AmbushForestFlavor" value="The Sons of Corax are quite familiar with lying in wait. Rooftops, windows, trees, even the most miniscule speck of Shadow is a valid place for them to sit - and wait."/>
-	<entry name="RavenGuard/AmbushRuins" value="Masters of Ambush"/>
-	<entry name="RavenGuard/AmbushRuinsDescription" value="Amplifies the abilities of Overwatch, while within advantageous Features."/>
-	<entry name="RavenGuard/AmbushRuinsFlavor" value="The Sons of Corax are quite familiar with lying in wait. Rooftops, windows, trees, even the most miniscule speck of Shadow is a valid place for them to sit - and wait."/>
-	<entry name="RavenGuard/AmbushCity" value="Masters of Ambush"/>
-	<entry name="RavenGuard/AmbushCityDescription" value="Amplifies the abilities of Overwatch, while within advantageous Features."/>
-	<entry name="RavenGuard/AmbushCityFlavor" value="The Sons of Corax are quite familiar with lying in wait. Rooftops, windows, trees, even the most miniscule speck of Shadow is a valid place for them to sit - and wait."/>
+	<entry name="RavenGuard/MastersOfAmbush" value="Masters of Ambush"/>
+	<entry name="RavenGuard/MastersOfAmbushDescription" value="Amplifies the abilities of Overwatch, while within advantageous Features."/>
+	<entry name="RavenGuard/MastersOfAmbushFlavor" value="The Sons of Corax are quite familiar with lying in wait. Rooftops, windows, trees, even the most miniscule speck of Shadow is a valid place for them to sit - and wait."/>
 	<entry name="RavenGuard/ScoutTraining" value="Advanced Scout Training"/>
 	<entry name="RavenGuard/ScoutTrainingDescription" value="Enhances Infantry's ability to act as Reconnissaince, expanding their scouting range."/>
 	<entry name="RavenGuard/ScoutTrainingFlavor" value="Every Marine spends time as a Neophyte, learning to stalk their prey and identify important targets. However the Scions of Shadow spend nearly double the time of the average Chapter, engaging the enemy as the light Scout infantry - resulting in their near impeccable eyesight being improved even moreso."/>
@@ -46,5 +40,12 @@
 	<entry name="Krieg/CultOfSacrifice" value="Cult of Sacrifice"/>
 	<entry name="Krieg/CultOfSacrificeDescription" value="Grants Morale Loss prevention buff, and immunity to Fear."/>
 	<entry name="Krieg/CultOfSacrificeFlavor" value="“In life, war. In death, peace. In life, shame. In death, atonement.” — Final Litany of the Litany of Sacrifice"/>
+
+	<!-- Imperial Fists -->
+	<entry name="ImperialFists/BoardingShield" value="Boarding Shields"/>
+	<entry name="ImperialFists/BoardingShieldDescription" value="Provides a bonus to defense in close quarters fights, such as Cities and Ruins."/>
+
+	<entry name="ImperialFists/ArtificerArmor" value="Mk III Artificer Armor"/>
+	<entry name="ImperialFists/ArtificerArmorDescription" value="Enhances the Armor of the Marine, without a loss of movement."/>
 
 </language>

@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<trait>
+<trait category="Buff">
 	<modifiers>
 		<modifier>
 			<conditions>
+				<unit>
+					<overwatching/>
+				</unit>
 				<unit match="Any">
 					<trait name="City"/>
+					<trait name="Forest"/>
 					<trait name="ImperialRuin"/>
 				</unit>
 			</conditions>
 			<effects>
-				<invulnerableDamageReduction min="0.2"/>
+				<attacks mul="0.2"/>
 			</effects>
 		</modifier>
 	</modifiers>

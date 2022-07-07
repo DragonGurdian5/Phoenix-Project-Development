@@ -176,9 +176,7 @@
 		<trait name="Hero"/>
 		<trait name="IronHalo"/>
 		<trait name="RavenGuard/Wraithslip"/>
-		<trait name="RavenGuard/AmbushForest"/>
-		<trait name="RavenGuard/AmbushCity"/>
-		<trait name="RavenGuard/AmbushRuins"/>
+		<trait name="RavenGuard/MastersOfAmbush"/>
 		<trait name="RavenGuard/ArtificerArmor"/>
 	</traits>
 </unit>

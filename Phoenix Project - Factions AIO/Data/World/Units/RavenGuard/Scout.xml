@@ -161,8 +161,6 @@
 		<trait name="LastStand" requiredUpgrade="SpaceMarines/LastStand"/>
 		<trait name="TeleportHomer" requiredUpgrade="SpaceMarines/TeleportHomer"/>
 		<trait name="RavenGuard/ScoutTraining" requiredUpgrade="RavenGuard/ScoutTraining"/>
-		<trait name="RavenGuard/AmbushForest"/>
-		<trait name="RavenGuard/AmbushCity"/>
-		<trait name="RavenGuard/AmbushRuins"/>
+		<trait name="RavenGuard/MastersOfAmbush"/>
 	</traits>
 </unit>

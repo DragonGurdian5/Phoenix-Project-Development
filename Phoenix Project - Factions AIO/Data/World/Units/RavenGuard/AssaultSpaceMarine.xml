@@ -180,9 +180,7 @@
 		<trait name="RavenGuard/ScoutTraining" requiredUpgrade="RavenGuard/ScoutTraining"/>
 		<trait name="RavenGuard/Wraithslip"/>
 		<trait name="AndTheyShallKnowNoFear"/>
-		<trait name="RavenGuard/AmbushForest"/>
-		<trait name="RavenGuard/AmbushCity"/>
-		<trait name="RavenGuard/AmbushRuins"/>
+		<trait name="RavenGuard/MastersOfAmbush"/>
         <trait name="RavenGuard/CorvusArmor"/>
 	</traits>
 </unit>
