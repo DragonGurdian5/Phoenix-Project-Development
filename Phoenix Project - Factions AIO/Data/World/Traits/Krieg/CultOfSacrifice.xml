@@ -6,5 +6,10 @@
 				<moraleLossFactor add="-0.5"/>
 			</effects>
 		</modifier>
+		<modifier visible="0">
+			<effects>
+				<moraleMax add="4"/>
+			</effects>
+		</modifier>
 	</modifiers>
 </trait>

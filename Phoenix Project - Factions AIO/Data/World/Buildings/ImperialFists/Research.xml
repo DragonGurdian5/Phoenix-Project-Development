@@ -13,6 +13,7 @@
 		<modifier>
 			<effects>
 				<research add="6"/>
+				<production add="6"/>
 			</effects>
 		</modifier>
 	</modifiers>
@@ -23,4 +24,7 @@
 			</effects>
 		</modifier>
 	</strategyModifiers>
+	<actions>
+		<produceUnit unit="ImperialFists/Librarian" requiredUpgrade="ImperialFists/Librarian"/>
+	</actions>
 </building>

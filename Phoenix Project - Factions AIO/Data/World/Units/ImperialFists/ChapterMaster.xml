@@ -7,11 +7,11 @@
 				idleAnimationCount="3"
 				idleContinuously="1"
 				normalWeight="0.1"
-				scale="1.1 1.1 1.1"
+				scale="1.25 1.25 1.25"
 				bloodBone="Chest"
 				walker="1"/>
 	</model>
-	<group size="3" rowSize="3" memberDeltaX="80" memberDeltaY="90"/>
+	<group size="1" rowSize="1" memberDeltaX="80" memberDeltaY="90"/>
 	<weapons>
 		<weapon name="TwinLinkedLascannon">
 			<model>
@@ -35,13 +35,6 @@
 						muzzleCount="6"
 						fireInterval="0.6"
 						missileScale="0.4" />
-			</model>
-		</weapon>
-		<weapon name="None" enabled="0" requiredUpgrade="SpaceMarines/Omniscope">
-			<model>
-				<weapon mesh="Weapons/SpaceMarines/DevastatorCenturionCrest"
-						material="Units/SpaceMarines/DevastatorCenturion"
-						bone="Chest"/>
 			</model>
 		</weapon>
 	</weapons>
@@ -100,29 +93,6 @@
 						soundCount="1"/>
 			</model>		
 		</move>
-		<signum cooldown="5"
-				consumedActionPoints="0" consumedMovement="0"
-				name="SpaceMarines/Omniscope"
-				requiredUpgrade="SpaceMarines/Omniscope">
-			<model>
-				<action sound="Actions/Omniscope"/>
-			</model>
-			<beginTargets>
-				<selfTarget>
-					<areas>
-						<area affects="Unit">
-							<modifiers>
-								<modifier>
-									<effects>
-										<addTrait duration="1" name="SpaceMarines/Omniscope"/>
-									</effects>
-								</modifier>
-							</modifiers>
-						</area>
-					</areas>
-				</selfTarget>
-			</beginTargets>
-		</signum>
 		<orbitalDeployment requiredUpgrade="SpaceMarines/OrbitalDeployment">
 			<model>
 				<action sound="Actions/DropPod"/>
@@ -142,6 +112,7 @@
 		<trait name="AndTheyShallKnowNoFear"/>
 		<trait name="ExtraInfantryArmour" requiredUpgrade="SpaceMarines/ExtraInfantryArmour"/>
 		<trait name="LastStand" requiredUpgrade="SpaceMarines/LastStand"/>
-		<trait name="SlowAndPurposeful"/>
+		<trait name="SlowAndPurposeful"/>	
+		<trait name="ImperialFists/Vendetta"/>
 	</traits>
 </unit>

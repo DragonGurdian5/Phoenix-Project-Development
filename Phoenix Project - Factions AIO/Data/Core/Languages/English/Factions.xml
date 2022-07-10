@@ -9,6 +9,8 @@
 	<entry name="AdeptusMechanicusDiscoveredIronWarriors" value=""/>
 	<entry name="AdeptusMechanicusDefeatedImperialFists" value=""/>
 	<entry name="AdeptusMechanicusDiscoveredImperialFists" value=""/>
+	<entry name="AdeptusMechanicusDefeatedMordianIronGuard" value=""/>
+	<entry name="AdeptusMechanicusDiscoveredMordianIronGuard" value=""/>
 
 	<entry name="AstraMilitarumDefeatedRavenGuard" value="It is a sad day when the Angels of the Emperor must die by our blades. Though they may be defeated for now, the Sons of Corax are masters of Stealth. Be wary, more shall be lurking around the darkest corners and where the light is dim. Don't assume you have won the day if they retreat, they have simply begun to corner you. Stay vigilant."/>
 	<entry name="AstraMilitarumDiscoveredRavenGuard" value="It is the Sons of Corax! Oh Glorious Days! The Angels of the Emperor have arrived to… by the Emperor… They're aiming at us! Hold men! Hold the line and give fire! If these Angels of Death wish to strike against the Emperor's Hammer, they will be slamemd like nails!"/>
@@ -18,6 +20,8 @@
 	<entry name="AstraMilitarumDiscoveredIronWarriors" value=""/>
 	<entry name="AstraMilitarumDefeatedImperialFists" value=""/>
 	<entry name="AstraMilitarumDiscoveredImperialFists" value=""/>
+	<entry name="AstraMilitarumDefeatedMordianIronGuard" value=""/>
+	<entry name="AstraMilitarumDiscoveredMordianIronGuard" value=""/>
 
 	<entry name="ChaosSpaceMarinesDefeatedRavenGuard" value=""/>
 	<entry name="ChaosSpaceMarinesDiscoveredRavenGuard" value=""/>
@@ -27,6 +31,8 @@
 	<entry name="ChaosSpaceMarinesDiscoveredIronWarriors" value=""/>
 	<entry name="ChaosSpaceMarinesDefeatedImperialFists" value=""/>
 	<entry name="ChaosSpaceMarinesDiscoveredImperialFists" value=""/>
+	<entry name="ChaosSpaceMarinesDefeatedMordianIronGuard" value=""/>
+	<entry name="ChaosSpaceMarinesDiscoveredMordianIronGuard" value=""/>
 
 	<entry name="EldarDefeatedRavenGuard" value=""/>
 	<entry name="EldarDiscoveredRavenGuard" value=""/>
@@ -36,6 +42,8 @@
 	<entry name="EldarDiscoveredIronWarriors" value=""/>
 	<entry name="EldarDefeatedImperialFists" value=""/>
 	<entry name="EldarDiscoveredImperialFists" value=""/>
+	<entry name="EldarDefeatedMordianIronGuard" value=""/>
+	<entry name="EldarDiscoveredMordianIronGuard" value=""/>
 
 	<entry name="NecronsDefeatedRavenGuard" value=""/>
 	<entry name="NecronsDiscoveredRavenGuard" value=""/>
@@ -45,6 +53,8 @@
 	<entry name="NecronsDiscoveredIronWarriors" value=""/>
 	<entry name="NecronsDefeatedImperialFists" value=""/>
 	<entry name="NecronsDiscoveredImperialFists" value=""/>
+	<entry name="NecronsDefeatedMordianIronGuard" value=""/>
+	<entry name="NecronsDiscoveredMordianIronGuard" value=""/>
 
 	<entry name="OrksDefeatedRavenGuard" value=""/>
 	<entry name="OrksDiscoveredRavenGuard" value=""/>
@@ -54,6 +64,8 @@
 	<entry name="OrksDiscoveredIronWarriors" value=""/>
 	<entry name="OrksDefeatedImperialFists" value=""/>
 	<entry name="OrksDiscoveredImperialFists" value=""/>
+	<entry name="OrksDefeatedMordianIronGuard" value=""/>
+	<entry name="OrksDiscoveredMordianIronGuard" value=""/>
 
 	<entry name="SpaceMarinesDefeatedRavenGuard" value=""/>
 	<entry name="SpaceMarinesDiscoveredRavenGuard" value=""/>
@@ -63,6 +75,8 @@
 	<entry name="SpaceMarinesDiscoveredIronWarriors" value=""/>
 	<entry name="SpaceMarinesDefeatedImperialFists" value=""/>
 	<entry name="SpaceMarinesDiscoveredImperialFists" value=""/>
+	<entry name="SpaceMarinesDefeatedMordianIronGuard" value=""/>
+	<entry name="SpaceMarinesDiscoveredMordianIronGuard" value=""/>
 
 	<entry name="TauDefeatedRavenGuard" value="While the Gue'la elite caused the spread of the Greater Good to slow, it does not impeed our progress too much. With proper drones and techniques, we can - and have - conquered them."/>
 	<entry name="TauDiscoveredRavenGuard" value="These Gue'la elite stand the same height as their caste, but they stay in the shadows and strike when we stop looking. Follow the teachings of the Monat Kais - engage them only at distance, and keep your surroundings at all times."/>
@@ -72,6 +86,8 @@
 	<entry name="TauDiscoveredIronWarriors" value=""/>
 	<entry name="TauDefeatedImperialFists" value=""/>
 	<entry name="TauDiscoveredImperialFists" value=""/>
+	<entry name="TauDefeatedMordianIronGuard" value=""/>
+	<entry name="TauDiscoveredMordianIronGuard" value=""/>
 	
 	<entry name="TyranidsDefeatedRavenGuard" value="Our Prey decided to hold their ground and did so in vain, just for turning into fuel and more bodies for the hive. Honor matters nothing in the face of survival. Next time, will they finally learn what lurks in the darkness is beyond them?"/>
 	<entry name="TyranidsDiscoveredRavenGuard" value="A tougher prey has been found. Conventional minor organisms have been proven ineffective against their armor and combat effectiveness. Their numbers should not be underestimated as well. However, it is nothing that cannot be overcome. Let them realize who is the hunter here. No underdeveloped genetic enhancement shall stop the swarm."/>
@@ -81,6 +97,8 @@
 	<entry name="TyranidsDiscoveredIronWarriors" value=""/>
 	<entry name="TyranidsDefeatedImperialFists" value=""/>
 	<entry name="TyranidsDiscoveredImperialFists" value=""/>
+	<entry name="TyranidsDefeatedMordianIronGuard" value=""/>
+	<entry name="TyranidsDiscoveredMordianIronGuard" value=""/>
 
 	<!-- Faction Defeats -->
 	<entry name="RavenGuardDefeatedAdeptusMechanicus" value=""/>
@@ -126,6 +144,17 @@
 	<entry name="ImperialFistsDefeatedTau" value=""/>
 	<entry name="ImperialFistsDefeatedTyranids" value=""/>
 	<entry name="ImperialFistsDefeatedImperialFists" value=""/>
+	
+	<entry name="MordianIronGuardDefeatedAdeptusMechanicus" value=""/>
+	<entry name="MordianIronGuardDefeatedAstraMilitarum" value=""/>
+	<entry name="MordianIronGuardDefeatedChaosSpaceMarines" value=""/>
+	<entry name="MordianIronGuardDefeatedEldar" value=""/>
+	<entry name="MordianIronGuardDefeatedNecrons" value=""/>
+	<entry name="MordianIronGuardDefeatedOrks" value=""/>
+	<entry name="MordianIronGuardDefeatedSpaceMarines" value=""/>
+	<entry name="MordianIronGuardDefeatedTau" value=""/>
+	<entry name="MordianIronGuardDefeatedTyranids" value=""/>
+	<entry name="MordianIronGuardDefeatedMordianIronGuard" value=""/>
 
 	<!-- Faction Discoveries -->
 	<entry name="RavenGuardDiscoveredAdeptusMechanicus" value=""/>
@@ -171,6 +200,17 @@
 	<entry name="ImperialFistsDiscoveredTau" value=""/>
 	<entry name="ImperialFistsDiscoveredTyranids" value=""/>
 	<entry name="ImperialFistsDiscoveredImperialFists" value=""/>
+	
+	<entry name="MordianIronGuardDiscoveredAdeptusMechanicus" value=""/>
+	<entry name="MordianIronGuardDiscoveredAstraMilitarum" value=""/>
+	<entry name="MordianIronGuardDiscoveredChaosSpaceMarines" value=""/>
+	<entry name="MordianIronGuardDiscoveredEldar" value=""/>
+	<entry name="MordianIronGuardDiscoveredNecrons" value=""/>
+	<entry name="MordianIronGuardDiscoveredOrks" value=""/>
+	<entry name="MordianIronGuardDiscoveredSpaceMarines" value=""/>
+	<entry name="MordianIronGuardDiscoveredTau" value=""/>
+	<entry name="MordianIronGuardDiscoveredTyranids" value=""/>
+	<entry name="MordianIronGuardDiscoveredMordianIronGuard" value=""/>
 
 	<!-- Faction Flavors -->
 	<entry name="RavenGuard" value="[SM] Raven Guard Chapter"/>
@@ -180,8 +220,6 @@
 
 	<entry name="ImperialFists" value="[SM] Imperial Fists Chapter"/>
 	<entry name="ImperialFistsProperties" value="<style name='Title'/>Terran Praetorians<br/><icon texture='GUI/Bullet'/><style name='Bold'/>Initial Challenge:<style name='Default'/> <style color='GUI/Green'/>Easy<style color='Default'/><br/><icon texture='GUI/Bullet'/><style name='Bold'/>Stalwart Fortress:<style name='Default'/> A single city that is deployed from orbit.<br/><icon texture='GUI/Bullet'/><style name='Bold'/>Requisitions:<style name='Default'/> Food and ore resources are replaced by a single soil-independent requisitions resource.<br/><icon texture='GUI/Bullet'/><style name='Bold'/>Battlebarge Operations:<style name='Default'/> Deploy tactical operations such as scans and bombardments anywhere on the battlefield.<br/><icon texture='GUI/Bullet'/><style name='Bold'/>Masters of Defense:<style name='Default'/> Deploy your walls, and hold your ground. Nigh-unbreakable armour and defenses leave the Sons of Dorn stalwart defenders, wherever they may be.<br/><icon texture='GUI/Bullet'/><style name='Bold'/>Vendetta:<style name='Default'/> The Sons of Dorn receive bonuses to fighting the Iron Warriors, as a result of their millenia-old vendetta against one another."/>
-	
-	
 	<entry name="ImperialFistsFlavor" value="<style name='Italic'/>“There is no enemy. The foe on the battlefield is merely the manifestation of that which we must overcome. He is doubt, and fear, and despair. Every battle is fought within. Conquer the battlefield that lies inside you, and the enemy disappears like the illusion he is.”<br/> — Rogal Dorn, Primarch of the Imperial Fists"/>
 	<entry name="ImperialFistsShortFlavor" value=""/>
 	
@@ -194,6 +232,11 @@
 	<entry name="IronWarriorsProperties" value="<style name='Title'/>Iron Within, Iron Without<br/><icon texture='GUI/Bullet'/><style name='Bold'/>Initial Challenge:<style name='Default'/> <style color='GUI/Yellow'/>Medium<style color='Default'/><br/><icon texture='GUI/Bullet'/><style name='Bold'/>Chaos Cultists:<style name='Default'/> Cheap fodder infantry that can found cities and increase city growth.<br/><icon texture='GUI/Bullet'/><style name='Bold'/>Iron Fortress:<style name='Default'/> Empowered fortifications, summoned from the depths of the Warp.<br/><icon texture='GUI/Bullet'/><style name='Bold'/>Siegemasters:<style name='Default'/> Employ siege tactics with brutal efficiency, and demolish enemy fortificataions.<br/><icon texture='GUI/Bullet'/><style name='Bold'/>It Will Not Die:<style name='Default'/> Daemon engines that regenerate hitpoints each turn and even consume the souls of their enemies.<br/><icon texture='GUI/Bullet'/><style name='Bold'/>Infernal Augmentatione:<style name='Default'/> Damn the “blessings” of Chaos, and remove such mutated limbs. Replace them with Bionics, to more efficiently enhance Troops.<br/><icon texture='GUI/Bullet'/><style name='Bold'/>Veterans of the Long War:<style name='Default'/> Veteran units with increased morale that gain a bonus to melee accuracy against loyal Space Marine units.<br><icon texture='GUI/Bullet'/><style name='Bold'/>Vendetta:<style name='Default'/> A personal hatred against the Imperial Fists enhances the reflexes and tenacity of the IV Legion when fighting them."/>
 	<entry name="IronWarriorsFlavor" value="<style name='Italic'/>“From Iron, cometh Strength. From Strength, cometh Will. From Will, cometh Faith. From Faith, cometh Honour. From Honour, cometh Iron!”<br> — Iron Warriors Litany of Unbreaking"/>
 	<entry name="IronWarriorsShortFlavor" value=""/>
+
+	<entry name="MordianIronGuard" value="[IG] Mordian Iron Guard"/>
+	<entry name="MordianIronGuardProperties" value="<style name='Title'/>Iron Discipline<br/><icon texture='GUI/Bullet'/><style name='Bold'/>Initial Challenge:<style name='Default'/> <style color='GUI/Red'/>Hard<style color='Default'/><br/>"/>
+	<entry name="MordianIronGuardFlavor" value=""/>
+	<entry name="MordianIronGuardShortFlavor" value=""/>
 
 	<!-- Endgame Flavors -->
 	<entry name="RavenGuardWonEliminationFlavor" value=""/>

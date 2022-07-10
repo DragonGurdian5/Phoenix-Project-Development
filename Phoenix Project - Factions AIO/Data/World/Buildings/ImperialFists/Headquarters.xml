@@ -17,6 +17,7 @@
 				<populationLimit add="6"/>
 				<requisitions add="12"/>
 				<research add="6"/>
+				<production add="6"/>
 			</effects>
 		</modifier>
 	</modifiers>
@@ -24,6 +25,11 @@
 		<trait name="ImperialFists/CityTier2" requiredUpgrade="ImperialFists/CityTier2"/>
 		<trait name="ImperialFists/CityTier3" requiredUpgrade="ImperialFists/CityTier3"/>
 		<trait name="ImperialFists/CityTier4" requiredUpgrade="ImperialFists/CityTier4"/>
+		<trait name="ImperialFists/CityTier5" requiredUpgrade="ImperialFists/CityTier5"/>
 		<trait name="Headquarters"/>
 	</traits>
+	<actions>
+		<produceUnit unit="ImperialFists/Captain" requiredUpgrade="ImperialFists/CommandTraining"/>
+		<produceUnit unit="ImperialFists/SiegeCaptain" requiredUpgrade="ImperialFists/DevastatorSpaceMarine"/>
+	</actions>
 </building>

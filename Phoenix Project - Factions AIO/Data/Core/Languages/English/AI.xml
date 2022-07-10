@@ -31,4 +31,13 @@
 	<entry name="ImperialFists1" value="Lysander"/>
 	<entry name="ImperialFistsCount" value="2"/>
 
+	<!-- Mordian Iron Guard -->
+	<entry name="MordianIronGuard0" value="Hermann Wolfram"/>
+	<entry name="MordianIronGuard1" value="S. R. Godfrey"/>
+	<entry name="MordianIronGuard2" value="Grimule"/>
+	<entry name="MordianIronGuard3" value="Richard Lemeaux"/>
+	<entry name="MordianIronGuard4" value="Kris Strotzky"/>
+	<entry name="MordianIronGuard5" value="Zackary Rundstendt"/>
+	<entry name="MordianIronGuardCount" value="6"/>
+
 </language>

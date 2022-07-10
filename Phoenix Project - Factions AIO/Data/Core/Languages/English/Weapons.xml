@@ -5,6 +5,10 @@
 	<entry name="SMLightningClawsFlavor" value=""/>
 
 	<entry name="Boltgun" value="Godwyn Pattern Boltgun"/>
+	<entry name="BoltgunFlavor" value=""/>
+
+	<entry name="StalkerBolter" value="Phoobos Pattern Stalker Bolter"/>
+	<entry name="StalkerBolterFlavor" value=""/>
 
 	<!-- Raven Guard -->
 	<entry name="Blackout" value="Blackout"/>
@@ -20,7 +24,16 @@
 	<entry name="ATBundleFlavor" value="Sometimes, throwing an explosive at a fortification or tank isn't enough. Sometimes, you have to throw five of them. And sometimes, you only have time for one…" />
 
 	<entry name="KriegDangerClose" value="Artillery Bombardment"/>
+	<entry name="KriegDangerCloseFlavor" value=""/>
 	
 	<entry name="KriegOrbitalBombardment" value="Artillery Bombardment"/>
+	<entry name="KriegOrbitalBombardmentFlavor" value=""/>
+
+	<!-- Mordian Iron Guard -->
+	<entry name="TriplexLasgun" value="Triplex Pattern Lasgun"/>
+	<entry name="TriplexLasgunFlavor" value="The standard lasgun of the Mordian Iron Guard, the Triplex has three distinct firing modes: Semi-Automatic, Automatic, and Supershot. The latter being capable of piercing even the thickest of Astartes Armors."/>
+
+	<entry name="TriplexLasgun_Overcharged" value="Triplex Pattern Lasgun (Overcharged)"/>
+	<entry name="TriplexLasgun_OverchargedFlavor" value="The standard lasgun of the Mordian Iron Guard, the Triplex has three distinct firing modes: Semi-Automatic, Automatic, and Supershot. The latter being capable of piercing even the thickest of Astartes Armors."/>
 
 </language>

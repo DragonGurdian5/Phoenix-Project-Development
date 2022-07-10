@@ -129,9 +129,10 @@
 	</actions>
 	<traits>
 		<trait name="AndTheyShallKnowNoFear"/>
-		<trait name="SpaceMarines/BolterDiscipline"/>
+		<trait name="ImperialFists/BolterDiscipline"/>
 		<trait name="ImperialFists/BoardingShield"/>
-		<trait name="ImperialFists/ArtificerArmor"/>
+		<trait name="ImperialFists/ArtificerArmor"/>	
+		<trait name="ImperialFists/Vendetta"/>
 		<trait name="ExtraInfantryArmour" requiredUpgrade="ImperialFists/ExtraInfantryArmour"/>
 	</traits>
 </unit>

@@ -4,63 +4,48 @@
 	<!-- Raven Guard -->
 	<entry name="RavenGuard/Aircraft" value="<string name='Buildings/RavenGuard/Aircraft'/>"/>
 	<entry name="RavenGuard/AircraftDescription" value="<string name='Buildings/RavenGuard/AircraftDescription'/>"/>
-	<entry name="RavenGuard/AircraftFlavor" value="<string name='Buildings/RavenGuard/AircraftFlavor'/>"/>
 	
 	<entry name="RavenGuard/Construction" value="<string name='Buildings/RavenGuard/Construction'/>"/>
 	<entry name="RavenGuard/ConstructionDescription" value="<string name='Buildings/RavenGuard/ConstructionDescription'/>"/>
-	<entry name="RavenGuard/ConstructionFlavor" value="<string name='Buildings/RavenGuard/ConstructionFlavor'/>"/>
 	
 	<entry name="RavenGuard/GeneseedBunker" value="<string name='Buildings/RavenGuard/GeneseedBunker'/>"/>
 	<entry name="RavenGuard/GeneseedBunkerDescription" value="<string name='Buildings/RavenGuard/GeneseedBunkerDescription'/>"/>
-	<entry name="RavenGuard/GeneseedBunkerFlavor" value="<string name='Buildings/RavenGuard/GeneseedBunkerFlavor'/>"/>
 	
 	<entry name="RavenGuard/CompanyCommand" value="Command Training"/>
 	<entry name="RavenGuard/CompanyCommandDescription" value="Request direct assistance from the Command Elements of the Chapter."/>
-	<entry name="RavenGuard/CompanyCommandFlavor" value="<string name='Buildings/RavenGuard/HeroesFlavor'/>"/>
 	
 	<entry name="RavenGuard/Housing" value="<string name='Buildings/RavenGuard/Housing'/>"/>
 	<entry name="RavenGuard/HousingDescription" value="<string name='Buildings/RavenGuard/HousingDescription'/>"/>
-	<entry name="RavenGuard/HousingFlavor" value="<string name='Buildings/RavenGuard/HousingFlavor'/>"/>
 	
 	<entry name="RavenGuard/Loyalty" value="<string name='Buildings/RavenGuard/Loyalty'/>"/>
 	<entry name="RavenGuard/LoyaltyDescription" value="<string name='Buildings/RavenGuard/LoyaltyDescription'/>"/>
-	<entry name="RavenGuard/LoyaltyFlavor" value="<string name='Buildings/RavenGuard/LoyaltyFlavor'/>"/>
 	
 	<entry name="RavenGuard/Vehicles" value="<string name='Buildings/RavenGuard/Vehicles'/>"/>
 	<entry name="RavenGuard/VehiclesDescription" value="<string name='Buildings/RavenGuard/VehiclesDescription'/>"/>
-	<entry name="RavenGuard/VehiclesFlavor" value="<string name='Buildings/RavenGuard/VehiclesFlavor'/>"/>
 	
 	<entry name="RavenGuard/Apothecary" value="Apothecaries"/>
 	<entry name="RavenGuard/ApothecaryDescription" value="<string name='Units/RavenGuard/ApothecaryDescription'/>"/>
-	<entry name="RavenGuard/ApothecaryFlavor" value="<string name='Units/RavenGuard/ApothecaryFlavor'/>"/>
 	
 	<entry name="RavenGuard/Captain" value="Captain"/>
 	<entry name="RavenGuard/CaptainDescription" value="<string name='Units/RavenGuard/CaptainDescription'/>"/>
-	<entry name="RavenGuard/CaptainFlavor" value="<string name='Units/RavenGuard/CaptainFlavor'/>"/>
 	
 	<entry name="RavenGuard/Librarian" value="Librarians"/>
 	<entry name="RavenGuard/LibrarianDescription" value="<string name='Units/RavenGuard/LibrarianDescription'/>"/>
-	<entry name="RavenGuard/LibrarianFlavor" value="<string name='Units/RavenGuard/LibrarianFlavor'/>"/>
 	
 	<entry name="RavenGuard/Chaplain" value="Chaplains"/>
 	<entry name="RavenGuard/ChaplainDescription" value="<string name='Units/RavenGuard/ChaplainDescription'/>"/>
-	<entry name="RavenGuard/ChaplainFlavor" value="<string name='Units/RavenGuard/ChaplainFlavor'/>"/>
-	
+
 	<entry name="RavenGuard/DevastatorSpaceMarine" value="<string name='Units/RavenGuard/DevastatorSpaceMarine'/>"/>
 	<entry name="RavenGuard/DevastatorSpaceMarineDescription" value="<string name='Units/RavenGuard/DevastatorSpaceMarineDescription'/>"/>
-	<entry name="RavenGuard/DevastatorSpaceMarineFlavor" value="<string name='Units/RavenGuard/DevastatorSpaceMarineFlavor'/>"/>
 
 	<entry name="RavenGuard/AssaultSpaceMarine" value="<string name='Units/RavenGuard/AssaultSpaceMarine'/>"/>
 	<entry name="RavenGuard/AssaultSpaceMarineDescription" value="<string name='Units/RavenGuard/AssaultSpaceMarineDescription'/>"/>
-	<entry name="RavenGuard/AssaultSpaceMarineFlavor" value="<string name='Units/RavenGuard/AssaultSpaceMarineFlavor'/>"/>
 	
 	<entry name="RavenGuard/Scout" value="<string name='Units/RavenGuard/Scout'/>"/>
 	<entry name="RavenGuard/ScoutDescription" value="<string name='Units/RavenGuard/ScoutDescription'/>"/>
-	<entry name="RavenGuard/ScoutFlavor" value="<string name='Units/RavenGuard/ScoutFlavor'/>"/>
 	
 	<entry name="RavenGuard/Terminator" value="<string name='Units/RavenGuard/Terminator'/>"/>
 	<entry name="RavenGuard/TerminatorDescription" value="<string name='Units/RavenGuard/TerminatorDescription'/>"/>
-	<entry name="RavenGuard/TerminatorFlavor" value="<string name='Units/RavenGuard/TerminatorFlavor'/>"/>
 
 	<entry name="RavenGuard/VeteranAssault" value="Vanguard Veterans"/>
 	<entry name="RavenGuard/VeteranAssaultDescription" value=""/>
@@ -88,23 +73,18 @@
 
 	<entry name="RavenGuard/CityTier2" value="<string name='Traits/RavenGuard/CityTier2'/>"/>
 	<entry name="RavenGuard/CityTier2Description" value="Increases the tile acquisition radius of the city."/>
-	<entry name="RavenGuard/CityTier2Flavor" value="<string name='Traits/RavenGuard/CityTier2Flavor'/>"/>
 	
 	<entry name="RavenGuard/CityTier3" value="<string name='Traits/RavenGuard/CityTier3'/>"/>
 	<entry name="RavenGuard/CityTier3Description" value="<string name='Traits/RavenGuard/CityTier2Description'/>"/>
-	<entry name="RavenGuard/CityTier3Flavor" value="<string name='Traits/RavenGuard/CityTier3Flavor'/>"/>
 	
 	<entry name="RavenGuard/CityTier4" value="<string name='Traits/RavenGuard/CityTier4'/>"/>
 	<entry name="RavenGuard/CityTier4Description" value="<string name='Traits/RavenGuard/CityTier2Description'/>"/>
-	<entry name="RavenGuard/CityTier4Flavor" value="<string name='Traits/RavenGuard/CityTier4Flavor'/>"/>
 	
 	<entry name="RavenGuard/FragGrenade" value="<string name='Weapons/FragGrenade'/>"/>
 	<entry name="RavenGuard/FragGrenadeDescription" value="Grants several Infantry units the ability to throw anti-infantry grenades."/>
-	<entry name="RavenGuard/FragGrenadeFlavor" value="<string name='Weapons/FragGrenadeFlavor'/>"/>
 	
 	<entry name="RavenGuard/OrbitalScan" value="<string name='Actions/OrbitalScan'/>"/>
 	<entry name="RavenGuard/OrbitalScanDescription" value="<string name='Actions/OrbitalScanDescription'/>"/>
-	<entry name="RavenGuard/OrbitalScanFlavor" value="<string name='Actions/OrbitalScanFlavor'/>"/>
 
 	<entry name="RavenGuard/MovementSpeed" value="Enhanced Servos"/>
 	<entry name="RavenGuard/MovementSpeedDescription" value="Enhance the Movement Speed of Infantry and Walkers."/>
@@ -141,135 +121,362 @@
 
 	<!-- Iron Warriors -->
 	<entry name="IronWarriors/Aircraft" value="Helhaunted Eyrie"/>
+	<entry name="IronWarriors/AircraftDescription" value=""/>
 
 	<entry name="IronWarriors/Construction" value="Hellforges"/>
+	<entry name="IronWarriors/ConstructionDescription" value=""/>
 	
 	<entry name="IronWarriors/Heroes" value="<string name='Buildings/IronWarriors/Heroes'/>"/>
+	<entry name="IronWarriors/HeroesDescription" value="<string name='Buildings/IronWarriors/HeroesDescription'/>"/>
 
 	<entry name="IronWarriors/Housing" value="<string name='Buildings/IronWarriors/Housing'/>"/>
+	<entry name="IronWarriors/HousingDescription" value=""/>
 
 	<entry name="IronWarriors/Infantry" value="<string name='Buildings/IronWarriors/Infantry'/>"/>
+	<entry name="IronWarriors/InfantryDescription" value=""/>
 
 	<entry name="IronWarriors/Loyalty" value="<string name='Buildings/IronWarriors/Loyalty'/>"/>
+	<entry name="IronWarriors/LoyaltyDescription" value=""/>
 
 	<entry name="IronWarriors/Vehicles" value="<string name='Buildings/IronWarriors/Vehicles'/>"/>
+	<entry name="IronWarriors/VehiclesDescription" value=""/>
 
 	<entry name="IronWarriors/LordOfIron" value="The Lord of Iron"/>
+	<entry name="IronWarriors/LordOfIronDescription" value=""/>
 	
 	<entry name="IronWarriors/Defiler" value="Defilers"/>
+	<entry name="IronWarriors/DefilerDescription" value=""/>
 	
 	<entry name="IronWarriors/Havoc" value="Havocs Squad"/>
+	<entry name="IronWarriors/HavocDescription" value=""/>
 	
 	<entry name="IronWarriors/Helbrute" value="Helbrutes"/>
+	<entry name="IronWarriors/HelbruteDescription" value=""/>
 	
 	<entry name="IronWarriors/Maulerfiend" value="Maulerfiends"/>
+	<entry name="IronWarriors/MaulerfiendDescription" value=""/>
 	
 	<entry name="IronWarriors/Obliterator" value="Obliterators"/>
+	<entry name="IronWarriors/ObliteratorDescription" value=""/>
 	
 	<entry name="IronWarriors/Raptor" value="Raptors"/>
+	<entry name="IronWarriors/RaptorDescription" value=""/>
 	
 	<entry name="IronWarriors/Venomcrawler" value="Venomcrawlers"/>
+	<entry name="IronWarriors/VenomcrawlerDescription" value=""/>
 	
 	<entry name="IronWarriors/Warpsmith" value="Warpsmith"/>
+	<entry name="IronWarriors/WarpsmithDescription" value=""/>
 
 	<entry name="IronWarriors/CityTier2" value="Iron Foundations"/>
+	<entry name="IronWarriors/CityTier2Description" value=""/>
 
 	<entry name="IronWarriors/CityTier3" value="A New Iron Cage"/>
+	<entry name="IronWarriors/CityTier3Description" value=""/>
 
 	<entry name="IronWarriors/DirgeCaster" value="Dirge Caster"/>
+	<entry name="IronWarriors/DirgeCasterDescription" value=""/>
 	
 	<entry name="IronWarriors/ExtraInfantryArmor" value="Warp-Touched Armor"/>
+	<entry name="IronWarriors/ExtraInfantryArmorDescription" value=""/>
 	
 	<entry name="IronWarriors/ExtraVehicleArmor" value="Warp-forged Hulls"/>
+	<entry name="IronWarriors/ExtraVehicleArmorDescription" value=""/>
 
 	<entry name="IronWarriors/FragGrenade" value="Fragmentation Grenades"/>
+	<entry name="IronWarriors/FragGrenadeDescription" value=""/>
 	
 	<entry name="IronWarriors/KrakGrenade" value="Krak Grenades"/>
+	<entry name="IronWarriors/KrakGrenadeDescription" value=""/>
 	
 	<entry name="IronWarriors/MeltaBomb" value="Melta Bombs"/>
+	<entry name="IronWarriors/MeltaBombDescription" value=""/>
 	
 	<entry name="IronWarriors/WarpflameGargoyles" value="<string name='Upgrades/ChaosSpaceMarines/WarpflameGargoyles'/>"/>
 	<entry name="IronWarriors/WarpflameGargoylesDescription" value="<string name='Upgrades/ChaosSpaceMarines/WarpflameGargoylesDescription'/>"/>
 
 	<!-- Death Korps of Krieg -->
 	<entry name="Krieg/Aircraft" value="Aeronautica Imperialis Contacts"/>
+	<entry name="Krieg/AircraftDescription" value=""/>
 
     <entry name="Krieg/Construction" value="Additional Labourers"/>
+    <entry name="Krieg/ConstructionDescription" value=""/>
 
     <entry name="Krieg/Heroes" value="Shrine to the Emperor"/>
+    <entry name="Krieg/HeroesDescription" value=""/>
 
     <entry name="Krieg/Housing" value="Barracks Production"/>
+    <entry name="Krieg/HousingDescription" value=""/>
     
     <entry name="Krieg/Loyalty" value="Sanctum Imperialis"/>
+    <entry name="Krieg/LoyaltyDescription" value=""/>
     
     <entry name="Krieg/Vehicles" value="Wargear Manfuactorums"/>
+    <entry name="Krieg/VehiclesDescription" value=""/>
 
     <entry name="Krieg/Chimera" value="Chimeras"/>
     <entry name="Krieg/ChimeraDescription" value=""/>
-    <entry name="Krieg/ChiemraFlavor" value=""/>
 
     <entry name="Krieg/Baneblade" value="Baneblades"/>
+    <entry name="Krieg/BanebladeDescription" value=""/>
 
     <entry name="Krieg/Basilisk" value="Basilisks"/>
+    <entry name="Krieg/BasiliskDescription" value=""/>
 
     <entry name="Krieg/DevilDog" value="Devil Dogs"/>
+    <entry name="Krieg/DevilDogDescription" value=""/>
 
     <entry name="Krieg/Entrenchment" value="Entrenching Tools"/>
+    <entry name="Krieg/EntrenchmentDescription" value=""/>
 
     <entry name="Krieg/Grenadiers" value="Grenadiers"/>
+    <entry name="Krieg/GrenadiersDescription" value=""/>
 
     <entry name="Krieg/HeavyWeaponsSquad" value="Heavy Weapons Squads"/>
+    <entry name="Krieg/HeavyWeaponsSquadDescription" value=""/>
 
     <entry name="Krieg/Hydra" value="Hydras"/>
+    <entry name="Krieg/HydraDescription" value=""/>
 
     <entry name="Krieg/LemanRussBattleTank" value="Leman Russ Battle Tank"/>
+    <entry name="Krieg/LemanRussBattleTankDescription" value=""/>
 
     <entry name="Krieg/MarauderBomber" value="Marauder Bombers"/>
+    <entry name="Krieg/MarauderBomberDescription" value=""/>
 
     <entry name="Krieg/Quartermasters" value="Quartermasters"/>
+    <entry name="Krieg/QuartermastersDescription" value=""/>
 
     <entry name="Krieg/Snipers" value="Marksmen Squads"/>
+    <entry name="Krieg/SnipersDescription" value=""/>
 
     <entry name="Krieg/Thunderbolt" value="Thunderbolts"/>
+    <entry name="Krieg/ThunderboltDescription" value=""/>
 
     <entry name="Krieg/TankCommander" value="Tank Commander"/>
+    <entry name="Krieg/TankCommanderDescription" value=""/>
     
     <entry name="Krieg/ArtilleryObserver" value="Artillery Observers"/>
+    <entry name="Krieg/ArtilleryObserverDescription" value=""/>
 
     <entry name="Krieg/AdditionalHeavyBolters" value="Additional Heavy Bolters"/>
+    <entry name="Krieg/AdditionalHeavyBoltersDescription" value=""/>
 
     <entry name="Krieg/BanebladeLascannon" value="Baneblade Upgrades"/>
+    <entry name="Krieg/BanebladeLascannonDescription" value=""/>
 
     <entry name="Krieg/BlastDamage" value="Improved Explosive Casings"/>
+    <entry name="Krieg/BlastDamageDescription" value=""/>
 
     <entry name="Krieg/BoltDamage" value="Kraken Bolt Shells"/>
+    <entry name="Krieg/BoltDamageDescription" value=""/>
 
     <entry name="Krieg/CamoNetting" value="Camo Netting"/>
+    <entry name="Krieg/CamoNettingDescription" value=""/>
 
     <entry name="Krieg/ChaffLauncher" value="Chaff Launchers"/>
+    <entry name="Krieg/ChaffLauncherDescription" value=""/>
 
     <entry name="Krieg/CityTier2" value="Command Expansion"/>
+    <entry name="Krieg/CityTier2Description" value=""/>
 
     <entry name="Krieg/CityTier3" value="Command Expansion"/>
+    <entry name="Krieg/CityTier3Description" value=""/>
 
     <entry name="Krieg/DozerBlade" value="Dozer Blades"/>
+    <entry name="Krieg/DozerBladeDescription" value=""/>
 
     <entry name="Krieg/ExtraVehicleArmor" value="Extra Vehicle Armor"/>
+    <entry name="Krieg/ExtraVehicleArmorDescription" value=""/>
 
     <entry name="Krieg/FragGrenade" value="Fragmentation Grenades"/>
+    <entry name="Krieg/FragGrenadeDescription" value=""/>
 
     <entry name="Krieg/HunterKillerMissile" value="Hunter-Killer Missiles"/>
+    <entry name="Krieg/HunterKillerMissileDescription" value=""/>
 
     <entry name="Krieg/KrakGrenade" value="Krak Grenades"/>
+    <entry name="Krieg/KrakGrenadeDescription" value=""/>
 
     <entry name="Krieg/LasDamage" value="Hotshot Powerpacks"/>
+    <entry name="Krieg/LasDamageDescription" value=""/>
 
     <entry name="Krieg/RecoveryGear" value="Recovery Gear"/>
+    <entry name="Krieg/RecoveryGearDescription" value=""/>
 
     <entry name="Krieg/SkystrikeMissile" value="Skystrike Missiles"/>
+    <entry name="Krieg/SkystrikeMissileDescription" value=""/>
 
     <entry name="Krieg/SmokeLauncher" value="Smoke Launchers"/>
+    <entry name="Krieg/SmokeLauncherDescription" value=""/>
 
     <entry name="Krieg/VoxCaster" value="Vox Casters"/>
+    <entry name="Krieg/VoxCasterDescription" value=""/>
+
+	<!-- Imperial Fists -->
+	<entry name="ImperialFists/AdditionalHeavyBolters" value="Additional Heavy Bolters"/>
+	<entry name="ImperialFists/AdditionalHeavyBoltersDescription" value=""/>
+
+	<entry name="ImperialFists/Aircraft" value="<string name='Buildings/ImperialFists/Aircraft'/>"/>
+	<entry name="ImperialFists/AircraftDescription" value=""/>
+
+	<entry name="ImperialFists/Apothecary" value="Apothecaries"/>
+	<entry name="ImperialFists/ApothecaryDescription" value=""/>
+
+	<entry name="ImperialFists/AquilaMacroCannon" value="Aquila Macrocannon"/>
+	<entry name="ImperialFists/AquilaMacroCannonDescription" value=""/>
+
+	<entry name="ImperialFists/AssaultSpaceMarine" value="Assault Marines"/>
+	<entry name="ImperialFists/AssaultSpaceMarineDescription" value=""/>
+
+	<entry name="ImperialFists/BlastDamage" value="Improved Explosive Casings"/>
+	<entry name="ImperialFists/BlastDamageDescription" value=""/>
+
+	<entry name="ImperialFists/BolsterDefences" value="Bolster Defenses"/>
+	<entry name="ImperialFists/BolsterDefencesDescription" value=""/>
+
+	<entry name="ImperialFists/BoltDamage" value="Kraken Bolt Shells"/>
+	<entry name="ImperialFists/BoltDamageDescription" value=""/>
+
+	<entry name="ImperialFists/CeramitePlating" value="Ceramite Plating"/>
+	<entry name="ImperialFists/CeramitePlatingDescription" value=""/>
+
+	<entry name="ImperialFists/Chaplain" value="Chaplains"/>
+	<entry name="ImperialFists/ChaplainDescription" value=""/>
+
+	<entry name="ImperialFists/ChapterMaster" value="Chapter Command"/>
+	<entry name="ImperialFists/ChapterMasterDescription" value=""/>
+
+	<entry name="ImperialFists/CityTier2" value="City Expansion"/>
+	<entry name="ImperialFists/CityTier2Description" value=""/>
+
+	<entry name="ImperialFists/CityTier3" value="City Expansion"/>
+	<entry name="ImperialFists/CityTier3Description" value=""/>
+
+	<entry name="ImperialFists/CityTier4" value="City Expansion"/>
+	<entry name="ImperialFists/CityTier4Description" value=""/>
+
+	<entry name="ImperialFists/CityTier5" value="City Expansion"/>
+	<entry name="ImperialFists/CityTier5Description" value=""/>
+
+	<entry name="ImperialFists/CombatShield" value="Combat Shields"/>
+	<entry name="ImperialFists/CombatShieldDescription" value=""/>
+
+	<entry name="ImperialFists/CommandTraining" value="Command Training"/>
+	<entry name="ImperialFists/CommandTrainingDescription" value=""/>
+
+	<entry name="ImperialFists/Construction" value="Techmarine Sanctums"/>
+	<entry name="ImperialFists/ConstructionDescription" value=""/>
+
+	<entry name="ImperialFists/DefensiveDoctrine" value="Defensive Doctrine"/>
+	<entry name="ImperialFists/DefensiveDoctrineDescription" value=""/>
+
+	<entry name="ImperialFists/DevastatorCenturion" value="Devastator Centurions"/>
+	<entry name="ImperialFists/DevastatorCenturionDescription" value=""/>
+
+	<entry name="ImperialFists/DevastatorSpaceMarine" value="Devastator Marines"/>
+	<entry name="ImperialFists/DevastatorSpaceMarineDescription" value=""/>
+
+	<entry name="ImperialFists/DozerBlade" value="Dozer Blade"/>
+	<entry name="ImperialFists/DozerBladeDescription" value=""/>
+
+	<entry name="ImperialFists/Dreadnought" value="Dreadnoughts"/>
+	<entry name="ImperialFists/DreadnoughtDescription" value=""/>
+
+	<entry name="ImperialFists/ExtraInfantryArmour" value="Extra Infantry Armor"/>
+	<entry name="ImperialFists/ExtraInfantryArmourDescription" value=""/>
+
+	<entry name="ImperialFists/ExtraVehicleArmour" value="Extra Vehicle Armor"/>
+	<entry name="ImperialFists/ExtraVehicleArmourDescription" value=""/>
+
+	<entry name="ImperialFists/FortressOfRedemptionMissileSilo" value="Fortress Missile Silos"/>
+	<entry name="ImperialFists/FortressOfRedemptionMissileSiloDescription" value=""/>
+
+	<entry name="ImperialFists/FragGrenade" value="Fragmentation Grenades"/>
+	<entry name="ImperialFists/FragGrenadeDescription" value=""/>
+
+	<entry name="ImperialFists/Housing" value="Marine Quarters"/>
+	<entry name="ImperialFists/HousingDescription" value=""/>
+
+	<entry name="ImperialFists/Hunter" value="Hunter"/>
+	<entry name="ImperialFists/HunterDescription" value=""/>
+
+	<entry name="ImperialFists/HunterKillerMissile" value="Hunter-Killer Missiles"/>
+	<entry name="ImperialFists/HunterKillerMissileDescription" value=""/>
+
+	<entry name="ImperialFists/HurricaneBolter" value="Hurricane Bolters"/>
+	<entry name="ImperialFists/HurricaneBolterDescription" value=""/>
+
+	<entry name="ImperialFists/KrakGrenade" value="Krak Grenades"/>
+	<entry name="ImperialFists/KrakGrenadeDescription" value=""/>
+
+	<entry name="ImperialFists/LandRaider" value="Land Raider Phobos"/>
+	<entry name="ImperialFists/LandRaiderDescription" value=""/>
+
+	<entry name="ImperialFists/LandSpeeder" value="Land Speeders"/>
+	<entry name="ImperialFists/LandSpeederDescription" value=""/>
+
+	<entry name="ImperialFists/LasDamage" value="Lascannon Focus Devises"/>
+	<entry name="ImperialFists/LasDamageDescription" value=""/>
+
+	<entry name="ImperialFists/Librarian" value="Librarians"/>
+	<entry name="ImperialFists/LibrarianDescription" value=""/>
+
+	<entry name="ImperialFists/LocatorBeacon" value="Locator Beacons"/>
+	<entry name="ImperialFists/LocatorBeaconDescription" value=""/>
+
+	<entry name="ImperialFists/Loyalty" value="<string name='Buildings/ImperialFists/Loyalty'/>"/>
+	<entry name="ImperialFists/LoyaltyDescription" value=""/>
+	
+	<entry name="ImperialFists/OrbitalBombardment" value="Orbital Bombardment"/>
+	<entry name="ImperialFists/OrbitalBombardmentDescription" value=""/>
+
+	<entry name="ImperialFists/OrbitalDeployment" value="Drop Pods"/>
+	<entry name="ImperialFists/OrbitalDeploymentDescription" value=""/>
+
+	<entry name="ImperialFists/OrbitalScan" value="Orbital Observation"/>
+	<entry name="ImperialFists/OrbitalScanDescription" value=""/>
+
+	<entry name="ImperialFists/PredatorAnnihilator" value="Predator Lascannons"/>
+	<entry name="ImperialFists/PredatorAnnihilatorDescription" value=""/>
+
+	<entry name="ImperialFists/PredatorDestructor" value="Predator Chassis"/>
+	<entry name="ImperialFists/PredatorDestructorDescription" value=""/>
+
+	<entry name="ImperialFists/Razorback" value="Razorbacks"/>
+	<entry name="ImperialFists/RazorbackDescription" value=""/>
+
+	<entry name="ImperialFists/Razorback" value="Razorbacks"/>
+	<entry name="ImperialFists/RazorbackDescription" value=""/>
+
+	<entry name="ImperialFists/SiegeShield" value="Siege Shields"/>
+	<entry name="ImperialFists/SiegeShieldDescription" value=""/>
+
+	<entry name="ImperialFists/Signum" value="Signum"/>
+	<entry name="ImperialFists/SignumDescription" value=""/>
+
+	<entry name="ImperialFists/SmokeLauncher" value="Smoke Launchers"/>
+	<entry name="ImperialFists/SmokeLauncherDescription" value=""/>
+
+	<entry name="ImperialFists/SternguardVeteran" value="Sternguard Veterans"/>
+	<entry name="ImperialFists/SternguardVeteranDescription" value=""/>
+
+	<entry name="ImperialFists/StormravenGunship" value="Stormraven Gunships"/>
+	<entry name="ImperialFists/StormravenGunshipDescription" value=""/>
+
+	<entry name="ImperialFists/Terminator" value="Terminators"/>
+	<entry name="ImperialFists/TerminatorDescription" value=""/>
+
+	<entry name="ImperialFists/VanguardVeteran" value="Vanguard Veterans"/>
+	<entry name="ImperialFists/VanguardVeteranDescription" value=""/>
+
+	<entry name="ImperialFists/Vehicles" value="<string name='Buildings/ImperialFists/Vehicles'/>"/>
+	<entry name="ImperialFists/VehiclesDescription" value=""/>
+
+	<entry name="ImperialFists/Vindicator" value="Vindicators"/>
+	<entry name="ImperialFists/VindicatorDescription" value=""/>
+
+	<!-- Mordian Iron Guard -->
+	<entry name="MordianIronGuard/WIP" value="Tech Tree in Development..."/>
 
 </language>

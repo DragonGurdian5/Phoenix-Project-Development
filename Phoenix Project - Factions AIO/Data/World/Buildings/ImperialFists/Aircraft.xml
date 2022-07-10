@@ -33,9 +33,7 @@
 		</modifier>
 	</strategyModifiers>
 	<actions>
-		<!--
-		<produceUnit unit="SpaceMarines/StormtalonGunship"/>
-		<produceUnit unit="SpaceMarines/StormravenGunship" requiredUpgrade="SpaceMarines/StormravenGunship"/>
-		-->
+		<produceUnit unit="ImperialFists/StormtalonGunship"/>
+		<produceUnit unit="ImperialFists/StormravenGunship" requiredUpgrade="ImperialFists/StormravenGunship"/>
 	</actions>
 </building>

@@ -48,4 +48,20 @@
 	<entry name="ImperialFists/ArtificerArmor" value="Mk III Artificer Armor"/>
 	<entry name="ImperialFists/ArtificerArmorDescription" value="Enhances the Armor of the Marine, without a loss of movement."/>
 
+	<entry name="ImperialFists/Vendetta" value="Vendetta - Iron Warriors"/>
+
+
+	<!-- Iron Warriors -->
+	<entry name="IronWarriors/Vendetta" value="Vendetta - Imperial Fists"/>
+
+	<!-- Mordian Iron Guard-->
+	<entry name="MordianIronGuard/IronDiscipline" value="Iron Discipline"/>
+	<entry name="MordianIronGuard/IronDisciplineDescription" value="Grants Morale Loss prevention buff, and immunity to Fear."/>
+
+	<entry name="MordianIronGuard/LineSoldiers" value="Line Warfare Specialists"/>
+	<entry name="MordianIronGuard/LineSoldiersDescription" value="Improves Accuracy and provides a Morale Loss prevention buff, when adjacent to another Unit with this trait."/>
+
+	<entry name="MordianIronGuard/Paranoid" value="Paranoid"/>
+	<entry name="MordianIronGuard/ParanoidDescription" value="The Children of Mordian are so used to the confined spaces of their homeworld's Hive Cities, they tend to be very nervous - perhaps dangerously so - in open areas."/>
+
 </language>

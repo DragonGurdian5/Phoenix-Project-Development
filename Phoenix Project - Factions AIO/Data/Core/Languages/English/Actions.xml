@@ -49,7 +49,7 @@
 
 	<entry name="Krieg/ObserverNearby" value="Artillery Spotter Support"/>
 	<entry name="Krieg/ObserverNearbyDescription" value="Range improvement to nearby Artillery units."/>
-	<entry name="Krieg/ObserverNearbyFlavor" value=""/>
+	<entry name="Krieg/ObserverNearbyFlavor" value="Anyone can point a gun in the sky and pull the cord. But only Spotters can tell the crews exactly where to go, exactly when, for the most exact destruction."/>
 
 	<!-- Iron Warriors -->
 	<entry name="IronWarriors/convertWildlife" value="For the Dark Gods!"/>
@@ -58,7 +58,6 @@
 
 	<entry name="IronWarriors/WebwayRedoubt" value="Summon City"/>
 	<entry name="IronWarriors/WebwayRedoubtDescription" value="Summon a pillar of Warp energy to form the basis of a new Fortress."/>
-	<entry name="IronWarriors/WebwayRedoubtFlavor" value="While the Psykic cultists are little more than annoyances, they have soem uses. They can commune with the slaves of our Father, and summon from him a new foundation for a Fortress in our own glory."/>
-
+	<entry name="IronWarriors/WebwayRedoubtFlavor" value="While the Psykic cultists are little more than annoyances, they have some uses. They can commune with the slaves of our Father, and summon from him a new foundation for a Fortress in our own glory."/>
 
 </language>

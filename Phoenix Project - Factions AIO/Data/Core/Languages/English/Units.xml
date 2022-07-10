@@ -176,18 +176,60 @@
 	<entry name="Krieg/Headquarters" value="Death Korps Headquarters"/>
 
 	<!-- Imperial Fists -->
-	<entry name="ImperialFists/TacticalSpaceMarine" value="Tactical Marine Squad"/>
+	<entry name="ImperialFists/Apothecary" value="Apothecaries"/>
+
+	<entry name="ImperialFists/AquilaMacroCannon" value="Aquila Macro Cannon"/>
 
 	<entry name="ImperialFists/AssaultSpaceMarine" value="Assault Marine Squad"/>
 
-	<entry name="ImperialFists/DevastatorSpaceMarine" value="Devastator Marine Squad"/>
+	<entry name="ImperialFists/Captain" value="Captain"/>
 
-	<entry name="ImperialFists/VanguardVeteran" value="Vanguard Veteran Squad"/>
-	
-	<entry name="ImperialFists/SternguardVeteran" value="Sternguard Veteran Squad"/>
+	<entry name="ImperialFists/Chaplain" value="Chaplain in Terminator Armor"/>
 
 	<entry name="ImperialFists/ChapterMaster" value="Chapter Master"/>
 
+	<entry name="ImperialFists/DevastatorCenturion" value="Devastator Centurions"/>
+
+	<entry name="ImperialFists/DevastatorSpaceMarine" value="Devastator Marine Squad"/>
+
+	<entry name="ImperialFists/Dreadnought" value="Castraferrum Dreadnought"/>
+
+	<entry name="ImperialFists/FortressOfRedemption" value="Fortress of Redemption"/>
+
 	<entry name="ImperialFists/Headquarters" value="Fortress Command"/>
+
+	<entry name="ImperialFists/Hunter" value="Hunter"/>
+
+	<entry name="ImperialFists/LandRaider" value="Land Raider Phobos"/>
+
+	<entry name="ImperialFists/LandSpeeder" value="Land Speeders"/>
+
+	<entry name="ImperialFists/Librarian" value="Librarian"/>
+
+	<entry name="ImperialFists/PredatorAnnihilator" value="Predator Annihilator"/>
+
+	<entry name="ImperialFists/PredatorDestructor" value="Predator Destructor"/>
+
+	<entry name="ImperialFists/Razorback" value="Razorback"/>
+
+	<entry name="ImperialFists/Scout" value="Scout Squad"/>
+
+	<entry name="ImperialFists/ScoutBiker" value="Scout Bike Squad"/>
+
+	<entry name="ImperialFists/SiegeCaptain" value="Captain (Devastator)"/> 
+	
+	<entry name="ImperialFists/SternguardVeteran" value="Sternguard Veteran Squad"/>
+
+	<entry name="ImperialFists/StormravenGunship" value="Stormraven Gunship"/>
+
+	<entry name="ImperialFists/StormtalonGunship" value="Stormtalon Gunship"/>
+
+	<entry name="ImperialFists/TacticalSpaceMarine" value="Tactical Marine Squad"/>
+
+	<entry name="ImperialFists/Terminator" value="Terminator Squad"/>
+	
+	<entry name="ImperialFists/VanguardVeteran" value="Vanguard Veteran Squad"/>
+
+	<entry name="ImperialFists/Vindicator" value="Vindicator"/>
 
 </language>

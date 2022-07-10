@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<city actionsTitle="GUI/Orders">
+	<actions>
+
+	</actions>
+	<modifiers>
+		<modifier>
+			<effects>
+				<loyaltyPerCity base="0"/>
+			</effects>
+		</modifier>
+	</modifiers>
+	<traits>
+		
+	</traits>
+</city>

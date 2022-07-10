@@ -4,8 +4,10 @@
 		<modifier>
 			<conditions>
 				<encounter>
-					<opponent>
+					<opponent match="Any">
 						<faction name="SpaceMarines"/>
+						<faction name="RavenGuard"/>
+						<faction name="ImperialFists"/>
 					</opponent>
 				</encounter>
 			</conditions>

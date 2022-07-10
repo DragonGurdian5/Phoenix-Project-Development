@@ -76,11 +76,11 @@
 
 	<entry name="IronWarriors/Food" value="Renderer"/>
 	<entry name="IronWarriors/FoodDescription" value="Building that harvests food."/>
-	<entry name="IronWarriors/FoodFlavor" value=""/>
+	<entry name="IronWarriors/FoodFlavor" value="<string name='Buildings/ChaosSpaceMarines/FoodFlavor'/>"/>
 
-	<entry name="IronWarriors/Loyalty" value=""/>
+	<entry name="IronWarriors/Loyalty" value="Whipping Post"/>
 	<entry name="IronWarriors/LoyaltyDescription" value="Building that increases loyalty."/>
-	<entry name="IronWarriors/LoyaltyFlavor" value=""/>
+	<entry name="IronWarriors/LoyaltyFlavor" value="While it is moderately inefficient, sometimes the sacrifice of one - often at the hands of their own Squad - will prove dedication to the Warband and Legion. Those who obsewrve, will not make the same mistakes."/>
 
 	<entry name="IronWarriors/Headquarters" value="Iron Fortress"/>
 	<entry name="IronWarriors/HeadquartersDescription" value="Headquarters building that generates resources."/>
@@ -88,58 +88,129 @@
 
 	<entry name="IronWarriors/Heroes" value="Warsmith's Quarters"/>
 	<entry name="IronWarriors/HeroesDescription" value="Building that produces heroes as well as generates influence and increases loyalty."/>
-	<entry name="IronWarriors/HeroesFlavor" value=""/>
+	<entry name="IronWarriors/HeroesFlavor" value="Surely, any Army has a dedication to their Leader. Even when efficiency of the Legion is paramount, a location to focus and determine the next course of action is necessary. And, of course, rank has its privleges."/>
 
 	<entry name="IronWarriors/Housing" value="Captive Pens"/>
 	<entry name="IronWarriors/HousingDescription" value="Building that increases population limit."/>
-	<entry name="IronWarriors/HousingFlavor" value=""/>
+	<entry name="IronWarriors/HousingFlavor" value="Always, on any world, there are dissinters. Most are simply killed, but those who's retched lives are permitted to remain will find themselves in the Captive pens - from which they will be drawn and dragged to various slave mines and factories."/>
 
 	<entry name="IronWarriors/Infantry" value="Abominator's Genelab"/>
 	<entry name="IronWarriors/InfantryDescription" value="Building that produces infantry as well as generates food and research."/>
 	<entry name="IronWarriors/InfantryFlavor" value="Not all Chaos Space Marines date from the 30th millenium—others are recruited from civilians, brutally altered with geneseed taken from a fallen Marine. At this genelab, fallen Apothecaries operate on the strongest cultists drawn from Gladius’ ruined Hives. The few who survive the Abominators’ operations are implanted with Progenoid glands and recruited as new Chaos Space Marines."/>
 
-	<entry name="IronWarriors/Influence" value=""/>
+	<entry name="IronWarriors/Influence" value="Chaotic Shrine"/>
 	<entry name="IronWarriors/InfluenceDescription" value="Building that generates influence."/>
-	<entry name="IronWarriors/InfluenceFlavor" value=""/>
+	<entry name="IronWarriors/InfluenceFlavor" value="Even for those who do not 'worship' in the same form as their Cousins of other Legions, Chaos has its purposes. When the Dark Gods are satiated, they tend to provide advantage to their followers."/>
 
 	<entry name="IronWarriors/Ore" value="Slave Mines"/>
 	<entry name="IronWarriors/OreDescription" value="Building that harvests ore."/>
-	<entry name="IronWarriors/OreFlavor" value=""/>
+	<entry name="IronWarriors/OreFlavor" value="Pitiful Mortals are sent to the slave mines, to collect ores and precious metals from the underworks of the World. Sure, there are better methods, but when there is such a population of useless creatuers, why waste it?"/>
 
 	<entry name="IronWarriors/Research" value="Archive"/>
 	<entry name="IronWarriors/ResearchDescription" value="Building that generates research."/>
-	<entry name="IronWarriors/ResearchFlavor" value=""/>
+	<entry name="IronWarriors/ResearchFlavor" value="Rows upon rows, shelves running from floors to ceilings, the Archives holds thousands of schematics, teachings, ancient rites and even Psykic rituals. Little cannot be found here, it simply needs to be found..."/>
 
 	<entry name="IronWarriors/Vehicles" value="Infernal Fabricator"/>
 	<entry name="IronWarriors/VehiclesDescription" value="Building that produces ground vehicles as well as generates ore and influence."/>
 	<entry name="IronWarriors/VehiclesFlavor" value="Normally confined to the Soul Forges of the Warp, these incomprehensible mechanoid structures are responsible for the creation of all Daemon vehicles. Here, Mechatendril-wreathed Warpsmiths oversee the breaking and corruption of Machine Spirits of captured Imperial vehicles, as well as the forcible incorporation of Lesser Daemons, machinery and tortured flesh into Daemon Engines."/>
 
 	<!-- Death Korps of Krieg -->
-	<entry name="Krieg/Aircraft" value="Aeronautica Imperialis Uplink"/>
-	<entry name="Krieg/Construction" value="Labour Corps"/>
-	<entry name="Krieg/Energy" value="Plasma Ioniser"/>
-	<entry name="Krieg/Food" value="Soylens Farm"/>
-	<entry name="Krieg/Loyalty" value="Sanctum Imperialis"/>
 	<entry name="Krieg/Headquarters" value="Korps Headquarters"/>
+
+	<entry name="Krieg/Aircraft" value="Aeronautica Imperialis Uplink"/>
+	<entry name="Krieg/AircraftDescription" value="Building that produces Aircraft."/>
+	<entry name="Krieg/AircraftFlavor" value=""/>
+
+	<entry name="Krieg/Construction" value="Labour Corps"/>
+	<entry name="Krieg/ConstructionDescription" value="Building that constructs other Buildings."/>
+	<entry name="Krieg/ConstructionFlavor" value=""/>
+
+	<entry name="Krieg/Energy" value="Plasma Ioniser"/>
+	<entry name="Krieg/EnergyDescription" value="Building that produces Energy."/>
+	<entry name="Krieg/EnergyFlavor" value=""/>
+
+	<entry name="Krieg/Food" value="Soylens Farm"/>
+	<entry name="Krieg/FoodDescription" value="Building that produces Food."/>
+	<entry name="Krieg/FoodFlavor" value=""/>
+
+	<entry name="Krieg/Loyalty" value="Sanctum Imperialis"/>
+	<entry name="Krieg/LoyaltyDescription" value="Building that improves Loyalty."/>
+	<entry name="Krieg/LoyaltyFlavor" value=""/>
+
 	<entry name="Krieg/Heroes" value="Shrine of the Emperor"/>
+	<entry name="Krieg/HeroesDescription" value=""/>
+	<entry name="Krieg/HeroesFlavor" value=""/>
+
 	<entry name="Krieg/Housing" value="Death Korps Barracks"/>
+	<entry name="Krieg/HousingDescription" value="Building that increases Population Capacity."/>
+	<entry name="Krieg/HousingFlavor" value=""/>
+
 	<entry name="Krieg/Infantry" value="Vitaewomb Bunker"/>
+	<entry name="Krieg/InfantryDescription" value="Building that produces Infantry."/>
+	<entry name="Krieg/InfantryFlavor" value=""/>
+
 	<entry name="Krieg/Influence" value="Cogitator Station"/>
+	<entry name="Krieg/InfluenceDescription" value="Building that produces Influence."/>
+	<entry name="Krieg/InfluenceFlavor" value=""/>
+
 	<entry name="Krieg/Ore" value="Ore Extractor"/>
+	<entry name="Krieg/OreDescription" value="Building that produces Ore."/>
+	<entry name="Krieg/OreFlavor" value=""/>
+
 	<entry name="Krieg/Research" value="Officio Tactica"/>
+	<entry name="Krieg/ResearchDescription" value="Building that produces Research."/>
+	<entry name="Krieg/ResearchFlavor" value=""/>
+
 	<entry name="Krieg/Vehicles" value="Manufactorum"/>
+	<entry name="Krieg/VehiclesDescription" value="Building that produces Vehicles."/>
+	<entry name="Krieg/VehiclesFlavor" value=""/>
+
 
 	<!-- Imperial Fists -->
 	<entry name="ImperialFists/Headquarters" value="Command Bastion"/>
+	
+	<entry name="ImperialFists/Chapel" value="Reclusiam"/>
+	<entry name="ImperialFists/ChapelDescription" value="Building that produces Influence, as well as produces Chaplains."/>
+	<entry name="ImperialFists/ChapelFlavor" value=""/>
+	
 	<entry name="ImperialFists/Construction" value="Techmarine Quarters"/>
+	<entry name="ImperialFists/ConstructionDescription" value="Building that constructs other Buildings."/>
+	<entry name="ImperialFists/ConstructionFlavor" value=""/>
+	
 	<entry name="ImperialFists/Infantry" value="Apothecarion"/>
+	<entry name="ImperialFists/InfantryDescription" value="Building that produces Infantry."/>
+	<entry name="ImperialFists/InfantryFlavor" value=""/>
+	
 	<entry name="ImperialFists/Aircraft" value="Landing Bays"/>
+	<entry name="ImperialFists/AircraftDescription" value="Building that produces Aircraft."/>
+	<entry name="ImperialFists/AircraftFlavor" value=""/>
+	
 	<entry name="ImperialFists/Vehicles" value="Machine Bays"/>
+	<entry name="ImperialFists/VehiclesDescription" value="Building that produces Vehicles."/>
+	<entry name="ImperialFists/VehiclesFlavor" value=""/>
+	
 	<entry name="ImperialFists/Energy" value="Plasma Generators"/>
+	<entry name="ImperialFists/EnergyDescription" value="Building that produces Energy."/>
+	<entry name="ImperialFists/EnergyFlavor" value=""/>
+	
 	<entry name="ImperialFists/Influence" value="Aquilan Statue"/>
+	<entry name="ImperialFists/InfluenceDescription" value="Building that produces Influence."/>
+	<entry name="ImperialFists/InfluenceFlavor" value=""/>
+	
 	<entry name="ImperialFists/Loyalty" value="Reflection Chamber"/>
+	<entry name="ImperialFists/LoyaltyDescription" value="Building that improves Loyalty."/>
+	<entry name="ImperialFists/LoyaltyFlavor" value=""/>
+	
 	<entry name="ImperialFists/Research" value="Librarium"/>
+	<entry name="ImperialFists/ResearchDescription" value="Building that produces Research."/>
+	<entry name="ImperialFists/ResearchFlavor" value=""/>
+	
 	<entry name="ImperialFists/Requisitions" value="Refractorum"/>
+	<entry name="ImperialFists/RequisitionsDescription" value="Building that produces Requisitions"/>
+	<entry name="ImperialFists/RequisitionsFlavor" value=""/>
+
 	<entry name="ImperialFists/Housing" value="Marine Barracks"/>
+	<entry name="ImperialFists/HousingDescription" value="Building that increases Population Capacity."/>
+	<entry name="ImperialFists/HousingFlavor"/>
 
 </language>

@@ -50,6 +50,7 @@
 		<constructBuilding building="ImperialFists/Energy"/>
 		<constructBuilding building="ImperialFists/Research"/>
 		<constructBuilding building="ImperialFists/Influence"/>
+		<constructBuilding building="ImperialFists/Chapel"/>
 		<constructBuilding building="ImperialFists/Loyalty" requiredUpgrade="ImperialFists/Loyalty"/>
 		<constructBuilding building="ImperialFists/Housing" requiredUpgrade="ImperialFists/Housing"/>
 		<constructBuilding building="ImperialFists/Vehicles" requiredUpgrade="ImperialFists/Vehicles"/>

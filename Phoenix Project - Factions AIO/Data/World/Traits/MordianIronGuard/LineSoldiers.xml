@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<trait alwaysVisible="1" category="Buff">
+	<modifiers>
+		<modifier>
+			<conditions>
+				<unit match="Any">
+					<unitsInRange range="1">
+						<allied/>
+						<trait name="MordianIronGuard/LineSoldiers"/>
+					</unitsInRange>
+				</unit>
+			</conditions>
+			<effects>
+				<rangedAccuracy add="1"/>
+				<moraleLossFactor add="-0.1"/>
+			</effects>
+		</modifier>
+	</modifiers>
+</trait>

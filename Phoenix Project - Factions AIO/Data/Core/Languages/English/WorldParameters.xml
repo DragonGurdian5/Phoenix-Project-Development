@@ -36,4 +36,13 @@
 	<entry name="Difficulty5ImperialFists" value="Chapter Master"/>
 	<entry name="Difficulty6ImperialFists" value="Praetorian of Terra"/>
 
+	<!-- Mordian Iron Guard -->
+	<entry name="Difficulty0MordianIronGuard" value="Guardsman"/>
+	<entry name="Difficulty1MordianIronGuard" value="Corporal"/>
+	<entry name="Difficulty2MordianIronGuard" value="Sergeant"/>
+	<entry name="Difficulty3MordianIronGuard" value="Lieutenant"/>
+	<entry name="Difficulty4MordianIronGuard" value="Major"/>
+	<entry name="Difficulty5MordianIronGuard" value="Colonel"/>
+	<entry name="Difficulty6MordianIronGuard" value="General"/>
+
 </language>

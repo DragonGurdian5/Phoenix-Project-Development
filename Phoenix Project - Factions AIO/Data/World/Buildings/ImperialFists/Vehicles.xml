@@ -33,15 +33,14 @@
 		</modifier>
 	</strategyModifiers>
 	<actions>
-		<!--
-		<produceUnit unit="SpaceMarines/ScoutBiker"/>
-		<produceUnit unit="SpaceMarines/Razorback" requiredUpgrade="SpaceMarines/Razorback"/>
-		<produceUnit unit="SpaceMarines/LandSpeeder" requiredUpgrade="SpaceMarines/LandSpeeder"/>
-		<produceUnit unit="SpaceMarines/Hunter" requiredUpgrade="SpaceMarines/Hunter"/>
-		<produceUnit unit="SpaceMarines/Predator" requiredUpgrade="SpaceMarines/Predator"/>
-		<produceUnit unit="SpaceMarines/Dreadnought" requiredUpgrade="SpaceMarines/Dreadnought"/>
-		<produceUnit unit="SpaceMarines/Vindicator" requiredUpgrade="SpaceMarines/Vindicator"/>
-		<produceUnit unit="SpaceMarines/LandRaider" requiredUpgrade="SpaceMarines/LandRaider"/>
-		-->
+		<produceUnit unit="ImperialFists/ScoutBiker"/>
+		<produceUnit unit="ImperialFists/Razorback" requiredUpgrade="ImperialFists/Razorback"/>
+		<produceUnit unit="ImperialFists/LandSpeeder" requiredUpgrade="ImperialFists/LandSpeeder"/>
+		<produceUnit unit="ImperialFists/Hunter" requiredUpgrade="ImperialFists/Hunter"/>
+		<produceUnit unit="ImperialFists/PredatorDestructor" requiredUpgrade="ImperialFists/PredatorDestructor"/>
+		<produceUnit unit="ImperialFists/PredatorAnnihilator" requiredUpgrade="ImperialFists/PredatorAnnihilator"/>
+		<produceUnit unit="ImperialFists/Dreadnought" requiredUpgrade="ImperialFists/Dreadnought"/>
+		<produceUnit unit="ImperialFists/Vindicator" requiredUpgrade="ImperialFists/Vindicator"/>
+		<produceUnit unit="ImperialFists/LandRaider" requiredUpgrade="ImperialFists/LandRaider"/>
 	</actions>
 </building>

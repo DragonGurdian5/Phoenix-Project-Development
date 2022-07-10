@@ -34,7 +34,6 @@
 	</strategyModifiers>
 	<actions>
 		<produceUnit unit="ImperialFists/TacticalSpaceMarine"/>
-		<!-- 
 		<produceUnit unit="ImperialFists/Scout" requiredUpgrade="ImperialFists/Scout"/>
 		<produceUnit unit="ImperialFists/AssaultSpaceMarine" requiredUpgrade="ImperialFists/AssaultSpaceMarine"/>
 		<produceUnit unit="ImperialFists/DevastatorSpaceMarine" requiredUpgrade="ImperialFists/DevastatorSpaceMarine"/>
@@ -42,6 +41,5 @@
 		<produceUnit unit="ImperialFists/Terminator" requiredUpgrade="ImperialFists/Terminator"/> 
 		<produceUnit unit="ImperialFists/SternguardVeteran" requiredUpgrade="ImperialFists/SternguardVeteran"/>
 		<produceUnit unit="ImperialFists/VanguardVeteran" requiredUpgrade="ImperialFists/VanguardVeteran"/> 
-		-->
 	</actions>
 </building>
